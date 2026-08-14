@@ -115,7 +115,7 @@ A curated list of Google Apps Script resources. Want to add or fix something? Re
 ### Starter Kits
 
 * [enuchi/React-Google-Apps-Script](https://github.com/enuchi/React-Google-Apps-Script) ⭐ 1,525 | 🐛 32 | 🌐 JavaScript | 📅 2026-02-14 This is your boilerplate project for developing React apps inside Google Sheets, Docs, Forms and Slides projects. It's perfect for personal projects and for publishing complex add-ons in the G Suite Marketplace.
-* [apps-script-starter](https://github.com/labnol/apps-script-starter) ⭐ 1,249 | 🐛 6 | 🌐 JavaScript | 📅 2026-04-14 A starter kit for building Google Apps Script projects with modern JavaScript ES6, Webpack, Babel and ESLint inside Visual Studio Code
+* [apps-script-starter](https://github.com/labnol/apps-script-starter) ⭐ 1,251 | 🐛 6 | 🌐 JavaScript | 📅 2026-04-14 A starter kit for building Google Apps Script projects with modern JavaScript ES6, Webpack, Babel and ESLint inside Visual Studio Code
 * [howdy39/gas-clasp-starter](https://github.com/howdy39/gas-clasp-starter) ⭐ 259 | 🐛 0 | 🌐 TypeScript | 📅 2026-04-29 A starter template for Google Apps Script by clasp
 * [WildH0g/apps-script-engine-template](https://github.com/WildH0g/apps-script-engine-template) ⭐ 75 | 🐛 3 | 🌐 JavaScript | 📅 2025-11-04 A robust, highly configurable template for Google Apps Script projects with essential development tools out of the box
 * [PopGoesTheWza/ts-gas-project-starter](https://github.com/PopGoesTheWza/ts-gas-project-starter) ⭐ 67 | 🐛 6 | 🌐 JavaScript | 📅 2023-01-06 Sample repository for Typescript based Google Apps Script projects
@@ -225,7 +225,7 @@ A curated list of Google Apps Script resources. Want to add or fix something? Re
 
 * [ericyd/gdrive-copy](https://github.com/ericyd/gdrive-copy) ⚠️ Archived Google Drive Copy Folder
 * [Gmail Unsubscriber](https://github.com/labnol/unsubscribe-gmail) ⭐ 1,564 | 🐛 0 | 🌐 JavaScript | 📅 2025-04-04 Google Script for unsubscribing from emails newsletters and other bulk email in Gmail with one click.
-* [Code Blocks](https://github.com/alexwforsythe/code-blocks) ⭐ 786 | 🐛 94 | 🌐 JavaScript | 📅 2026-07-25 Syntax highlighting for Google Docs
+* [Code Blocks](https://github.com/alexwforsythe/code-blocks) ⭐ 787 | 🐛 94 | 🌐 JavaScript | 📅 2026-07-25 Syntax highlighting for Google Docs
 * [google-docs-add-on](https://github.com/Automattic/google-docs-add-on) ⭐ 168 | 🐛 59 | 🌐 JavaScript | 📅 2026-08-05 Publish to WordPress from Google Docs
 * [Davepar/gcalendarsync](https://github.com/Davepar/gcalendarsync) ⭐ 165 | 🐛 60 | 🌐 TypeScript | 📅 2026-07-20 Apps Script for syncing a Google Spreadsheet with Google Calendar
 * [mithunmanohar/woocommerce-orders-google-sheets-integration](https://github.com/mithunmanohar/woocommerce-orders-google-sheets-integration) ⭐ 117 | 🐛 30 | 🌐 JavaScript | 📅 2021-06-07 Connect and sync order data from your WooCommerce store to Google sheets automatically. A free alternative to Zapier-WooCommerce integration that saves new WooCommerce order details to google sheets. Version V2 with improved features is now available
@@ -336,4 +336,4 @@ A curated list of Google Apps Script resources. Want to add or fix something? Re
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._

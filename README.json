@@ -90,7 +90,7 @@
             "last_commit": "2023-04-19T18:46:51Z",
             "owner": "prasmussen",
             "repo": "gdrive",
-            "stars": 8959
+            "stars": 8958
           }
         },
         {
@@ -348,7 +348,7 @@
             "last_commit": "2026-04-14T05:55:18Z",
             "owner": "labnol",
             "repo": "apps-script-starter",
-            "stars": 1249
+            "stars": 1251
           }
         },
         {
@@ -1216,7 +1216,7 @@
             "last_commit": "2026-07-25T19:45:02Z",
             "owner": "alexwforsythe",
             "repo": "code-blocks",
-            "stars": 786
+            "stars": 787
           }
         },
         {
@@ -1704,7 +1704,7 @@
             "last_commit": "2022-11-16T19:26:06Z",
             "owner": "bradjasper",
             "repo": "ImportJSON",
-            "stars": 2131
+            "stars": 2130
           }
         },
         {
@@ -1780,7 +1780,7 @@
             "last_commit": "2022-11-16T19:26:06Z",
             "owner": "bradjasper",
             "repo": "ImportJSON",
-            "stars": 2131
+            "stars": 2130
           }
         },
         {
@@ -1886,7 +1886,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:06:40.423Z",
+    "last_updated": "2026-08-14T03:56:39.727Z",
     "original_repository": "oshliaer/google-apps-script-awesome-list",
     "original_repository_sha": "947e0d5e60d5c37eb56d05d723507724a5c85961",
     "enhanced_repository": "enhansome/google-apps-script-enhansome-list",
