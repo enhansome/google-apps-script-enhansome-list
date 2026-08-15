@@ -90,7 +90,7 @@
             "last_commit": "2023-04-19T18:46:51Z",
             "owner": "prasmussen",
             "repo": "gdrive",
-            "stars": 8958
+            "stars": 8957
           }
         },
         {
@@ -118,7 +118,7 @@
             "last_commit": "2025-03-12T00:58:59Z",
             "owner": "leonhartX",
             "repo": "gas-github",
-            "stars": 4435
+            "stars": 4436
           }
         },
         {
@@ -1188,7 +1188,7 @@
             "last_commit": "2023-02-09T15:35:06Z",
             "owner": "ericyd",
             "repo": "gdrive-copy",
-            "stars": 1584
+            "stars": 1583
           }
         },
         {
@@ -1667,7 +1667,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T01:39:35Z",
+            "last_commit": "2026-08-15T02:26:08Z",
             "owner": "ahochsteger",
             "repo": "gmail-processor",
             "stars": 587
@@ -1766,7 +1766,7 @@
             "last_commit": "2024-08-04T15:19:00Z",
             "owner": "dwyl",
             "repo": "learn-to-send-email-via-google-script-html-no-server",
-            "stars": 3214
+            "stars": 3213
           }
         },
         {
@@ -1861,7 +1861,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-06-09T15:00:23Z",
+            "last_commit": "2026-08-14T14:06:03Z",
             "owner": "bkper",
             "repo": "bkper-gs",
             "stars": 11
@@ -1886,7 +1886,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T03:56:39.727Z",
+    "last_updated": "2026-08-15T02:44:11.558Z",
     "original_repository": "oshliaer/google-apps-script-awesome-list",
     "original_repository_sha": "947e0d5e60d5c37eb56d05d723507724a5c85961",
     "enhanced_repository": "enhansome/google-apps-script-enhansome-list",
