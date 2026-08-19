@@ -70,7 +70,7 @@
             "last_commit": "2025-01-18T09:29:54Z",
             "owner": "ashtonfei",
             "repo": "google-apps-script-projects",
-            "stars": 153
+            "stars": 152
           }
         }
       ],
@@ -90,7 +90,7 @@
             "last_commit": "2023-04-19T18:46:51Z",
             "owner": "prasmussen",
             "repo": "gdrive",
-            "stars": 8957
+            "stars": 8954
           }
         },
         {
@@ -101,10 +101,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-06-08T19:17:22Z",
+            "last_commit": "2026-08-18T18:56:37Z",
             "owner": "google",
             "repo": "clasp",
-            "stars": 5785
+            "stars": 5787
           }
         },
         {
@@ -118,7 +118,7 @@
             "last_commit": "2025-03-12T00:58:59Z",
             "owner": "leonhartX",
             "repo": "gas-github",
-            "stars": 4445
+            "stars": 4447
           }
         },
         {
@@ -1092,7 +1092,7 @@
             "last_commit": "2026-06-16T13:10:18Z",
             "owner": "googleworkspace",
             "repo": "apps-script-oauth2",
-            "stars": 1743
+            "stars": 1744
           }
         },
         {
@@ -1667,7 +1667,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T22:43:55Z",
+            "last_commit": "2026-08-18T21:32:38Z",
             "owner": "ahochsteger",
             "repo": "gmail-processor",
             "stars": 587
@@ -1886,7 +1886,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T02:47:37.439Z",
+    "last_updated": "2026-08-19T02:49:49.898Z",
     "original_repository": "oshliaer/google-apps-script-awesome-list",
     "original_repository_sha": "947e0d5e60d5c37eb56d05d723507724a5c85961",
     "enhanced_repository": "enhansome/google-apps-script-enhansome-list",
