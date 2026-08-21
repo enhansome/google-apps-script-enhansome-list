@@ -17,7 +17,7 @@
                 "last_commit": "2026-07-30T15:21:47Z",
                 "owner": "googleworkspace",
                 "repo": "apps-script-samples",
-                "stars": 5233
+                "stars": 5234
               }
             },
             {
@@ -115,10 +115,10 @@
             "archived": false,
             "id": 113111403,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T21:51:56Z",
+            "last_commit": "2026-08-20T21:41:12Z",
             "owner": "google",
             "repo": "clasp",
-            "stars": 5788
+            "stars": 5793
           }
         },
         {
@@ -133,7 +133,7 @@
             "last_commit": "2025-03-12T00:58:59Z",
             "owner": "leonhartX",
             "repo": "gas-github",
-            "stars": 4450
+            "stars": 4453
           }
         },
         {
@@ -999,7 +999,7 @@
                 "archived": false,
                 "id": 1022965453,
                 "language": "TypeScript",
-                "last_commit": "2026-08-19T20:11:17Z",
+                "last_commit": "2026-08-20T13:33:23Z",
                 "owner": "MaksymStoianov",
                 "repo": "apps-script-utils",
                 "stars": 29
@@ -1289,7 +1289,7 @@
             "last_commit": "2023-02-09T15:35:06Z",
             "owner": "ericyd",
             "repo": "gdrive-copy",
-            "stars": 1581
+            "stars": 1580
           }
         },
         {
@@ -1849,7 +1849,7 @@
                     "last_commit": "2026-03-05T13:56:32Z",
                     "owner": "dchester",
                     "repo": "jsonpath",
-                    "stars": 1431
+                    "stars": 1430
                   }
                 }
               ],
@@ -1876,7 +1876,7 @@
                 "last_commit": "2024-06-09T20:38:03Z",
                 "owner": "youtube",
                 "repo": "api-samples",
-                "stars": 6019
+                "stars": 6018
               }
             },
             {
@@ -1891,7 +1891,7 @@
                 "last_commit": "2026-07-30T15:21:47Z",
                 "owner": "googleworkspace",
                 "repo": "apps-script-samples",
-                "stars": 5233
+                "stars": 5234
               }
             },
             {
@@ -1936,7 +1936,7 @@
                 "last_commit": "2025-07-16T10:24:15Z",
                 "owner": "Max-Makhrov",
                 "repo": "GoogleSheets",
-                "stars": 247
+                "stars": 245
               }
             },
             {
@@ -2039,7 +2039,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T02:48:40.947Z",
+    "last_updated": "2026-08-21T02:54:41.926Z",
     "original_repository": "oshliaer/google-apps-script-awesome-list",
     "original_repository_id": 84677016,
     "original_repository_sha": "947e0d5e60d5c37eb56d05d723507724a5c85961",
