@@ -17,7 +17,7 @@
                 "last_commit": "2026-07-30T15:21:47Z",
                 "owner": "googleworkspace",
                 "repo": "apps-script-samples",
-                "stars": 5234
+                "stars": 5235
               }
             },
             {
@@ -77,7 +77,7 @@
                 "last_commit": "2025-01-18T09:29:54Z",
                 "owner": "ashtonfei",
                 "repo": "google-apps-script-projects",
-                "stars": 152
+                "stars": 151
               }
             }
           ],
@@ -103,7 +103,7 @@
             "last_commit": "2023-04-19T18:46:51Z",
             "owner": "prasmussen",
             "repo": "gdrive",
-            "stars": 8954
+            "stars": 8953
           }
         },
         {
@@ -115,10 +115,10 @@
             "archived": false,
             "id": 113111403,
             "language": "TypeScript",
-            "last_commit": "2026-08-20T21:41:12Z",
+            "last_commit": "2026-08-21T13:59:45Z",
             "owner": "google",
             "repo": "clasp",
-            "stars": 5793
+            "stars": 5795
           }
         },
         {
@@ -133,7 +133,7 @@
             "last_commit": "2025-03-12T00:58:59Z",
             "owner": "leonhartX",
             "repo": "gas-github",
-            "stars": 4453
+            "stars": 4455
           }
         },
         {
@@ -525,7 +525,7 @@
                 "last_commit": "2017-04-03T02:14:00Z",
                 "owner": "artnc",
                 "repo": "gas-es6-webpack",
-                "stars": 23
+                "stars": 22
               }
             },
             {
@@ -1876,7 +1876,7 @@
                 "last_commit": "2024-06-09T20:38:03Z",
                 "owner": "youtube",
                 "repo": "api-samples",
-                "stars": 6018
+                "stars": 6019
               }
             },
             {
@@ -1891,7 +1891,7 @@
                 "last_commit": "2026-07-30T15:21:47Z",
                 "owner": "googleworkspace",
                 "repo": "apps-script-samples",
-                "stars": 5234
+                "stars": 5235
               }
             },
             {
@@ -2039,7 +2039,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T02:54:41.926Z",
+    "last_updated": "2026-08-22T02:45:52.942Z",
     "original_repository": "oshliaer/google-apps-script-awesome-list",
     "original_repository_id": 84677016,
     "original_repository_sha": "947e0d5e60d5c37eb56d05d723507724a5c85961",
