@@ -17,7 +17,7 @@
                 "last_commit": "2026-07-30T15:21:47Z",
                 "owner": "googleworkspace",
                 "repo": "apps-script-samples",
-                "stars": 5235
+                "stars": 5234
               }
             },
             {
@@ -118,7 +118,7 @@
             "last_commit": "2026-08-21T13:59:45Z",
             "owner": "google",
             "repo": "clasp",
-            "stars": 5795
+            "stars": 5796
           }
         },
         {
@@ -133,7 +133,7 @@
             "last_commit": "2025-03-12T00:58:59Z",
             "owner": "leonhartX",
             "repo": "gas-github",
-            "stars": 4455
+            "stars": 4456
           }
         },
         {
@@ -223,7 +223,7 @@
             "last_commit": "2018-09-13T19:26:20Z",
             "owner": "rudimusmaximus",
             "repo": "DevFlow",
-            "stars": 53
+            "stars": 54
           }
         },
         {
@@ -1289,7 +1289,7 @@
             "last_commit": "2023-02-09T15:35:06Z",
             "owner": "ericyd",
             "repo": "gdrive-copy",
-            "stars": 1580
+            "stars": 1581
           }
         },
         {
@@ -1794,7 +1794,7 @@
                     "archived": false,
                     "id": 8128277,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-19T16:10:47Z",
+                    "last_commit": "2026-08-22T09:54:57Z",
                     "owner": "ahochsteger",
                     "repo": "gmail-processor",
                     "stars": 587
@@ -1891,7 +1891,7 @@
                 "last_commit": "2026-07-30T15:21:47Z",
                 "owner": "googleworkspace",
                 "repo": "apps-script-samples",
-                "stars": 5235
+                "stars": 5234
               }
             },
             {
@@ -2039,7 +2039,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T02:45:52.942Z",
+    "last_updated": "2026-08-23T02:54:32.852Z",
     "original_repository": "oshliaer/google-apps-script-awesome-list",
     "original_repository_id": 84677016,
     "original_repository_sha": "947e0d5e60d5c37eb56d05d723507724a5c85961",
