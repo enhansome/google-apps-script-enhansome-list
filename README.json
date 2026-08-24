@@ -17,7 +17,7 @@
                 "last_commit": "2026-07-30T15:21:47Z",
                 "owner": "googleworkspace",
                 "repo": "apps-script-samples",
-                "stars": 5235
+                "stars": 5236
               }
             },
             {
@@ -103,7 +103,7 @@
             "last_commit": "2023-04-19T18:46:51Z",
             "owner": "prasmussen",
             "repo": "gdrive",
-            "stars": 8953
+            "stars": 8952
           }
         },
         {
@@ -118,7 +118,7 @@
             "last_commit": "2026-08-21T13:59:45Z",
             "owner": "google",
             "repo": "clasp",
-            "stars": 5796
+            "stars": 5798
           }
         },
         {
@@ -133,7 +133,7 @@
             "last_commit": "2025-03-12T00:58:59Z",
             "owner": "leonhartX",
             "repo": "gas-github",
-            "stars": 4459
+            "stars": 4461
           }
         },
         {
@@ -660,6 +660,21 @@
       "description": null,
       "items": [
         {
+          "node_type": "item",
+          "title": "Google Apps Script Library Database",
+          "description": "Directory with more than 200 libraries",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 240986559,
+            "language": "HTML",
+            "last_commit": "2026-05-18T08:00:05Z",
+            "owner": "tanaikech",
+            "repo": "Google-Apps-Script-Library-Database",
+            "stars": 142
+          }
+        },
+        {
           "children": [
             {
               "node_type": "item",
@@ -1119,6 +1134,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "scriptit-fr/GenAIApp",
+              "description": "Google Apps Script binding for Gemini and OpenAI generative AI APIs",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 865464401,
+                "language": "JavaScript",
+                "last_commit": "2026-08-11T12:45:04Z",
+                "owner": "scriptit-fr",
+                "repo": "GenAIApp",
+                "stars": 27
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Artificial Intelligence"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "cheeriogs",
               "description": "HTML manipulation library with jQuery-like interface",
               "children": [],
@@ -1270,6 +1307,50 @@
           "description": null,
           "node_type": "group",
           "title": "Images & Pictures"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "googledatastudio/community-connectors",
+              "description": "This repository contains open source content for Google Data Studio",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 106599370,
+                "language": "JavaScript",
+                "last_commit": "2021-09-06T21:51:57Z",
+                "owner": "googledatastudio",
+                "repo": "community-connectors",
+                "stars": 563
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Data Studio community connectors"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "classroomtechtools/modularLibraries",
+              "description": "A collection of importable, modular libraries for any GAS project",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 127622594,
+                "language": "JavaScript",
+                "last_commit": "2020-02-06T09:14:58Z",
+                "owner": "classroomtechtools",
+                "repo": "modularLibraries.gs",
+                "stars": 49
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Pack modules and universal libraries"
         }
       ],
       "title": "Libraries & Modules"
@@ -1319,7 +1400,7 @@
             "last_commit": "2026-07-25T19:45:02Z",
             "owner": "alexwforsythe",
             "repo": "code-blocks",
-            "stars": 787
+            "stars": 788
           }
         },
         {
@@ -1349,7 +1430,7 @@
             "last_commit": "2026-07-20T21:09:04Z",
             "owner": "davepar",
             "repo": "gcalendarsync",
-            "stars": 165
+            "stars": 166
           }
         },
         {
@@ -1787,6 +1868,50 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "Collection of Apps Scripts for connecting to APIs",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 77863935,
+                    "language": "JavaScript",
+                    "last_commit": "2022-07-28T05:56:34Z",
+                    "owner": "benlcollins",
+                    "repo": "apps_script_apis",
+                    "stars": 194
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Collections"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ReshapeReshaping functions for Google Spreadsheets",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 56522278,
+                    "language": "JavaScript",
+                    "last_commit": "2019-05-31T19:36:44Z",
+                    "owner": "rgertenbach",
+                    "repo": "Reshape",
+                    "stars": 25
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Spreadsheets"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
                   "title": "Gmail2GDrive",
                   "description": "Automatically stores and sorts Gmail attachments into Google Drive folders - replaced by Gmail Processor",
                   "children": [],
@@ -1891,7 +2016,7 @@
                 "last_commit": "2026-07-30T15:21:47Z",
                 "owner": "googleworkspace",
                 "repo": "apps-script-samples",
-                "stars": 5235
+                "stars": 5236
               }
             },
             {
@@ -2039,7 +2164,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T02:55:43.662Z",
+    "last_updated": "2026-08-24T14:07:14.212Z",
     "original_repository": "oshliaer/google-apps-script-awesome-list",
     "original_repository_id": 84677016,
     "original_repository_sha": "947e0d5e60d5c37eb56d05d723507724a5c85961",
