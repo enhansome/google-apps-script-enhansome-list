@@ -17,7 +17,7 @@
                 "last_commit": "2026-07-30T15:21:47Z",
                 "owner": "googleworkspace",
                 "repo": "apps-script-samples",
-                "stars": 5234
+                "stars": 5235
               }
             },
             {
@@ -133,7 +133,7 @@
             "last_commit": "2025-03-12T00:58:59Z",
             "owner": "leonhartX",
             "repo": "gas-github",
-            "stars": 4456
+            "stars": 4459
           }
         },
         {
@@ -375,7 +375,7 @@
                 "last_commit": "2026-04-14T05:55:18Z",
                 "owner": "labnol",
                 "repo": "apps-script-starter",
-                "stars": 1251
+                "stars": 1250
               }
             },
             {
@@ -1794,10 +1794,10 @@
                     "archived": false,
                     "id": 8128277,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-22T09:54:57Z",
+                    "last_commit": "2026-08-23T22:47:29Z",
                     "owner": "ahochsteger",
                     "repo": "gmail-processor",
-                    "stars": 587
+                    "stars": 586
                   }
                 },
                 {
@@ -1891,7 +1891,7 @@
                 "last_commit": "2026-07-30T15:21:47Z",
                 "owner": "googleworkspace",
                 "repo": "apps-script-samples",
-                "stars": 5234
+                "stars": 5235
               }
             },
             {
@@ -2039,7 +2039,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T02:54:32.852Z",
+    "last_updated": "2026-08-24T02:55:43.662Z",
     "original_repository": "oshliaer/google-apps-script-awesome-list",
     "original_repository_id": 84677016,
     "original_repository_sha": "947e0d5e60d5c37eb56d05d723507724a5c85961",
