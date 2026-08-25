@@ -92,7 +92,7 @@ A curated list of Google Apps Script resources. Want to add or fix something? Re
 
 * [gdrive](https://github.com/prasmussen/gdrive) ⚠️ Archived Google Drive CLI Client
 * [google/clasp](https://github.com/google/clasp) ⭐ 5,799 | 🐛 48 | 🌐 TypeScript | 📅 2026-08-21 Develop Apps Script projects locally using clasp (Command Line Apps Script Projects) CLI
-* [gas-github](https://github.com/leonhartX/gas-github) ⭐ 4,462 | 🐛 51 | 🌐 JavaScript | 📅 2025-03-12 Chrome-extension to manage Google Apps Script(GAS) code with github/github enterprise
+* [gas-github](https://github.com/leonhartX/gas-github) ⭐ 4,463 | 🐛 51 | 🌐 JavaScript | 📅 2025-03-12 Chrome-extension to manage Google Apps Script(GAS) code with github/github enterprise
 * [fossamagna/gas-webpack-plugin](https://github.com/fossamagna/gas-webpack-plugin) ⭐ 180 | 🐛 22 | 🌐 JavaScript | 📅 2026-08-10 Webpack plugin for Google Apps Script
 * [ggsrun](https://github.com/tanaikech/ggsrun) ⭐ 171 | 🐛 0 | 🌐 Go | 📅 2026-08-15 This is a CLI tool to execute Google Apps Script (GAS) on a terminal
 * [MaartenDesnouck/google-apps-script](https://github.com/MaartenDesnouck/google-apps-script) ⭐ 126 | 🐛 44 | 🌐 JavaScript | 📅 2026-02-04 gas, for locally developing Google Apps Script projects
