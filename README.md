@@ -91,8 +91,8 @@ A curated list of Google Apps Script resources. Want to add or fix something? Re
 ## Development
 
 * [gdrive](https://github.com/prasmussen/gdrive) ⚠️ Archived Google Drive CLI Client
-* [google/clasp](https://github.com/google/clasp) ⭐ 5,799 | 🐛 48 | 🌐 TypeScript | 📅 2026-08-21 Develop Apps Script projects locally using clasp (Command Line Apps Script Projects) CLI
-* [gas-github](https://github.com/leonhartX/gas-github) ⭐ 4,463 | 🐛 51 | 🌐 JavaScript | 📅 2025-03-12 Chrome-extension to manage Google Apps Script(GAS) code with github/github enterprise
+* [google/clasp](https://github.com/google/clasp) ⭐ 5,800 | 🐛 48 | 🌐 TypeScript | 📅 2026-08-21 Develop Apps Script projects locally using clasp (Command Line Apps Script Projects) CLI
+* [gas-github](https://github.com/leonhartX/gas-github) ⭐ 4,466 | 🐛 51 | 🌐 JavaScript | 📅 2025-03-12 Chrome-extension to manage Google Apps Script(GAS) code with github/github enterprise
 * [fossamagna/gas-webpack-plugin](https://github.com/fossamagna/gas-webpack-plugin) ⭐ 180 | 🐛 22 | 🌐 JavaScript | 📅 2026-08-10 Webpack plugin for Google Apps Script
 * [ggsrun](https://github.com/tanaikech/ggsrun) ⭐ 171 | 🐛 0 | 🌐 Go | 📅 2026-08-15 This is a CLI tool to execute Google Apps Script (GAS) on a terminal
 * [MaartenDesnouck/google-apps-script](https://github.com/MaartenDesnouck/google-apps-script) ⭐ 126 | 🐛 44 | 🌐 JavaScript | 📅 2026-02-04 gas, for locally developing Google Apps Script projects
@@ -187,7 +187,7 @@ A curated list of Google Apps Script resources. Want to add or fix something? Re
 
 ### Artificial Intelligence
 
-* [scriptit-fr/GenAIApp](https://github.com/scriptit-fr/GenAIApp) ⭐ 27 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-11 Google Apps Script binding for Gemini and OpenAI generative AI APIs
+* [scriptit-fr/GenAIApp](https://github.com/scriptit-fr/GenAIApp) ⭐ 27 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-25 Google Apps Script binding for Gemini and OpenAI generative AI APIs
 
 ### Parsing
 
@@ -300,7 +300,7 @@ A curated list of Google Apps Script resources. Want to add or fix something? Re
 
 #### Gmail
 
-* [Gmail2GDrive](https://github.com/ahochsteger/gmail-processor/tree/1.x) ⭐ 586 | 🐛 9 | 🌐 TypeScript | 📅 2026-08-23  Automatically stores and sorts Gmail attachments into Google Drive folders - replaced by [Gmail Processor](https://ahochsteger.github.io/gmail-processor/)
+* [Gmail2GDrive](https://github.com/ahochsteger/gmail-processor/tree/1.x) ⭐ 586 | 🐛 9 | 🌐 TypeScript | 📅 2026-08-25  Automatically stores and sorts Gmail attachments into Google Drive folders - replaced by [Gmail Processor](https://ahochsteger.github.io/gmail-processor/)
 * [Apps-Script-Gmail-Push-Notifications-v2](https://github.com/Spencer-Easton/Apps-Script-Gmail-Push-Notifications-v2) ⭐ 67 | 🐛 3 | 🌐 JavaScript | 📅 2022-05-01 Register a Gmail account for push notifications and programmatically set up the the proper pubsub publishing channels and subscriptions
 * [Gmail Processor](https://ahochsteger.github.io/gmail-processor/)  Very powerful and flexible Google Apps Script library that automatically stores Gmail attachments into Google Drive folders and many more features
 
@@ -329,11 +329,11 @@ A curated list of Google Apps Script resources. Want to add or fix something? Re
 * [derekantrican/Google-Apps-Script-Library](https://github.com/derekantrican/Google-Apps-Script-Library) ⭐ 39 | 🐛 1 | 🌐 JavaScript | 📅 2022-06-29 A variety of functions/programs written for Google Apps Script and Google services
 * [stardotbmp/google-sheet-functions](https://github.com/stardotbmp/google-sheet-functions) ⭐ 37 | 🐛 0 | 🌐 JavaScript | 📅 2023-12-15 A single repository for open sharing of custom functions I have found to be useful generally
 * [rudimusmaximus/BurningGAS](https://github.com/rudimusmaximus/BurningGAS) ⭐ 23 | 🐛 0 | 🌐 JavaScript | 📅 2019-10-23 Demonstrate various Google Apps Script using a menu of functions inside a fresh Google Sheet and container bound editor
-* [BkperApp](https://github.com/bkper/bkper-app) ⭐ 11 | 🐛 16 | 🌐 TypeScript | 📅 2026-08-15 A simple and secure way to access the Bkper API through Google Apps Script infrastructure
+* [BkperApp](https://github.com/bkper/bkper-app) ⭐ 11 | 🐛 16 | 🌐 TypeScript | 📅 2026-08-25 A simple and secure way to access the Bkper API through Google Apps Script infrastructure
 * [AutoSteamGifts](https://github.com/sudtanj/AutoSteamGifts) ⭐ 2 | 🐛 0 | 🌐 JavaScript | 📅 2018-03-16 A Modified version based on Python script by joaopsys that run on Google server using Google App Script to automatically enter every giveaway that you can afford on SteamGifts.com
 
 [goto top ⇑](#google-apps-script-list)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._

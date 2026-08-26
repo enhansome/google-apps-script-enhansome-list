@@ -118,7 +118,7 @@
             "last_commit": "2026-08-21T13:59:45Z",
             "owner": "google",
             "repo": "clasp",
-            "stars": 5799
+            "stars": 5800
           }
         },
         {
@@ -133,7 +133,7 @@
             "last_commit": "2025-03-12T00:58:59Z",
             "owner": "leonhartX",
             "repo": "gas-github",
-            "stars": 4463
+            "stars": 4466
           }
         },
         {
@@ -1141,7 +1141,7 @@
                 "archived": false,
                 "id": 865464401,
                 "language": "JavaScript",
-                "last_commit": "2026-08-11T12:45:04Z",
+                "last_commit": "2026-08-25T13:09:44Z",
                 "owner": "scriptit-fr",
                 "repo": "GenAIApp",
                 "stars": 27
@@ -1919,7 +1919,7 @@
                     "archived": false,
                     "id": 8128277,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-23T22:47:29Z",
+                    "last_commit": "2026-08-25T12:41:13Z",
                     "owner": "ahochsteger",
                     "repo": "gmail-processor",
                     "stars": 586
@@ -2133,7 +2133,7 @@
                 "archived": false,
                 "id": 33946629,
                 "language": "TypeScript",
-                "last_commit": "2026-08-15T08:49:19Z",
+                "last_commit": "2026-08-25T11:48:59Z",
                 "owner": "bkper",
                 "repo": "bkper-gs",
                 "stars": 11
@@ -2164,7 +2164,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:57:30.588Z",
+    "last_updated": "2026-08-26T02:57:03.418Z",
     "original_repository": "oshliaer/google-apps-script-awesome-list",
     "original_repository_id": 84677016,
     "original_repository_sha": "947e0d5e60d5c37eb56d05d723507724a5c85961",
