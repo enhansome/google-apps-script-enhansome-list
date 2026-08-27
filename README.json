@@ -17,7 +17,7 @@
                 "last_commit": "2026-07-30T15:21:47Z",
                 "owner": "googleworkspace",
                 "repo": "apps-script-samples",
-                "stars": 5236
+                "stars": 5238
               }
             },
             {
@@ -118,7 +118,7 @@
             "last_commit": "2026-08-21T13:59:45Z",
             "owner": "google",
             "repo": "clasp",
-            "stars": 5800
+            "stars": 5803
           }
         },
         {
@@ -133,7 +133,7 @@
             "last_commit": "2025-03-12T00:58:59Z",
             "owner": "leonhartX",
             "repo": "gas-github",
-            "stars": 4466
+            "stars": 4468
           }
         },
         {
@@ -160,7 +160,7 @@
             "archived": false,
             "id": 89201523,
             "language": "Go",
-            "last_commit": "2026-08-15T08:23:22Z",
+            "last_commit": "2026-08-26T07:59:38Z",
             "owner": "tanaikech",
             "repo": "ggsrun",
             "stars": 171
@@ -208,7 +208,7 @@
             "last_commit": "2026-08-12T13:07:37Z",
             "owner": "brucemcpherson",
             "repo": "gas-fakes",
-            "stars": 78
+            "stars": 79
           }
         },
         {
@@ -360,7 +360,7 @@
                 "last_commit": "2026-02-14T10:07:44Z",
                 "owner": "enuchi",
                 "repo": "React-Google-Apps-Script",
-                "stars": 1526
+                "stars": 1527
               }
             },
             {
@@ -1141,10 +1141,10 @@
                 "archived": false,
                 "id": 865464401,
                 "language": "JavaScript",
-                "last_commit": "2026-08-25T13:09:44Z",
+                "last_commit": "2026-08-27T09:55:07Z",
                 "owner": "scriptit-fr",
                 "repo": "GenAIApp",
-                "stars": 27
+                "stars": 28
               }
             }
           ],
@@ -1919,7 +1919,7 @@
                     "archived": false,
                     "id": 8128277,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-25T12:41:13Z",
+                    "last_commit": "2026-08-27T00:16:36Z",
                     "owner": "ahochsteger",
                     "repo": "gmail-processor",
                     "stars": 586
@@ -1959,7 +1959,7 @@
                     "last_commit": "2022-11-16T19:26:06Z",
                     "owner": "bradjasper",
                     "repo": "ImportJSON",
-                    "stars": 2130
+                    "stars": 2132
                   }
                 },
                 {
@@ -2016,7 +2016,7 @@
                 "last_commit": "2026-07-30T15:21:47Z",
                 "owner": "googleworkspace",
                 "repo": "apps-script-samples",
-                "stars": 5236
+                "stars": 5238
               }
             },
             {
@@ -2046,7 +2046,7 @@
                 "last_commit": "2022-11-16T19:26:06Z",
                 "owner": "bradjasper",
                 "repo": "ImportJSON",
-                "stars": 2130
+                "stars": 2132
               }
             },
             {
@@ -2061,7 +2061,7 @@
                 "last_commit": "2025-07-16T10:24:15Z",
                 "owner": "Max-Makhrov",
                 "repo": "GoogleSheets",
-                "stars": 245
+                "stars": 246
               }
             },
             {
@@ -2164,9 +2164,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T02:57:03.418Z",
-    "original_repository": "oshliaer/google-apps-script-awesome-list",
-    "original_repository_id": 84677016,
+    "last_updated": "2026-08-27T12:12:59.449Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 84677016,
+      "language": null,
+      "last_commit": "2026-04-26T06:58:02Z",
+      "owner": "oshliaer",
+      "repo": "google-apps-script-awesome-list",
+      "stars": 2066
+    },
     "original_repository_sha": "947e0d5e60d5c37eb56d05d723507724a5c85961",
     "enhanced_repository": "enhansome/google-apps-script-enhansome-list",
     "enhanced_repository_description": null,
