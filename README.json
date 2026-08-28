@@ -17,8 +17,9 @@
                 "last_commit": "2026-07-30T15:21:47Z",
                 "owner": "googleworkspace",
                 "repo": "apps-script-samples",
-                "stars": 5238
-              }
+                "stars": 5237
+              },
+              "first_seen": "2026-08-28T13:33:22.239Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "jc324x",
                 "repo": "google-apps-script-cheat-sheet",
                 "stars": 403
-              }
+              },
+              "first_seen": "2026-08-28T13:33:22.239Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "oshliaer",
                 "repo": "google-apps-script-snippets",
                 "stars": 273
-              }
+              },
+              "first_seen": "2026-08-28T13:33:22.239Z"
             },
             {
               "node_type": "item",
@@ -63,7 +66,8 @@
                 "owner": "googlearchive",
                 "repo": "apps-script-templates",
                 "stars": 155
-              }
+              },
+              "first_seen": "2026-08-28T13:33:22.239Z"
             },
             {
               "node_type": "item",
@@ -78,7 +82,8 @@
                 "owner": "ashtonfei",
                 "repo": "google-apps-script-projects",
                 "stars": 151
-              }
+              },
+              "first_seen": "2026-08-28T13:33:22.239Z"
             }
           ],
           "description": "goto top ⇑",
@@ -104,7 +109,8 @@
             "owner": "prasmussen",
             "repo": "gdrive",
             "stars": 8952
-          }
+          },
+          "first_seen": "2026-08-28T13:33:22.239Z"
         },
         {
           "node_type": "item",
@@ -118,8 +124,9 @@
             "last_commit": "2026-08-21T13:59:45Z",
             "owner": "google",
             "repo": "clasp",
-            "stars": 5803
-          }
+            "stars": 5805
+          },
+          "first_seen": "2026-08-28T13:33:22.239Z"
         },
         {
           "node_type": "item",
@@ -133,8 +140,9 @@
             "last_commit": "2025-03-12T00:58:59Z",
             "owner": "leonhartX",
             "repo": "gas-github",
-            "stars": 4468
-          }
+            "stars": 4472
+          },
+          "first_seen": "2026-08-28T13:33:22.239Z"
         },
         {
           "node_type": "item",
@@ -149,7 +157,8 @@
             "owner": "fossamagna",
             "repo": "gas-webpack-plugin",
             "stars": 180
-          }
+          },
+          "first_seen": "2026-08-28T13:33:22.239Z"
         },
         {
           "node_type": "item",
@@ -164,7 +173,8 @@
             "owner": "tanaikech",
             "repo": "ggsrun",
             "stars": 171
-          }
+          },
+          "first_seen": "2026-08-28T13:33:22.239Z"
         },
         {
           "node_type": "item",
@@ -179,7 +189,8 @@
             "owner": "MaartenDesnouck",
             "repo": "google-apps-script",
             "stars": 126
-          }
+          },
+          "first_seen": "2026-08-28T13:33:22.239Z"
         },
         {
           "node_type": "item",
@@ -194,7 +205,8 @@
             "owner": "mzagorny",
             "repo": "gas-local",
             "stars": 93
-          }
+          },
+          "first_seen": "2026-08-28T13:33:22.239Z"
         },
         {
           "node_type": "item",
@@ -209,7 +221,8 @@
             "owner": "brucemcpherson",
             "repo": "gas-fakes",
             "stars": 79
-          }
+          },
+          "first_seen": "2026-08-28T13:33:22.239Z"
         },
         {
           "node_type": "item",
@@ -224,7 +237,8 @@
             "owner": "rudimusmaximus",
             "repo": "DevFlow",
             "stars": 54
-          }
+          },
+          "first_seen": "2026-08-28T13:33:22.239Z"
         },
         {
           "node_type": "item",
@@ -239,7 +253,8 @@
             "owner": "selectnull",
             "repo": "eslint-plugin-googleappsscript",
             "stars": 52
-          }
+          },
+          "first_seen": "2026-08-28T13:33:22.239Z"
         },
         {
           "node_type": "item",
@@ -254,7 +269,8 @@
             "owner": "mahaker",
             "repo": "esbuild-gas-plugin",
             "stars": 45
-          }
+          },
+          "first_seen": "2026-08-28T13:33:22.239Z"
         },
         {
           "node_type": "item",
@@ -269,7 +285,8 @@
             "owner": "labnol",
             "repo": "vscode-google-apps-script",
             "stars": 39
-          }
+          },
+          "first_seen": "2026-08-28T13:33:22.239Z"
         },
         {
           "node_type": "item",
@@ -284,7 +301,8 @@
             "owner": "namaggarwal",
             "repo": "clasp-token-action",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T13:33:22.239Z"
         },
         {
           "node_type": "item",
@@ -299,7 +317,8 @@
             "owner": "bkper",
             "repo": "clasp-types",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T13:33:22.239Z"
         },
         {
           "node_type": "item",
@@ -314,7 +333,8 @@
             "owner": "VladimirMikulic",
             "repo": "parcel-optimizer-gas",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T13:33:22.239Z"
         },
         {
           "node_type": "item",
@@ -329,7 +349,8 @@
             "owner": "brainysmurf",
             "repo": "gamified_journal",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T13:33:22.239Z"
         },
         {
           "node_type": "item",
@@ -344,7 +365,8 @@
             "owner": "KaiShoya",
             "repo": "autocomplete-gas",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T13:33:22.239Z"
         },
         {
           "children": [
@@ -361,7 +383,8 @@
                 "owner": "enuchi",
                 "repo": "React-Google-Apps-Script",
                 "stars": 1527
-              }
+              },
+              "first_seen": "2026-08-28T13:33:22.239Z"
             },
             {
               "node_type": "item",
@@ -376,7 +399,8 @@
                 "owner": "labnol",
                 "repo": "apps-script-starter",
                 "stars": 1250
-              }
+              },
+              "first_seen": "2026-08-28T13:33:22.239Z"
             },
             {
               "node_type": "item",
@@ -391,7 +415,8 @@
                 "owner": "howdy39",
                 "repo": "gas-clasp-starter",
                 "stars": 259
-              }
+              },
+              "first_seen": "2026-08-28T13:33:22.239Z"
             },
             {
               "node_type": "item",
@@ -406,7 +431,8 @@
                 "owner": "WildH0g",
                 "repo": "apps-script-engine-template",
                 "stars": 75
-              }
+              },
+              "first_seen": "2026-08-28T13:33:22.239Z"
             },
             {
               "node_type": "item",
@@ -421,7 +447,8 @@
                 "owner": "PopGoesTheWza",
                 "repo": "ts-gas-project-starter",
                 "stars": 67
-              }
+              },
+              "first_seen": "2026-08-28T13:33:22.239Z"
             },
             {
               "node_type": "item",
@@ -436,7 +463,8 @@
                 "owner": "cristobalgvera",
                 "repo": "ez-clasp",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-28T13:33:22.239Z"
             },
             {
               "node_type": "item",
@@ -451,7 +479,8 @@
                 "owner": "JeanRemiDelteil",
                 "repo": "gas-starter-kit",
                 "stars": 31
-              }
+              },
+              "first_seen": "2026-08-28T13:33:22.239Z"
             },
             {
               "node_type": "item",
@@ -466,7 +495,8 @@
                 "owner": "JeanRemiDelteil",
                 "repo": "gas-starter-kit",
                 "stars": 31
-              }
+              },
+              "first_seen": "2026-08-28T13:33:22.239Z"
             },
             {
               "node_type": "item",
@@ -481,7 +511,8 @@
                 "owner": "nirazul",
                 "repo": "google-apps-script-template",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-28T13:33:22.239Z"
             },
             {
               "node_type": "item",
@@ -496,7 +527,8 @@
                 "owner": "atti187",
                 "repo": "esmodules",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-28T13:33:22.239Z"
             },
             {
               "node_type": "item",
@@ -511,7 +543,8 @@
                 "owner": "bootgs",
                 "repo": "boot",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-28T13:33:22.239Z"
             },
             {
               "node_type": "item",
@@ -526,7 +559,8 @@
                 "owner": "artnc",
                 "repo": "gas-es6-webpack",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-28T13:33:22.239Z"
             },
             {
               "node_type": "item",
@@ -541,7 +575,8 @@
                 "owner": "tani",
                 "repo": "gas-minimal-boilerplate",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T13:33:22.239Z"
             },
             {
               "node_type": "item",
@@ -556,7 +591,8 @@
                 "owner": "rupampoddar",
                 "repo": "apps-script-template",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T13:33:22.239Z"
             },
             {
               "node_type": "item",
@@ -571,7 +607,8 @@
                 "owner": "lastlink",
                 "repo": "realworld-apps-script",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T13:33:22.239Z"
             },
             {
               "node_type": "item",
@@ -586,7 +623,8 @@
                 "owner": "faresd",
                 "repo": "google-apps-script_travis-ci",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T13:33:22.239Z"
             },
             {
               "node_type": "item",
@@ -601,7 +639,8 @@
                 "owner": "takanakahiko",
                 "repo": "sao-clasp",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T13:33:22.239Z"
             },
             {
               "node_type": "item",
@@ -616,7 +655,8 @@
                 "owner": "zaki-yama",
                 "repo": "webpack-google-apps-script-template",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T13:33:22.239Z"
             },
             {
               "node_type": "item",
@@ -631,7 +671,8 @@
                 "owner": "lastlink",
                 "repo": "google-app-script-ts-jest",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T13:33:22.239Z"
             },
             {
               "node_type": "item",
@@ -646,7 +687,8 @@
                 "owner": "gazf",
                 "repo": "google-apps-script-ci-starter",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T13:33:22.239Z"
             }
           ],
           "description": null,
@@ -672,7 +714,8 @@
             "owner": "tanaikech",
             "repo": "Google-Apps-Script-Library-Database",
             "stars": 142
-          }
+          },
+          "first_seen": "2026-08-28T13:33:22.239Z"
         },
         {
           "children": [
@@ -689,7 +732,8 @@
                 "owner": "RomainVialard",
                 "repo": "FirebaseApp",
                 "stars": 121
-              }
+              },
+              "first_seen": "2026-08-28T13:33:22.239Z"
             },
             {
               "node_type": "item",
@@ -704,7 +748,8 @@
                 "owner": "oshliaer",
                 "repo": "alasqlgs",
                 "stars": 39
-              }
+              },
+              "first_seen": "2026-08-28T13:33:22.239Z"
             },
             {
               "node_type": "item",
@@ -719,7 +764,8 @@
                 "owner": "p3sn",
                 "repo": "FireScript",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T13:33:22.239Z"
             }
           ],
           "description": null,
@@ -741,7 +787,8 @@
                 "owner": "socialpoint-labs",
                 "repo": "sheetfu",
                 "stars": 849
-              }
+              },
+              "first_seen": "2026-08-28T13:33:22.239Z"
             },
             {
               "node_type": "item",
@@ -756,7 +803,8 @@
                 "owner": "itmammoth",
                 "repo": "Tamotsu",
                 "stars": 135
-              }
+              },
+              "first_seen": "2026-08-28T13:33:22.239Z"
             },
             {
               "node_type": "item",
@@ -771,7 +819,8 @@
                 "owner": "7imon7ays",
                 "repo": "Goodel",
                 "stars": 55
-              }
+              },
+              "first_seen": "2026-08-28T13:33:22.239Z"
             },
             {
               "node_type": "item",
@@ -786,7 +835,8 @@
                 "owner": "coderofsalvation",
                 "repo": "Gexpress-middleware-RESTsheet",
                 "stars": 55
-              }
+              },
+              "first_seen": "2026-08-28T13:33:22.239Z"
             },
             {
               "node_type": "item",
@@ -801,7 +851,8 @@
                 "owner": "jsoma",
                 "repo": "gs-spreadsheet-manager",
                 "stars": 50
-              }
+              },
+              "first_seen": "2026-08-28T13:33:22.239Z"
             },
             {
               "node_type": "item",
@@ -816,7 +867,8 @@
                 "owner": "YionoFr",
                 "repo": "GoogleScriptSQL",
                 "stars": 47
-              }
+              },
+              "first_seen": "2026-08-28T13:33:22.239Z"
             },
             {
               "node_type": "item",
@@ -831,7 +883,8 @@
                 "owner": "Sintropiadotio",
                 "repo": "orma",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T13:33:22.239Z"
             },
             {
               "node_type": "item",
@@ -846,7 +899,8 @@
                 "owner": "artofthesmart",
                 "repo": "Ob2ss",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T13:33:22.239Z"
             }
           ],
           "description": null,
@@ -868,7 +922,8 @@
                 "owner": "oshliaer",
                 "repo": "lodashgs",
                 "stars": 164
-              }
+              },
+              "first_seen": "2026-08-28T13:33:22.239Z"
             },
             {
               "node_type": "item",
@@ -883,7 +938,8 @@
                 "owner": "coderofsalvation",
                 "repo": "Gexpress",
                 "stars": 79
-              }
+              },
+              "first_seen": "2026-08-28T13:33:22.239Z"
             },
             {
               "node_type": "item",
@@ -898,7 +954,8 @@
                 "owner": "brucemcpherson",
                 "repo": "cUseful",
                 "stars": 71
-              }
+              },
+              "first_seen": "2026-08-28T13:33:22.239Z"
             },
             {
               "node_type": "item",
@@ -913,7 +970,8 @@
                 "owner": "simula-innovation",
                 "repo": "gas-underscore",
                 "stars": 60
-              }
+              },
+              "first_seen": "2026-08-28T13:33:22.239Z"
             },
             {
               "node_type": "item",
@@ -928,7 +986,8 @@
                 "owner": "yinonavraham",
                 "repo": "GoogleAppsScripts",
                 "stars": 55
-              }
+              },
+              "first_seen": "2026-08-28T13:33:22.239Z"
             },
             {
               "node_type": "item",
@@ -943,7 +1002,8 @@
                 "owner": "yinonavraham",
                 "repo": "GoogleAppsScripts",
                 "stars": 55
-              }
+              },
+              "first_seen": "2026-08-28T13:33:22.239Z"
             },
             {
               "node_type": "item",
@@ -958,7 +1018,8 @@
                 "owner": "yinonavraham",
                 "repo": "GoogleAppsScripts",
                 "stars": 55
-              }
+              },
+              "first_seen": "2026-08-28T13:33:22.239Z"
             },
             {
               "node_type": "item",
@@ -973,7 +1034,8 @@
                 "owner": "tanaikech",
                 "repo": "FetchApp",
                 "stars": 53
-              }
+              },
+              "first_seen": "2026-08-28T13:33:22.239Z"
             },
             {
               "node_type": "item",
@@ -988,7 +1050,8 @@
                 "owner": "joshsny",
                 "repo": "SpeedStore",
                 "stars": 42
-              }
+              },
+              "first_seen": "2026-08-28T13:33:22.239Z"
             },
             {
               "node_type": "item",
@@ -1003,7 +1066,8 @@
                 "owner": "tanaikech",
                 "repo": "RangeListApp",
                 "stars": 31
-              }
+              },
+              "first_seen": "2026-08-28T13:33:22.239Z"
             },
             {
               "node_type": "item",
@@ -1017,8 +1081,9 @@
                 "last_commit": "2026-08-20T13:33:23Z",
                 "owner": "MaksymStoianov",
                 "repo": "apps-script-utils",
-                "stars": 29
-              }
+                "stars": 30
+              },
+              "first_seen": "2026-08-28T13:33:22.239Z"
             },
             {
               "node_type": "item",
@@ -1033,7 +1098,8 @@
                 "owner": "johndturn",
                 "repo": "google-apps-script-storageservice",
                 "stars": 25
-              }
+              },
+              "first_seen": "2026-08-28T13:33:22.239Z"
             },
             {
               "node_type": "item",
@@ -1048,7 +1114,8 @@
                 "owner": "tanaikech",
                 "repo": "GetEditType",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T13:33:22.239Z"
             },
             {
               "node_type": "item",
@@ -1063,7 +1130,8 @@
                 "owner": "tanaikech",
                 "repo": "ProcessApp",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T13:33:22.239Z"
             },
             {
               "node_type": "item",
@@ -1078,7 +1146,8 @@
                 "owner": "mhawksey",
                 "repo": "UrlShortener",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T13:33:22.239Z"
             },
             {
               "node_type": "item",
@@ -1093,7 +1162,8 @@
                 "owner": "syslogic",
                 "repo": "google-apps-script",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T13:33:22.239Z"
             },
             {
               "node_type": "item",
@@ -1108,7 +1178,8 @@
                 "owner": "michalliu",
                 "repo": "google-app-script-jsonrpc",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T13:33:22.239Z"
             },
             {
               "node_type": "item",
@@ -1123,7 +1194,8 @@
                 "owner": "classroomtechtools",
                 "repo": "ObjectStore",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T13:33:22.239Z"
             }
           ],
           "description": null,
@@ -1145,7 +1217,8 @@
                 "owner": "scriptit-fr",
                 "repo": "GenAIApp",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-28T13:33:22.239Z"
             }
           ],
           "description": null,
@@ -1167,7 +1240,8 @@
                 "owner": "tani",
                 "repo": "cheeriogs",
                 "stars": 494
-              }
+              },
+              "first_seen": "2026-08-28T13:33:22.239Z"
             },
             {
               "node_type": "item",
@@ -1182,7 +1256,8 @@
                 "owner": "Spencer-Easton",
                 "repo": "Apps-Script-htmlparser2-library",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-28T13:33:22.239Z"
             },
             {
               "node_type": "item",
@@ -1197,7 +1272,8 @@
                 "owner": "tani",
                 "repo": "PDF.gs",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T13:33:22.239Z"
             }
           ],
           "description": null,
@@ -1219,7 +1295,8 @@
                 "owner": "googleworkspace",
                 "repo": "apps-script-oauth2",
                 "stars": 1744
-              }
+              },
+              "first_seen": "2026-08-28T13:33:22.239Z"
             },
             {
               "node_type": "item",
@@ -1234,7 +1311,8 @@
                 "owner": "googleworkspace",
                 "repo": "apps-script-oauth1",
                 "stars": 157
-              }
+              },
+              "first_seen": "2026-08-28T13:33:22.239Z"
             },
             {
               "node_type": "item",
@@ -1249,7 +1327,8 @@
                 "owner": "brucemcpherson",
                 "repo": "cGoa",
                 "stars": 41
-              }
+              },
+              "first_seen": "2026-08-28T13:33:22.239Z"
             }
           ],
           "description": null,
@@ -1271,7 +1350,8 @@
                 "owner": "tanaikech",
                 "repo": "ImgApp",
                 "stars": 166
-              }
+              },
+              "first_seen": "2026-08-28T13:33:22.239Z"
             },
             {
               "node_type": "item",
@@ -1286,7 +1366,8 @@
                 "owner": "sudtanj",
                 "repo": "gas-InstagramApp",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T13:33:22.239Z"
             },
             {
               "node_type": "item",
@@ -1301,7 +1382,8 @@
                 "owner": "sudtanj",
                 "repo": "gas-GPhotosApp",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T13:33:22.239Z"
             }
           ],
           "description": null,
@@ -1323,7 +1405,8 @@
                 "owner": "googledatastudio",
                 "repo": "community-connectors",
                 "stars": 563
-              }
+              },
+              "first_seen": "2026-08-28T13:33:22.239Z"
             }
           ],
           "description": null,
@@ -1345,7 +1428,8 @@
                 "owner": "classroomtechtools",
                 "repo": "modularLibraries.gs",
                 "stars": 49
-              }
+              },
+              "first_seen": "2026-08-28T13:33:22.239Z"
             }
           ],
           "description": null,
@@ -1371,7 +1455,8 @@
             "owner": "ericyd",
             "repo": "gdrive-copy",
             "stars": 1581
-          }
+          },
+          "first_seen": "2026-08-28T13:33:22.239Z"
         },
         {
           "node_type": "item",
@@ -1386,7 +1471,8 @@
             "owner": "labnol",
             "repo": "unsubscribe-gmail",
             "stars": 1564
-          }
+          },
+          "first_seen": "2026-08-28T13:33:22.239Z"
         },
         {
           "node_type": "item",
@@ -1401,7 +1487,8 @@
             "owner": "alexwforsythe",
             "repo": "code-blocks",
             "stars": 788
-          }
+          },
+          "first_seen": "2026-08-28T13:33:22.239Z"
         },
         {
           "node_type": "item",
@@ -1415,8 +1502,9 @@
             "last_commit": "2026-08-05T16:51:00Z",
             "owner": "Automattic",
             "repo": "google-docs-add-on",
-            "stars": 168
-          }
+            "stars": 169
+          },
+          "first_seen": "2026-08-28T13:33:22.239Z"
         },
         {
           "node_type": "item",
@@ -1431,7 +1519,8 @@
             "owner": "davepar",
             "repo": "gcalendarsync",
             "stars": 166
-          }
+          },
+          "first_seen": "2026-08-28T13:33:22.239Z"
         },
         {
           "node_type": "item",
@@ -1446,7 +1535,8 @@
             "owner": "mithunmanohar",
             "repo": "woocommerce-orders-google-sheets-integration",
             "stars": 117
-          }
+          },
+          "first_seen": "2026-08-28T13:33:22.239Z"
         },
         {
           "node_type": "item",
@@ -1461,7 +1551,8 @@
             "owner": "labnol",
             "repo": "website-monitor",
             "stars": 115
-          }
+          },
+          "first_seen": "2026-08-28T13:33:22.239Z"
         },
         {
           "node_type": "item",
@@ -1476,7 +1567,8 @@
             "owner": "labnol",
             "repo": "google-forms",
             "stars": 91
-          }
+          },
+          "first_seen": "2026-08-28T13:33:22.239Z"
         },
         {
           "node_type": "item",
@@ -1491,7 +1583,8 @@
             "owner": "labnol",
             "repo": "email-studio-gmail-addon",
             "stars": 85
-          }
+          },
+          "first_seen": "2026-08-28T13:33:22.239Z"
         },
         {
           "node_type": "item",
@@ -1506,7 +1599,8 @@
             "owner": "sajacy",
             "repo": "google-sheets-what-if-analysis",
             "stars": 53
-          }
+          },
+          "first_seen": "2026-08-28T13:33:22.239Z"
         },
         {
           "node_type": "item",
@@ -1521,7 +1615,8 @@
             "owner": "erickoledadevrel",
             "repo": "crop-sheet",
             "stars": 47
-          }
+          },
+          "first_seen": "2026-08-28T13:33:22.239Z"
         },
         {
           "node_type": "item",
@@ -1536,7 +1631,8 @@
             "owner": "ericyd",
             "repo": "gdrive-transfer",
             "stars": 40
-          }
+          },
+          "first_seen": "2026-08-28T13:33:22.239Z"
         },
         {
           "node_type": "item",
@@ -1551,7 +1647,8 @@
             "owner": "edcodeorg",
             "repo": "flubaroo",
             "stars": 27
-          }
+          },
+          "first_seen": "2026-08-28T13:33:22.239Z"
         },
         {
           "node_type": "item",
@@ -1566,7 +1663,8 @@
             "owner": "gauravgrover95",
             "repo": "woocommerce-smartsheets",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T13:33:22.239Z"
         },
         {
           "node_type": "item",
@@ -1581,7 +1679,8 @@
             "owner": "stardotbmp",
             "repo": "slack-gas-signup",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T13:33:22.239Z"
         },
         {
           "node_type": "item",
@@ -1596,7 +1695,8 @@
             "owner": "zmandel",
             "repo": "timeline-jira-google-sheets",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T13:33:22.239Z"
         }
       ],
       "title": "Open Source Apps & Add-ons"
@@ -1617,7 +1717,8 @@
             "owner": "Viber",
             "repo": "build-a-bot-with-zero-coding",
             "stars": 486
-          }
+          },
+          "first_seen": "2026-08-28T13:33:22.239Z"
         },
         {
           "node_type": "item",
@@ -1632,7 +1733,8 @@
             "owner": "Guf-Hub",
             "repo": "TGBot",
             "stars": 51
-          }
+          },
+          "first_seen": "2026-08-28T13:33:22.239Z"
         },
         {
           "node_type": "item",
@@ -1647,7 +1749,8 @@
             "owner": "JZL",
             "repo": "Facebook-bot-Google-Apps-Script",
             "stars": 46
-          }
+          },
+          "first_seen": "2026-08-28T13:33:22.239Z"
         },
         {
           "node_type": "item",
@@ -1662,7 +1765,8 @@
             "owner": "william-reed",
             "repo": "GroupMe-Bots-With-Google-Apps-Script",
             "stars": 41
-          }
+          },
+          "first_seen": "2026-08-28T13:33:22.239Z"
         },
         {
           "node_type": "item",
@@ -1677,7 +1781,8 @@
             "owner": "banghasan",
             "repo": "Telegram-Lib-GAS-V2",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-28T13:33:22.239Z"
         },
         {
           "node_type": "item",
@@ -1692,7 +1797,8 @@
             "owner": "cyberonion256",
             "repo": "google-telegram_transferbot",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T13:33:22.239Z"
         },
         {
           "node_type": "item",
@@ -1707,7 +1813,8 @@
             "owner": "scrthq",
             "repo": "GoogleAppsScriptSheetMQ",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T13:33:22.239Z"
         }
       ],
       "title": "Chatbots"
@@ -1728,7 +1835,8 @@
             "owner": "huan",
             "repo": "gast",
             "stars": 113
-          }
+          },
+          "first_seen": "2026-08-28T13:33:22.239Z"
         },
         {
           "node_type": "item",
@@ -1743,7 +1851,8 @@
             "owner": "simula-innovation",
             "repo": "qunit",
             "stars": 65
-          }
+          },
+          "first_seen": "2026-08-28T13:33:22.239Z"
         },
         {
           "node_type": "item",
@@ -1758,7 +1867,8 @@
             "owner": "classroomtechtools",
             "repo": "modularLibraries.gs",
             "stars": 49
-          }
+          },
+          "first_seen": "2026-08-28T13:33:22.239Z"
         },
         {
           "node_type": "item",
@@ -1773,7 +1883,8 @@
             "owner": "WildH0g",
             "repo": "UnitTestingApp",
             "stars": 39
-          }
+          },
+          "first_seen": "2026-08-28T13:33:22.239Z"
         },
         {
           "node_type": "item",
@@ -1788,7 +1899,8 @@
             "owner": "artofthesmart",
             "repo": "QUnitGS2",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-28T13:33:22.239Z"
         },
         {
           "node_type": "item",
@@ -1803,7 +1915,8 @@
             "owner": "gasunit",
             "repo": "GASUnit",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-28T13:33:22.239Z"
         }
       ],
       "title": "Testing"
@@ -1824,7 +1937,8 @@
             "owner": "peterherrmann",
             "repo": "BetterLog",
             "stars": 239
-          }
+          },
+          "first_seen": "2026-08-28T13:33:22.239Z"
         },
         {
           "node_type": "item",
@@ -1839,7 +1953,8 @@
             "owner": "andrewroberts",
             "repo": "BBLog",
             "stars": 36
-          }
+          },
+          "first_seen": "2026-08-28T13:33:22.239Z"
         },
         {
           "node_type": "item",
@@ -1854,7 +1969,8 @@
             "owner": "huan",
             "repo": "gasl",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-28T13:33:22.239Z"
         }
       ],
       "title": "Logging"
@@ -1879,7 +1995,8 @@
                     "owner": "benlcollins",
                     "repo": "apps_script_apis",
                     "stars": 194
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:33:22.239Z"
                 }
               ],
               "description": null,
@@ -1901,7 +2018,8 @@
                     "owner": "rgertenbach",
                     "repo": "Reshape",
                     "stars": 25
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:33:22.239Z"
                 }
               ],
               "description": null,
@@ -1923,7 +2041,8 @@
                     "owner": "ahochsteger",
                     "repo": "gmail-processor",
                     "stars": 586
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:33:22.239Z"
                 },
                 {
                   "node_type": "item",
@@ -1938,7 +2057,8 @@
                     "owner": "Spencer-Easton",
                     "repo": "Apps-Script-Gmail-Push-Notifications-v2",
                     "stars": 67
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:33:22.239Z"
                 }
               ],
               "description": null,
@@ -1960,7 +2080,8 @@
                     "owner": "bradjasper",
                     "repo": "ImportJSON",
                     "stars": 2132
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:33:22.239Z"
                 },
                 {
                   "node_type": "item",
@@ -1975,7 +2096,8 @@
                     "owner": "dchester",
                     "repo": "jsonpath",
                     "stars": 1430
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:33:22.239Z"
                 }
               ],
               "description": null,
@@ -2001,8 +2123,9 @@
                 "last_commit": "2024-06-09T20:38:03Z",
                 "owner": "youtube",
                 "repo": "api-samples",
-                "stars": 6020
-              }
+                "stars": 6019
+              },
+              "first_seen": "2026-08-28T13:33:22.239Z"
             },
             {
               "node_type": "item",
@@ -2016,8 +2139,9 @@
                 "last_commit": "2026-07-30T15:21:47Z",
                 "owner": "googleworkspace",
                 "repo": "apps-script-samples",
-                "stars": 5238
-              }
+                "stars": 5237
+              },
+              "first_seen": "2026-08-28T13:33:22.239Z"
             },
             {
               "node_type": "item",
@@ -2032,7 +2156,8 @@
                 "owner": "dwyl",
                 "repo": "learn-to-send-email-via-google-script-html-no-server",
                 "stars": 3210
-              }
+              },
+              "first_seen": "2026-08-28T13:33:22.239Z"
             },
             {
               "node_type": "item",
@@ -2047,7 +2172,8 @@
                 "owner": "bradjasper",
                 "repo": "ImportJSON",
                 "stars": 2132
-              }
+              },
+              "first_seen": "2026-08-28T13:33:22.239Z"
             },
             {
               "node_type": "item",
@@ -2062,7 +2188,8 @@
                 "owner": "Max-Makhrov",
                 "repo": "GoogleSheets",
                 "stars": 246
-              }
+              },
+              "first_seen": "2026-08-28T13:33:22.239Z"
             },
             {
               "node_type": "item",
@@ -2077,7 +2204,8 @@
                 "owner": "andrewroberts",
                 "repo": "GAS-Framework",
                 "stars": 67
-              }
+              },
+              "first_seen": "2026-08-28T13:33:22.239Z"
             },
             {
               "node_type": "item",
@@ -2092,7 +2220,8 @@
                 "owner": "derekantrican",
                 "repo": "Google-Apps-Script-Library",
                 "stars": 39
-              }
+              },
+              "first_seen": "2026-08-28T13:33:22.239Z"
             },
             {
               "node_type": "item",
@@ -2107,7 +2236,8 @@
                 "owner": "jsdbroughton",
                 "repo": "google-sheet-functions",
                 "stars": 37
-              }
+              },
+              "first_seen": "2026-08-28T13:33:22.239Z"
             },
             {
               "node_type": "item",
@@ -2122,7 +2252,8 @@
                 "owner": "rudimusmaximus",
                 "repo": "BurningGAS",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-28T13:33:22.239Z"
             },
             {
               "node_type": "item",
@@ -2137,7 +2268,8 @@
                 "owner": "bkper",
                 "repo": "bkper-gs",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T13:33:22.239Z"
             },
             {
               "node_type": "item",
@@ -2152,7 +2284,8 @@
                 "owner": "sudtanj",
                 "repo": "AutoSteamGifts",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T13:33:22.239Z"
             }
           ],
           "description": "goto top ⇑",
@@ -2164,7 +2297,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:12:59.449Z",
+    "last_updated": "2026-08-28T13:33:22.239Z",
     "original_repository_info": {
       "archived": false,
       "id": 84677016,
