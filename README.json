@@ -186,7 +186,7 @@
             "open_issues": 47,
             "owner": "google",
             "repo": "clasp",
-            "stars": 5807,
+            "stars": 5808,
             "topics": [
               "apps-script",
               "cli",
@@ -3424,7 +3424,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:26:21.758Z",
+    "last_updated": "2026-08-29T08:26:06.098Z",
     "original_repository_info": {
       "archived": false,
       "description": "The usual list of links to interesting resources for Google Apps Script",
