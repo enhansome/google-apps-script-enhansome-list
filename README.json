@@ -12,12 +12,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Apps Script samples for Google Workspace products.",
+                "homepage": "https://developers.google.com/apps-script",
                 "id": 10655461,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-30T15:21:47Z",
+                "open_issues": 121,
                 "owner": "googleworkspace",
                 "repo": "apps-script-samples",
-                "stars": 5237
+                "stars": 5238,
+                "topics": [
+                  "adminsdk",
+                  "apps-script",
+                  "calendar",
+                  "classroom",
+                  "cloud",
+                  "drive",
+                  "google-apps-script",
+                  "google-workspace",
+                  "gsuite",
+                  "samples"
+                ]
               },
               "first_seen": "2026-08-28T13:33:22.239Z"
             },
@@ -28,12 +44,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🚧 Big changes coming! \"auto\" branch is the future of the project",
+                "homepage": "https://goo.gl/Ke5BoF",
                 "id": 68617945,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2018-12-27T02:52:57Z",
+                "open_issues": 1,
                 "owner": "jc324x",
                 "repo": "google-apps-script-cheat-sheet",
-                "stars": 403
+                "stars": 403,
+                "topics": [
+                  "google-apps-script",
+                  "javascript"
+                ]
               },
               "first_seen": "2026-08-28T13:33:22.239Z"
             },
@@ -44,12 +68,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Google Apps Script snippets",
+                "homepage": "https://apps-script-snippets.contributor.pw",
                 "id": 53063179,
                 "language": "JavaScript",
+                "license": "Unlicense",
                 "last_commit": "2023-06-08T08:01:29Z",
+                "open_issues": 43,
                 "owner": "oshliaer",
                 "repo": "google-apps-script-snippets",
-                "stars": 273
+                "stars": 273,
+                "topics": [
+                  "google-apps-script",
+                  "googleappsscript",
+                  "lists",
+                  "snippets"
+                ]
               },
               "first_seen": "2026-08-28T13:33:22.239Z"
             },
@@ -60,12 +94,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "This repository contains a number of code templates for Google Apps Script that provide example frameworks for Apps Script projects.",
+                "homepage": null,
                 "id": 26225994,
                 "language": "HTML",
+                "license": "Apache-2.0",
                 "last_commit": "2018-03-27T02:19:47Z",
+                "open_issues": 1,
                 "owner": "googlearchive",
                 "repo": "apps-script-templates",
-                "stars": 155
+                "stars": 155,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:33:22.239Z"
             },
@@ -76,12 +115,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "My Google Apps Script projects shared on YouTube.",
+                "homepage": "https://youtube.com/ashtonfei/",
                 "id": 280304493,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2025-01-18T09:29:54Z",
+                "open_issues": 1,
                 "owner": "ashtonfei",
                 "repo": "google-apps-script-projects",
-                "stars": 151
+                "stars": 151,
+                "topics": [
+                  "addon",
+                  "automation",
+                  "googleappsscript",
+                  "googledocs",
+                  "googleforms",
+                  "googlesheets",
+                  "googleslides",
+                  "googleworkspace"
+                ]
               },
               "first_seen": "2026-08-28T13:33:22.239Z"
             }
@@ -103,12 +156,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Google Drive CLI Client",
+            "homepage": null,
             "id": 7398306,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2023-04-19T18:46:51Z",
+            "open_issues": 432,
             "owner": "prasmussen",
             "repo": "gdrive",
-            "stars": 8952
+            "stars": 8953,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:33:22.239Z"
         },
@@ -119,12 +177,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🔗 Command Line Apps Script Projects",
+            "homepage": "https://developers.google.com/apps-script/guides/clasp",
             "id": 113111403,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T13:59:45Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T22:59:47Z",
+            "open_issues": 47,
             "owner": "google",
             "repo": "clasp",
-            "stars": 5805
+            "stars": 5807,
+            "topics": [
+              "apps-script",
+              "cli",
+              "javascript",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T13:33:22.239Z"
         },
@@ -135,12 +203,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "sync gas code to github",
+            "homepage": "https://chrome.google.com/webstore/detail/lfjcgcmkmjjlieihflfhjopckgpelofo",
             "id": 69643738,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-03-12T00:58:59Z",
+            "open_issues": 51,
             "owner": "leonhartX",
             "repo": "gas-github",
-            "stars": 4472
+            "stars": 4473,
+            "topics": [
+              "chrome-extension",
+              "diff-dialog",
+              "gas",
+              "gas-editor",
+              "github",
+              "github-api",
+              "github-enterprise",
+              "google-apps-script"
+            ]
           },
           "first_seen": "2026-08-28T13:33:22.239Z"
         },
@@ -151,12 +233,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Webpack plugin for Google Apps Script",
+            "homepage": null,
             "id": 74210633,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2026-08-10T23:15:05Z",
+            "open_issues": 22,
             "owner": "fossamagna",
             "repo": "gas-webpack-plugin",
-            "stars": 180
+            "stars": 180,
+            "topics": [
+              "apps-script",
+              "google-apps-script",
+              "webpack",
+              "webpack-plugin"
+            ]
           },
           "first_seen": "2026-08-28T13:33:22.239Z"
         },
@@ -167,12 +259,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "High-performance Google Drive CLI and Model Context Protocol (MCP) Server for LLM/AI agents. Natively execute Google Apps Script (GAS) under a secure whitelisted runtime sandbox, automate transfers, and manage Drive infrastructure.",
+            "homepage": null,
             "id": 89201523,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-26T07:59:38Z",
+            "open_issues": 0,
             "owner": "tanaikech",
             "repo": "ggsrun",
-            "stars": 171
+            "stars": 171,
+            "topics": [
+              "ai-agents",
+              "cli",
+              "cli-app",
+              "cli-tool",
+              "concurrency",
+              "developer-tools",
+              "gas",
+              "golang",
+              "google-apps-script",
+              "google-apps-script-api",
+              "google-drive",
+              "llm",
+              "llm-tools",
+              "mcp",
+              "mcp-server",
+              "model-context-protocol",
+              "sandboxing",
+              "security-sandbox",
+              "terminal",
+              "terminal-app"
+            ]
           },
           "first_seen": "2026-08-28T13:33:22.239Z"
         },
@@ -183,12 +301,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🛠  Manage and deploy your Google Apps Script projects using the command line",
+            "homepage": "https://www.npmjs.com/package/google-apps-script",
             "id": 78945488,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-02-04T13:40:08Z",
+            "open_issues": 44,
             "owner": "MaartenDesnouck",
             "repo": "google-apps-script",
-            "stars": 126
+            "stars": 126,
+            "topics": [
+              "apps-script",
+              "cli",
+              "gas-include",
+              "google-apps-script",
+              "google-drive",
+              "npm"
+            ]
           },
           "first_seen": "2026-08-28T13:33:22.239Z"
         },
@@ -199,12 +329,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Execute and test your google app scripts locally in node.js",
+            "homepage": null,
             "id": 63928224,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-04-17T08:59:54Z",
+            "open_issues": 11,
             "owner": "mzagorny",
             "repo": "gas-local",
-            "stars": 93
+            "stars": 93,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:33:22.239Z"
         },
@@ -215,12 +350,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bringing Google Apps Script to the modern dev stack via local service emulation.",
+            "homepage": "https://mcpher.com",
             "id": 931569465,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-12T13:07:37Z",
+            "open_issues": 57,
             "owner": "brucemcpherson",
             "repo": "gas-fakes",
-            "stars": 79
+            "stars": 79,
+            "topics": [
+              "appsscript",
+              "containers",
+              "node",
+              "workspace"
+            ]
           },
           "first_seen": "2026-08-28T13:33:22.239Z"
         },
@@ -231,12 +376,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Dev Flow for Google Appscript",
+            "homepage": null,
             "id": 96503619,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-09-13T19:26:20Z",
+            "open_issues": 60,
             "owner": "rudimusmaximus",
             "repo": "DevFlow",
-            "stars": 54
+            "stars": 54,
+            "topics": [
+              "google-apps-script",
+              "gsuite",
+              "gsuite-addon"
+            ]
           },
           "first_seen": "2026-08-28T13:33:22.239Z"
         },
@@ -247,12 +401,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ESLint plugin for Google Apps Script environment",
+            "homepage": null,
             "id": 81651584,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-07-03T16:43:21Z",
+            "open_issues": 4,
             "owner": "selectnull",
             "repo": "eslint-plugin-googleappsscript",
-            "stars": 52
+            "stars": 52,
+            "topics": [
+              "eslint-plugin",
+              "google-apps-script"
+            ]
           },
           "first_seen": "2026-08-28T13:33:22.239Z"
         },
@@ -263,12 +425,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "esbuild plugin for Google Apps Script.",
+            "homepage": null,
             "id": 380752690,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-07-22T15:49:03Z",
+            "open_issues": 3,
             "owner": "mahaker",
             "repo": "esbuild-gas-plugin",
-            "stars": 45
+            "stars": 45,
+            "topics": [
+              "deno",
+              "esbuild",
+              "esbuild-plugin",
+              "gas",
+              "google-apps-script",
+              "hacktoberfest",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T13:33:22.239Z"
         },
@@ -279,12 +454,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Recommended extensions and editor settings for working with Google Apps Script in VS Code.",
+            "homepage": "https://marketplace.visualstudio.com/items?itemName=labnol.google-apps-script",
             "id": 430039574,
             "language": null,
+            "license": "MIT",
             "last_commit": "2022-02-27T08:14:02Z",
+            "open_issues": 1,
             "owner": "labnol",
             "repo": "vscode-google-apps-script",
-            "stars": 39
+            "stars": 39,
+            "topics": [
+              "google-apps-script",
+              "vscode"
+            ]
           },
           "first_seen": "2026-08-28T13:33:22.239Z"
         },
@@ -295,12 +478,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This sets up clasp tokens for pushing and deploying project to Google App Script",
+            "homepage": null,
             "id": 258968393,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-04-23T02:38:12Z",
+            "open_issues": 2,
             "owner": "namaggarwal",
             "repo": "clasp-token-action",
-            "stars": 23
+            "stars": 23,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:33:22.239Z"
         },
@@ -311,12 +499,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A d.ts generator for clasp projects",
+            "homepage": null,
             "id": 207030393,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-12-02T17:54:29Z",
+            "open_issues": 10,
             "owner": "bkper",
             "repo": "clasp-types",
-            "stars": 21
+            "stars": 21,
+            "topics": [
+              "clasp",
+              "google-apps-script",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T13:33:22.239Z"
         },
@@ -327,12 +524,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🌀 Parcel plugin that enables Google Apps Script bundling.",
+            "homepage": "https://www.npmjs.com/package/parcel-optimizer-gas",
             "id": 358844030,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-06-04T22:22:13Z",
+            "open_issues": 0,
             "owner": "VladimirMikulic",
             "repo": "parcel-optimizer-gas",
-            "stars": 13
+            "stars": 13,
+            "topics": [
+              "bundle-adjustment",
+              "google-apps-script",
+              "javascript",
+              "parcel2",
+              "parcel2-plugin",
+              "web"
+            ]
           },
           "first_seen": "2026-08-28T13:33:22.239Z"
         },
@@ -343,12 +552,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 84292242,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2017-03-24T05:23:32Z",
+            "open_issues": 0,
             "owner": "brainysmurf",
             "repo": "gamified_journal",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:33:22.239Z"
         },
@@ -359,12 +573,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Google Apps Script autocompletions",
+            "homepage": null,
             "id": 125506697,
             "language": "CoffeeScript",
+            "license": null,
             "last_commit": "2018-03-18T05:25:28Z",
+            "open_issues": 1,
             "owner": "KaiShoya",
             "repo": "autocomplete-gas",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:33:22.239Z"
         },
@@ -377,12 +596,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is your boilerplate project for developing React apps inside Google Sheets, Docs, Forms and Slides projects. It's perfect for personal projects and for publishing complex add-ons in the Google Workspace Marketplace.",
+                "homepage": null,
                 "id": 148562547,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-02-14T10:07:44Z",
+                "open_issues": 32,
                 "owner": "enuchi",
                 "repo": "React-Google-Apps-Script",
-                "stars": 1527
+                "stars": 1527,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:33:22.239Z"
             },
@@ -393,12 +617,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Setup a local development environment inside Visual Studio Code and build Google Workspace add-ons with Google Apps Script",
+                "homepage": "https://www.youtube.com/watch?v=KxdCIbeO4Uk",
                 "id": 137205930,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-04-14T05:55:18Z",
+                "open_issues": 6,
                 "owner": "labnol",
                 "repo": "apps-script-starter",
-                "stars": 1250
+                "stars": 1251,
+                "topics": [
+                  "gmail",
+                  "google-apps-script",
+                  "google-sheets",
+                  "google-workspace"
+                ]
               },
               "first_seen": "2026-08-28T13:33:22.239Z"
             },
@@ -409,12 +643,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A starter template for Google Apps Script by clasp",
+                "homepage": null,
                 "id": 125213406,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-04-29T09:15:18Z",
+                "open_issues": 0,
                 "owner": "howdy39",
                 "repo": "gas-clasp-starter",
-                "stars": 259
+                "stars": 259,
+                "topics": [
+                  "apps-script",
+                  "boilerplate",
+                  "clasp",
+                  "gas",
+                  "gas-clasp-starter",
+                  "google-apps-script",
+                  "javascript",
+                  "rollup",
+                  "template",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T13:33:22.239Z"
             },
@@ -425,12 +675,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 650244559,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2025-11-04T15:21:50Z",
+                "open_issues": 3,
                 "owner": "WildH0g",
                 "repo": "apps-script-engine-template",
-                "stars": 75
+                "stars": 75,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:33:22.239Z"
             },
@@ -441,12 +696,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Sample repository for Typescript based Google Apps Script projects",
+                "homepage": null,
                 "id": 186726751,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-01-06T17:17:13Z",
+                "open_issues": 6,
                 "owner": "PopGoesTheWza",
                 "repo": "ts-gas-project-starter",
-                "stars": 67
+                "stars": 67,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:33:22.239Z"
             },
@@ -457,12 +717,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Template repository to start a Google Apps Script project using Typescript and some other helper dev stuff",
+                "homepage": null,
                 "id": 368968259,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2025-10-08T05:27:48Z",
+                "open_issues": 0,
                 "owner": "cristobalgvera",
                 "repo": "ez-clasp",
-                "stars": 35
+                "stars": 35,
+                "topics": [
+                  "babel",
+                  "biome",
+                  "clasp",
+                  "gas",
+                  "google",
+                  "google-apps-script",
+                  "husky",
+                  "javascript",
+                  "jest",
+                  "lint-staged",
+                  "nodejs",
+                  "rollup",
+                  "ts-jest",
+                  "typescript",
+                  "ultracite"
+                ]
               },
               "first_seen": "2026-08-28T13:33:22.239Z"
             },
@@ -473,12 +754,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Empty projet to start develop in Google AppsScript locally",
+                "homepage": null,
                 "id": 118443336,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2020-10-16T09:45:15Z",
+                "open_issues": 0,
                 "owner": "JeanRemiDelteil",
                 "repo": "gas-starter-kit",
-                "stars": 31
+                "stars": 31,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:33:22.239Z"
             },
@@ -489,12 +775,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Empty projet to start develop in Google AppsScript locally",
+                "homepage": null,
                 "id": 118443336,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2020-10-16T09:45:15Z",
+                "open_issues": 0,
                 "owner": "JeanRemiDelteil",
                 "repo": "gas-starter-kit",
-                "stars": 31
+                "stars": 31,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:33:22.239Z"
             },
@@ -505,12 +796,24 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A starting point for google apps script projects for transpilation, editing and deployment",
+                "homepage": null,
                 "id": 120003117,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-01-03T15:15:17Z",
+                "open_issues": 15,
                 "owner": "nirazul",
                 "repo": "google-apps-script-template",
-                "stars": 30
+                "stars": 30,
+                "topics": [
+                  "babel",
+                  "clasp",
+                  "es6",
+                  "gas",
+                  "google-apps-script",
+                  "webpack"
+                ]
               },
               "first_seen": "2026-08-28T13:33:22.239Z"
             },
@@ -521,12 +824,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Example repo of using esmodules with Apps Script",
+                "homepage": null,
                 "id": 324352219,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2021-12-26T12:05:36Z",
+                "open_issues": 1,
                 "owner": "atti187",
                 "repo": "esmodules",
-                "stars": 30
+                "stars": 30,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:33:22.239Z"
             },
@@ -537,12 +845,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Boot Framework for Google Apps Script™ projects.",
+                "homepage": "https://maksymstoianov.com",
                 "id": 991221449,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-19T20:22:11Z",
+                "open_issues": 1,
                 "owner": "bootgs",
                 "repo": "boot",
-                "stars": 26
+                "stars": 26,
+                "topics": [
+                  "apps-script",
+                  "appsscript",
+                  "appsscript-library",
+                  "bootgs",
+                  "framework",
+                  "google-apps-script",
+                  "google-apps-script-library",
+                  "google-apps-scripts",
+                  "javascript",
+                  "javascript-library",
+                  "maksymstoianov",
+                  "typescript",
+                  "typescript-library"
+                ]
               },
               "first_seen": "2026-08-28T13:33:22.239Z"
             },
@@ -553,12 +880,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ES6+Webpack boilerplate for Google Apps Script",
+                "homepage": null,
                 "id": 87029383,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2017-04-03T02:14:00Z",
+                "open_issues": 1,
                 "owner": "artnc",
                 "repo": "gas-es6-webpack",
-                "stars": 22
+                "stars": 22,
+                "topics": [
+                  "babel",
+                  "boilerplate",
+                  "es6",
+                  "google-apps-script",
+                  "webpack"
+                ]
               },
               "first_seen": "2026-08-28T13:33:22.239Z"
             },
@@ -569,12 +907,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A minimal boilerplate with webpack for Google Apps Script",
+                "homepage": null,
                 "id": 137437940,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-08-22T17:35:14Z",
+                "open_issues": 9,
                 "owner": "tani",
                 "repo": "gas-minimal-boilerplate",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:33:22.239Z"
             },
@@ -585,12 +928,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is a starter template for Google Apps Script project. Easily develop Google Workspace™ and Editor add-ons for Google Docs, Sheets, Slides etc. Use any frontend framework supported by Vite (React, Vue, Svelte etc.)",
+                "homepage": null,
                 "id": 615728716,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-10-03T15:04:34Z",
+                "open_issues": 1,
                 "owner": "rupampoddar",
                 "repo": "apps-script-template",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:33:22.239Z"
             },
@@ -601,12 +949,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "jwt rest api using realworld spec and  google apps script ",
+                "homepage": null,
                 "id": 221129206,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-01-05T00:46:45Z",
+                "open_issues": 20,
                 "owner": "lastlink",
                 "repo": "realworld-apps-script",
-                "stars": 14
+                "stars": 14,
+                "topics": [
+                  "appsscript",
+                  "google-apps-script",
+                  "gsuite",
+                  "realworld-backend"
+                ]
               },
               "first_seen": "2026-08-28T13:33:22.239Z"
             },
@@ -617,12 +975,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Automating Apps Script build, test, deployment and publishing in Chrome Webstore as an add-on using Travis CI",
+                "homepage": null,
                 "id": 122983315,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2018-02-26T15:49:30Z",
+                "open_issues": 0,
                 "owner": "faresd",
                 "repo": "google-apps-script_travis-ci",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:33:22.239Z"
             },
@@ -633,12 +996,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "gas clasp project template",
+                "homepage": null,
                 "id": 155036048,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-10-21T20:55:44Z",
+                "open_issues": 23,
                 "owner": "takanakahiko",
                 "repo": "sao-clasp",
-                "stars": 13
+                "stars": 13,
+                "topics": [
+                  "clasp",
+                  "googleappsscript",
+                  "sao-template"
+                ]
               },
               "first_seen": "2026-08-28T13:33:22.239Z"
             },
@@ -649,12 +1021,20 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Template for developing Google Apps Script with Webpack",
+                "homepage": null,
                 "id": 89160662,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2017-05-01T11:15:56Z",
+                "open_issues": 1,
                 "owner": "zaki-yama",
                 "repo": "webpack-google-apps-script-template",
-                "stars": 12
+                "stars": 12,
+                "topics": [
+                  "google-apps-script",
+                  "webpack"
+                ]
               },
               "first_seen": "2026-08-28T13:33:22.239Z"
             },
@@ -665,12 +1045,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Google apps script in typescript with jest debugger support",
+                "homepage": null,
                 "id": 250943192,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2023-01-05T17:41:45Z",
+                "open_issues": 18,
                 "owner": "lastlink",
                 "repo": "google-app-script-ts-jest",
-                "stars": 8
+                "stars": 8,
+                "topics": [
+                  "google-apps-script",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T13:33:22.239Z"
             },
@@ -681,12 +1069,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Google Apps Script with CI/CD(wercker) Starter Kit",
+                "homepage": "https://gazee.net/develop/google-apps-script-github-ci/",
                 "id": 148358872,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2018-09-11T18:10:11Z",
+                "open_issues": 0,
                 "owner": "gazf",
                 "repo": "google-apps-script-ci-starter",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "ci",
+                  "clasp",
+                  "google-apps-script",
+                  "node",
+                  "wercker"
+                ]
               },
               "first_seen": "2026-08-28T13:33:22.239Z"
             }
@@ -708,12 +1107,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is for the Google Apps Script Library Database and a web application for searching the libraries..",
+            "homepage": null,
             "id": 240986559,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2026-05-18T08:00:05Z",
+            "open_issues": 0,
             "owner": "tanaikech",
             "repo": "Google-Apps-Script-Library-Database",
-            "stars": 142
+            "stars": 142,
+            "topics": [
+              "gas-library",
+              "google-apps-script",
+              "libraries",
+              "library-database",
+              "search"
+            ]
           },
           "first_seen": "2026-08-28T13:33:22.239Z"
         },
@@ -726,12 +1136,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Google Apps Script binding for Firebase Realtime Database",
+                "homepage": null,
                 "id": 89213679,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2021-02-01T11:26:01Z",
+                "open_issues": 6,
                 "owner": "RomainVialard",
                 "repo": "FirebaseApp",
-                "stars": 121
+                "stars": 121,
+                "topics": [
+                  "apps-script",
+                  "firebase",
+                  "firebase-realtime-database",
+                  "google-apps-script"
+                ]
               },
               "first_seen": "2026-08-28T13:33:22.239Z"
             },
@@ -742,12 +1162,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AlaSQLGS is a library that enables the use of the AlaSQL.js library in Google Apps Script",
+                "homepage": null,
                 "id": 89807704,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-03-04T02:26:32Z",
+                "open_issues": 11,
                 "owner": "oshliaer",
                 "repo": "alasqlgs",
-                "stars": 39
+                "stars": 39,
+                "topics": [
+                  "alasql",
+                  "google-apps-script",
+                  "library"
+                ]
               },
               "first_seen": "2026-08-28T13:33:22.239Z"
             },
@@ -758,12 +1187,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Google Apps Script library for Firebase Admin, looking a lot like the NodeJS Admin SDK",
+                "homepage": null,
                 "id": 149282751,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2018-09-18T14:25:00Z",
+                "open_issues": 0,
                 "owner": "p3sn",
                 "repo": "FireScript",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:33:22.239Z"
             }
@@ -781,12 +1215,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python library to interact with Google Sheets V4 API",
+                "homepage": null,
                 "id": 145391149,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-03-16T08:49:17Z",
+                "open_issues": 7,
                 "owner": "socialpoint-labs",
                 "repo": "sheetfu",
-                "stars": 849
+                "stars": 848,
+                "topics": [
+                  "google-sheets-api",
+                  "google-sheets-api-v4",
+                  "google-sheets-orm",
+                  "google-spreadsheet",
+                  "python-data",
+                  "python-library",
+                  "sheetfu",
+                  "spreadsheet-manipulation",
+                  "spreadsheet-mapper",
+                  "spreadsheet-orm",
+                  "spreadsheets"
+                ]
               },
               "first_seen": "2026-08-28T13:33:22.239Z"
             },
@@ -797,12 +1248,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Object-Spreadsheet Mapping for Google Apps Script",
+                "homepage": null,
                 "id": 84649558,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2022-06-17T12:04:38Z",
+                "open_issues": 7,
                 "owner": "itmammoth",
                 "repo": "Tamotsu",
-                "stars": 135
+                "stars": 135,
+                "topics": [
+                  "google-apps-script",
+                  "javascript",
+                  "spreadsheet"
+                ]
               },
               "first_seen": "2026-08-28T13:33:22.239Z"
             },
@@ -813,12 +1273,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An ORM for Google Apps scripts",
+                "homepage": null,
                 "id": 27947394,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2020-01-14T17:19:19Z",
+                "open_issues": 12,
                 "owner": "7imon7ays",
                 "repo": "Goodel",
-                "stars": 55
+                "stars": 55,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:33:22.239Z"
             },
@@ -829,12 +1294,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Gexpress middleware to expose Gspreadsheet as REST endpoints in 4 lines of appscript",
+                "homepage": null,
                 "id": 178372825,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2020-05-28T19:06:11Z",
+                "open_issues": 2,
                 "owner": "coderofsalvation",
                 "repo": "Gexpress-middleware-RESTsheet",
-                "stars": 55
+                "stars": 55,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:33:22.239Z"
             },
@@ -845,12 +1315,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A slightly more object-oriented, ORM-y, and altogether pleasant way of dealing with Google Spreadsheets when using Google Apps Script.",
+                "homepage": null,
                 "id": 11660935,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2013-07-25T13:22:48Z",
+                "open_issues": 0,
                 "owner": "jsoma",
                 "repo": "gs-spreadsheet-manager",
-                "stars": 50
+                "stars": 50,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:33:22.239Z"
             },
@@ -861,12 +1336,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "How to transform Google Sheet and Google App script into a SQL Database - https://docs.yiono.fr/",
+                "homepage": null,
                 "id": 221197334,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2019-12-27T10:43:03Z",
+                "open_issues": 2,
                 "owner": "YionoFr",
                 "repo": "GoogleScriptSQL",
-                "stars": 47
+                "stars": 47,
+                "topics": [
+                  "gas",
+                  "google-apps-script",
+                  "google-sheets",
+                  "google-spreadsheet",
+                  "javascript",
+                  "sql"
+                ]
               },
               "first_seen": "2026-08-28T13:33:22.239Z"
             },
@@ -877,12 +1364,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Google Apps Script ORM",
+                "homepage": null,
                 "id": 812360508,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-09-25T07:00:56Z",
+                "open_issues": 0,
                 "owner": "Sintropiadotio",
                 "repo": "orma",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:33:22.239Z"
             },
@@ -893,12 +1385,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An Object-to-Spreadsheet library for Google Apps Script that serializes and deserializes objects for you.",
+                "homepage": null,
                 "id": 500621315,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-06-09T01:24:01Z",
+                "open_issues": 2,
                 "owner": "artofthesmart",
                 "repo": "Ob2ss",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:33:22.239Z"
             }
@@ -916,12 +1413,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lodash is a library that enables the use of the lodash.js library in Google Apps Script",
+                "homepage": "https://github.com/contributorpw/lodashgs",
                 "id": 88663245,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-04-18T10:16:00Z",
+                "open_issues": 4,
                 "owner": "oshliaer",
                 "repo": "lodashgs",
-                "stars": 164
+                "stars": 164,
+                "topics": [
+                  "google-apps-script",
+                  "javascript",
+                  "library",
+                  "lodash",
+                  "lodash-library",
+                  "underscore"
+                ]
               },
               "first_seen": "2026-08-28T13:33:22.239Z"
             },
@@ -932,12 +1441,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Express middleware for google appscript (build NODEJS-like applications) + generated api-client",
+                "homepage": null,
                 "id": 138007198,
                 "language": null,
+                "license": null,
                 "last_commit": "2020-05-29T17:23:17Z",
+                "open_issues": 0,
                 "owner": "coderofsalvation",
                 "repo": "Gexpress",
-                "stars": 79
+                "stars": 79,
+                "topics": [
+                  "appscript",
+                  "express",
+                  "express-middleware",
+                  "google",
+                  "google-apps-script",
+                  "javascript"
+                ]
               },
               "first_seen": "2026-08-28T13:33:22.239Z"
             },
@@ -948,12 +1469,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "cUseful created by GasGit automation",
+                "homepage": "http://www.mcpher.com",
                 "id": 30708541,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2024-08-30T13:45:45Z",
+                "open_issues": 0,
                 "owner": "brucemcpherson",
                 "repo": "cUseful",
-                "stars": 71
+                "stars": 71,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:33:22.239Z"
             },
@@ -964,12 +1490,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Underscore for Google Apps Script",
+                "homepage": null,
                 "id": 16101976,
                 "language": "CoffeeScript",
+                "license": "MIT",
                 "last_commit": "2021-06-25T05:14:52Z",
+                "open_issues": 0,
                 "owner": "simula-innovation",
                 "repo": "gas-underscore",
-                "stars": 60
+                "stars": 60,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:33:22.239Z"
             },
@@ -980,12 +1511,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of scripts for Google Apps Scripts",
+                "homepage": null,
                 "id": 25317716,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2021-12-01T01:16:56Z",
+                "open_issues": 0,
                 "owner": "yinonavraham",
                 "repo": "GoogleAppsScripts",
-                "stars": 55
+                "stars": 55,
+                "topics": [
+                  "cache-service",
+                  "gmail-search",
+                  "google-apps-script",
+                  "xml-rpc"
+                ]
               },
               "first_seen": "2026-08-28T13:33:22.239Z"
             },
@@ -996,12 +1537,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of scripts for Google Apps Scripts",
+                "homepage": null,
                 "id": 25317716,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2021-12-01T01:16:56Z",
+                "open_issues": 0,
                 "owner": "yinonavraham",
                 "repo": "GoogleAppsScripts",
-                "stars": 55
+                "stars": 55,
+                "topics": [
+                  "cache-service",
+                  "gmail-search",
+                  "google-apps-script",
+                  "xml-rpc"
+                ]
               },
               "first_seen": "2026-08-28T13:33:22.239Z"
             },
@@ -1012,12 +1563,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of scripts for Google Apps Scripts",
+                "homepage": null,
                 "id": 25317716,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2021-12-01T01:16:56Z",
+                "open_issues": 0,
                 "owner": "yinonavraham",
                 "repo": "GoogleAppsScripts",
-                "stars": 55
+                "stars": 55,
+                "topics": [
+                  "cache-service",
+                  "gmail-search",
+                  "google-apps-script",
+                  "xml-rpc"
+                ]
               },
               "first_seen": "2026-08-28T13:33:22.239Z"
             },
@@ -1028,12 +1589,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is a GAS library for creating and requesting the type of multipart/form-data using Google Apps Script. This library enhances Class UelFetchApp of Google Apps Script.",
+                "homepage": null,
                 "id": 182347891,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2021-03-21T12:47:15Z",
+                "open_issues": 3,
                 "owner": "tanaikech",
                 "repo": "FetchApp",
-                "stars": 53
+                "stars": 53,
+                "topics": [
+                  "developer-tools",
+                  "fetch",
+                  "gas-library",
+                  "google-apps-script",
+                  "library",
+                  "multipart-formdata"
+                ]
               },
               "first_seen": "2026-08-28T13:33:22.239Z"
             },
@@ -1044,12 +1617,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Blazingly fast Properties storage for Google Apps Script ⚡",
+                "homepage": null,
                 "id": 363334432,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-05-10T20:17:56Z",
+                "open_issues": 1,
                 "owner": "joshsny",
                 "repo": "SpeedStore",
-                "stars": 42
+                "stars": 42,
+                "topics": [
+                  "google-apps-script"
+                ]
               },
               "first_seen": "2026-08-28T13:33:22.239Z"
             },
@@ -1060,12 +1640,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "RangeListApp is a GAS library for retrieving, putting and replacing values for Spreadsheet by a range list with a1Notation using Google Apps Script (GAS).",
+                "homepage": null,
                 "id": 142529516,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2021-03-21T12:50:19Z",
+                "open_issues": 2,
                 "owner": "tanaikech",
                 "repo": "RangeListApp",
-                "stars": 31
+                "stars": 31,
+                "topics": [
+                  "developer-tools",
+                  "gas-library",
+                  "google-apps-script",
+                  "google-spreadsheet",
+                  "library",
+                  "spreadsheet"
+                ]
               },
               "first_seen": "2026-08-28T13:33:22.239Z"
             },
@@ -1076,12 +1668,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Utilities for Google Apps Script™ projects.",
+                "homepage": "https://maksymstoianov.com",
                 "id": 1022965453,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-20T13:33:23Z",
+                "open_issues": 1,
                 "owner": "MaksymStoianov",
                 "repo": "apps-script-utils",
-                "stars": 30
+                "stars": 30,
+                "topics": [
+                  "apps-script",
+                  "appsscript",
+                  "developer-tools",
+                  "google-apps-script",
+                  "google-apps-script-library",
+                  "google-docs",
+                  "google-drive",
+                  "google-forms",
+                  "google-sheets",
+                  "google-slides",
+                  "google-workspace",
+                  "googleappsscript",
+                  "gsuite",
+                  "javascript",
+                  "library",
+                  "maksymstoianov",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T13:33:22.239Z"
             },
@@ -1092,12 +1707,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Utility class (built in TypeScript) for storing small or large values in Google Apps Script properties. ",
+                "homepage": null,
                 "id": 186735680,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2022-12-06T15:49:42Z",
+                "open_issues": 10,
                 "owner": "johndturn",
                 "repo": "google-apps-script-storageservice",
-                "stars": 25
+                "stars": 25,
+                "topics": [
+                  "google-apps-script",
+                  "google-sheets",
+                  "state-management",
+                  "storage",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T13:33:22.239Z"
             },
@@ -1108,12 +1734,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GetEditType is a GAS library for retrieving the edit types of the OnEdit event trigger of Spreadsheet using Google Apps Script (GAS).",
+                "homepage": null,
                 "id": 191117131,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2021-03-22T05:50:26Z",
+                "open_issues": 0,
                 "owner": "tanaikech",
                 "repo": "GetEditType",
-                "stars": 16
+                "stars": 16,
+                "topics": [
+                  "developer-tools",
+                  "gas-library",
+                  "google-apps-script",
+                  "google-spreadsheet",
+                  "library",
+                  "spreadsheet",
+                  "trigger"
+                ]
               },
               "first_seen": "2026-08-28T13:33:22.239Z"
             },
@@ -1124,12 +1763,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is a library for retrieving the process and information of Google Apps Script. For example, one of methods retrieves the total execution time of all functions executed by the time-driven trigger at owner's account.",
+                "homepage": null,
                 "id": 169841542,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2019-02-10T02:04:20Z",
+                "open_issues": 1,
                 "owner": "tanaikech",
                 "repo": "ProcessApp",
-                "stars": 16
+                "stars": 16,
+                "topics": [
+                  "developer-tools",
+                  "gas-library",
+                  "google-apps-script",
+                  "library"
+                ]
               },
               "first_seen": "2026-08-28T13:33:22.239Z"
             },
@@ -1140,12 +1789,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A replacement for the Google Apps Script UrlShortener advanced service that uses bit.ly",
+                "homepage": null,
                 "id": 153171861,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2021-02-21T16:37:30Z",
+                "open_issues": 0,
                 "owner": "mhawksey",
                 "repo": "UrlShortener",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:33:22.239Z"
             },
@@ -1156,12 +1810,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Google Apps Script",
+                "homepage": "https://script.google.com",
                 "id": 124115481,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2021-08-24T23:25:08Z",
+                "open_issues": 0,
                 "owner": "syslogic",
                 "repo": "google-apps-script",
-                "stars": 12
+                "stars": 12,
+                "topics": [
+                  "cloud-datastore",
+                  "google-apps-script"
+                ]
               },
               "first_seen": "2026-08-28T13:33:22.239Z"
             },
@@ -1172,12 +1834,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An implementation of JSON-RPC 2.0 specification http://www.jsonrpc.org/specification",
+                "homepage": null,
                 "id": 12901393,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2013-09-18T05:39:07Z",
+                "open_issues": 0,
                 "owner": "michalliu",
                 "repo": "google-app-script-jsonrpc",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:33:22.239Z"
             },
@@ -1188,12 +1855,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A store for appscripts that utilizes Properties, Cache, and an in-memory map for speed.",
+                "homepage": null,
                 "id": 324760377,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2021-07-15T14:10:38Z",
+                "open_issues": 1,
                 "owner": "classroomtechtools",
                 "repo": "ObjectStore",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:33:22.239Z"
             }
@@ -1211,12 +1883,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "About The Google Apps Script binding for Gemini and OpenAI generative AI API",
+                "homepage": null,
                 "id": 865464401,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T09:55:07Z",
+                "open_issues": 0,
                 "owner": "scriptit-fr",
                 "repo": "GenAIApp",
-                "stars": 28
+                "stars": 28,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:33:22.239Z"
             }
@@ -1234,12 +1911,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cheerio/ jQuery for Google Apps Script",
+                "homepage": null,
                 "id": 137228445,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-08-17T00:15:42Z",
+                "open_issues": 6,
                 "owner": "tani",
                 "repo": "cheeriogs",
-                "stars": 494
+                "stars": 494,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:33:22.239Z"
             },
@@ -1250,12 +1932,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A browserified version of fb55/htmlparser2 modified to work in Google Apps Script",
+                "homepage": null,
                 "id": 93416852,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2017-06-05T15:26:40Z",
+                "open_issues": 3,
                 "owner": "Spencer-Easton",
                 "repo": "Apps-Script-htmlparser2-library",
-                "stars": 30
+                "stars": 30,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:33:22.239Z"
             },
@@ -1266,12 +1953,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "extract text from PDF in Google Apps Script",
+                "homepage": null,
                 "id": 720037165,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2024-08-07T12:26:41Z",
+                "open_issues": 1,
                 "owner": "tani",
                 "repo": "PDF.gs",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:33:22.239Z"
             }
@@ -1289,12 +1981,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An OAuth2 library for Google Apps Script.",
+                "homepage": "https://developers.google.com/apps-script/",
                 "id": 22855593,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-06-16T13:10:18Z",
+                "open_issues": 47,
                 "owner": "googleworkspace",
                 "repo": "apps-script-oauth2",
-                "stars": 1744
+                "stars": 1745,
+                "topics": [
+                  "apps-script",
+                  "google-apps-script",
+                  "google-workspace",
+                  "gsuite",
+                  "oauth"
+                ]
               },
               "first_seen": "2026-08-28T13:33:22.239Z"
             },
@@ -1305,12 +2008,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "An OAuth1 library for Google Apps Script.",
+                "homepage": null,
                 "id": 29898524,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2025-11-18T23:22:40Z",
+                "open_issues": 0,
                 "owner": "googleworkspace",
                 "repo": "apps-script-oauth1",
-                "stars": 157
+                "stars": 157,
+                "topics": [
+                  "apps-script",
+                  "google-apps-script",
+                  "gsuite",
+                  "oauth"
+                ]
               },
               "first_seen": "2026-08-28T13:33:22.239Z"
             },
@@ -1321,12 +2034,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "cGoa created by GasGit automation",
+                "homepage": "http://www.mcpher.com",
                 "id": 45398095,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2024-06-19T13:57:30Z",
+                "open_issues": 3,
                 "owner": "brucemcpherson",
                 "repo": "cGoa",
-                "stars": 41
+                "stars": 41,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:33:22.239Z"
             }
@@ -1344,12 +2062,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A powerful image processing library for Google Apps Script (GAS) to retrieve image size/DPI via binary parsing, resize images, update thumbnails, crop/merge images, and perform OCR using Google Drive API v3.",
+                "homepage": null,
                 "id": 95529390,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-06-01T06:01:03Z",
+                "open_issues": 0,
                 "owner": "tanaikech",
                 "repo": "ImgApp",
-                "stars": 166
+                "stars": 166,
+                "topics": [
+                  "apps-script",
+                  "dataview",
+                  "dpi",
+                  "gas-library",
+                  "google-apps-script",
+                  "google-drive-api",
+                  "image-metadata",
+                  "image-processing",
+                  "javascript",
+                  "ocr"
+                ]
               },
               "first_seen": "2026-08-28T13:33:22.239Z"
             },
@@ -1360,12 +2094,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Instagram images API for Google Apps scripts to download images and video",
+                "homepage": "http://instagram.com",
                 "id": 177700476,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2019-04-01T12:32:39Z",
+                "open_issues": 0,
                 "owner": "sudtanj",
                 "repo": "gas-InstagramApp",
-                "stars": 20
+                "stars": 20,
+                "topics": [
+                  "appscript",
+                  "gas",
+                  "google-app-script",
+                  "google-appscripts",
+                  "googleappscript",
+                  "javscript"
+                ]
               },
               "first_seen": "2026-08-28T13:33:22.239Z"
             },
@@ -1376,12 +2122,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Google Photos REST API library for Google Apps scripts",
+                "homepage": "https://photos.google.com/",
                 "id": 177568909,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2019-04-01T08:53:09Z",
+                "open_issues": 1,
                 "owner": "sudtanj",
                 "repo": "gas-GPhotosApp",
-                "stars": 11
+                "stars": 11,
+                "topics": [
+                  "apps-script",
+                  "gas",
+                  "google-apps-script",
+                  "google-appscripts",
+                  "googleappsscript",
+                  "javascript",
+                  "oauth"
+                ]
               },
               "first_seen": "2026-08-28T13:33:22.239Z"
             }
@@ -1399,12 +2158,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "This repository contains open source content for Google Data Studio.",
+                "homepage": "https://datastudio.google.com/",
                 "id": 106599370,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2021-09-06T21:51:57Z",
+                "open_issues": 98,
                 "owner": "googledatastudio",
                 "repo": "community-connectors",
-                "stars": 563
+                "stars": 563,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:33:22.239Z"
             }
@@ -1422,12 +2186,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of importable, modular libraries for any gas project.",
+                "homepage": null,
                 "id": 127622594,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2020-02-06T09:14:58Z",
+                "open_issues": 1,
                 "owner": "classroomtechtools",
                 "repo": "modularLibraries.gs",
-                "stars": 49
+                "stars": 49,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:33:22.239Z"
             }
@@ -1449,12 +2218,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Web app to copy a Google Drive folder",
+            "homepage": "https://script.google.com/macros/s/AKfycbxbGNGajrxv-HbX2sVY2OTu7yj9VvxlOMOeQblZFuq7rYm7uyo/exec",
             "id": 45357922,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-02-09T15:35:06Z",
+            "open_issues": 55,
             "owner": "ericyd",
             "repo": "gdrive-copy",
-            "stars": 1581
+            "stars": 1581,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:33:22.239Z"
         },
@@ -1465,12 +2239,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Gmail Unsubscriber is a Google Apps Script for unsubscribing from unwanted newsletters and other bulk emails.",
+            "homepage": "https://emailstudio.pro",
             "id": 6231099,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-04-04T06:31:25Z",
+            "open_issues": 0,
             "owner": "labnol",
             "repo": "unsubscribe-gmail",
-            "stars": 1564
+            "stars": 1565,
+            "topics": [
+              "gmail",
+              "google-apps-script",
+              "google-sheets",
+              "google-workspace"
+            ]
           },
           "first_seen": "2026-08-28T13:33:22.239Z"
         },
@@ -1481,12 +2265,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Syntax highlighting for Google Docs",
+            "homepage": "https://www.alexwforsythe.com/code-blocks/",
             "id": 68638466,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-07-25T19:45:02Z",
+            "open_issues": 95,
             "owner": "alexwforsythe",
             "repo": "code-blocks",
-            "stars": 788
+            "stars": 788,
+            "topics": [
+              "google-apps-script",
+              "google-docs-addon",
+              "syntax-highlighting"
+            ]
           },
           "first_seen": "2026-08-28T13:33:22.239Z"
         },
@@ -1497,12 +2290,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Publish to WordPress from Google Docs",
+            "homepage": null,
             "id": 74598084,
             "language": "JavaScript",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-05T16:51:00Z",
+            "open_issues": 59,
             "owner": "Automattic",
             "repo": "google-docs-add-on",
-            "stars": 169
+            "stars": 169,
+            "topics": [
+              "google-apps-script",
+              "google-docs",
+              "wordpress",
+              "wordpress-api"
+            ]
           },
           "first_seen": "2026-08-28T13:33:22.239Z"
         },
@@ -1513,12 +2316,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Apps Script for syncing a Google Spreadsheet with Google Calendar",
+            "homepage": null,
             "id": 49284951,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-07-20T21:09:04Z",
+            "open_issues": 60,
             "owner": "davepar",
             "repo": "gcalendarsync",
-            "stars": 166
+            "stars": 166,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:33:22.239Z"
         },
@@ -1529,12 +2337,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Connect and sync order data from your WooCommerce store to Google sheets automatically. A free alternative to Zapier-WooCommerce integration that saves new WooCommerce order details to google sheets. Version V2 with improved features is now available !",
+            "homepage": "https://goo.gl/r8qnMJ",
             "id": 99506356,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2021-06-07T23:57:25Z",
+            "open_issues": 30,
             "owner": "mithunmanohar",
             "repo": "woocommerce-orders-google-sheets-integration",
-            "stars": 117
+            "stars": 117,
+            "topics": [
+              "googlesheets",
+              "woocommerce-api",
+              "woocommerce-extension",
+              "woocommerce-google-sheets",
+              "woocommerce-order-export",
+              "woocommerce-order-save",
+              "woocommerce-products"
+            ]
           },
           "first_seen": "2026-08-28T13:33:22.239Z"
         },
@@ -1545,12 +2366,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Website Uptime Monitor built with Google Apps Script",
+            "homepage": "https://www.labnol.org/internet/website-uptime-monitor/21060/",
             "id": 164611088,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2020-10-01T10:45:40Z",
+            "open_issues": 1,
             "owner": "labnol",
             "repo": "website-monitor",
-            "stars": 115
+            "stars": 115,
+            "topics": [
+              "gmail-api",
+              "google-apps-script",
+              "google-sheets"
+            ]
           },
           "first_seen": "2026-08-28T13:33:22.239Z"
         },
@@ -1561,12 +2391,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Google Forms and Google Apps Script",
+            "homepage": "https://digitalinspiration.com/",
             "id": 163061621,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-12-25T11:05:11Z",
+            "open_issues": 0,
             "owner": "labnol",
             "repo": "google-forms",
-            "stars": 91
+            "stars": 91,
+            "topics": [
+              "google-apps-script",
+              "google-forms",
+              "gsuite"
+            ]
           },
           "first_seen": "2026-08-28T13:33:22.239Z"
         },
@@ -1577,12 +2416,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Email Studio is a Gmail add-on that includes Mail Merge, Email Scheduler, Forwarder, Auto-Responder and more.",
+            "homepage": "https://emailstudio.pro",
             "id": 141805351,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2020-04-23T16:38:00Z",
+            "open_issues": 0,
             "owner": "labnol",
             "repo": "email-studio-gmail-addon",
-            "stars": 85
+            "stars": 85,
+            "topics": [
+              "gmail",
+              "gmail-add-ons",
+              "google-apps-script"
+            ]
           },
           "first_seen": "2026-08-28T13:33:22.239Z"
         },
@@ -1593,12 +2441,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Replicates the Excel \"What-If Analysis\" feature, Data Tables.",
+            "homepage": null,
             "id": 115992957,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2020-05-17T11:28:26Z",
+            "open_issues": 26,
             "owner": "sajacy",
             "repo": "google-sheets-what-if-analysis",
-            "stars": 53
+            "stars": 53,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:33:22.239Z"
         },
@@ -1609,12 +2462,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An add-on for Google Sheets that allows you to easily remove extra rows and columns.",
+            "homepage": null,
             "id": 25663275,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2022-06-30T01:50:36Z",
+            "open_issues": 0,
             "owner": "erickoledadevrel",
             "repo": "crop-sheet",
-            "stars": 47
+            "stars": 47,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:33:22.239Z"
         },
@@ -1625,12 +2483,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Web app to transfer ownership of a Google Drive folder, including all sub-folders and documents",
+            "homepage": null,
             "id": 45357947,
             "language": "JavaScript",
+            "license": "GPL-2.0",
             "last_commit": "2022-01-07T16:23:43Z",
+            "open_issues": 5,
             "owner": "ericyd",
             "repo": "gdrive-transfer",
-            "stars": 40
+            "stars": 40,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:33:22.239Z"
         },
@@ -1641,12 +2504,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Flubaroo is a free Add-on for Google Spreadsheets that allows teachers to quickly grade assignments, get insights into student performance, and share grades with their students electronically.",
+            "homepage": null,
             "id": 48454554,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2025-12-18T18:26:43Z",
+            "open_issues": 1,
             "owner": "edcodeorg",
             "repo": "flubaroo",
-            "stars": 27
+            "stars": 27,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:33:22.239Z"
         },
@@ -1657,12 +2525,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Google Spreadsheets add on to import your WooCommerce supported E-Commerce website data to Google Sheets.",
+            "homepage": "http://gauravgrover95.github.io/woocommerce-smartsheets/",
             "id": 61130594,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2016-06-18T08:08:23Z",
+            "open_issues": 4,
             "owner": "gauravgrover95",
             "repo": "woocommerce-smartsheets",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:33:22.239Z"
         },
@@ -1673,12 +2546,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Google Apps Script Html Webapp as sign-up page for a slack channel.",
+            "homepage": null,
             "id": 104365340,
             "language": "HTML",
+            "license": "GPL-3.0",
             "last_commit": "2017-10-05T17:18:25Z",
+            "open_issues": 0,
             "owner": "stardotbmp",
             "repo": "slack-gas-signup",
-            "stars": 16
+            "stars": 16,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:33:22.239Z"
         },
@@ -1689,12 +2567,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Create awesome Jira timelines for multiple projects in Google sheets",
+            "homepage": null,
             "id": 812432053,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2024-06-18T17:28:29Z",
+            "open_issues": 0,
             "owner": "zmandel",
             "repo": "timeline-jira-google-sheets",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:33:22.239Z"
         }
@@ -1711,12 +2594,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An example of using Google Sheets to create a Viber survey chat bot without a backend server",
+            "homepage": "https://developers.viber.com/blog/2017/09/12/build-a-bot-with-zero-coding",
             "id": 100930676,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2022-03-21T01:28:24Z",
+            "open_issues": 14,
             "owner": "Viber",
             "repo": "build-a-bot-with-zero-coding",
-            "stars": 486
+            "stars": 486,
+            "topics": [
+              "chatbot",
+              "google-script",
+              "google-sheets",
+              "viber"
+            ]
           },
           "first_seen": "2026-08-28T13:33:22.239Z"
         },
@@ -1727,12 +2620,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Google Apps Script library for working with the Telegram API.",
+            "homepage": null,
             "id": 501387582,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-03-27T09:30:42Z",
+            "open_issues": 4,
             "owner": "Guf-Hub",
             "repo": "TGBot",
-            "stars": 51
+            "stars": 51,
+            "topics": [
+              "bot-api",
+              "gas",
+              "gas-library",
+              "google-apps-script-library",
+              "javascipt",
+              "telegram",
+              "telegram-bot"
+            ]
           },
           "first_seen": "2026-08-28T13:33:22.239Z"
         },
@@ -1743,12 +2649,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Facebook messenger bot implemented in Google Apps Script",
+            "homepage": null,
             "id": 62471464,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2016-07-02T22:29:49Z",
+            "open_issues": 0,
             "owner": "JZL",
             "repo": "Facebook-bot-Google-Apps-Script",
-            "stars": 46
+            "stars": 46,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:33:22.239Z"
         },
@@ -1759,12 +2670,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A bunch of examples / resources for using the GroupMe Bot API with Google Apps Script",
+            "homepage": null,
             "id": 23234767,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2020-03-22T13:54:20Z",
+            "open_issues": 1,
             "owner": "william-reed",
             "repo": "GroupMe-Bots-With-Google-Apps-Script",
-            "stars": 41
+            "stars": 41,
+            "topics": [
+              "googleappsscript",
+              "groupme",
+              "groupme-api",
+              "groupme-bot"
+            ]
           },
           "first_seen": "2026-08-28T13:33:22.239Z"
         },
@@ -1775,12 +2696,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Library Telegram untuk Google Apps Script Versi 2",
+            "homepage": "https://bit.ly/telegram-lib-v2",
             "id": 301090192,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-06-19T12:46:04Z",
+            "open_issues": 0,
             "owner": "banghasan",
             "repo": "Telegram-Lib-GAS-V2",
-            "stars": 24
+            "stars": 24,
+            "topics": [
+              "gas"
+            ]
           },
           "first_seen": "2026-08-28T13:33:22.239Z"
         },
@@ -1791,12 +2719,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This Google Apps Script links a Telegram bot to a google spreadsheet and allows command-based information storaging.",
+            "homepage": null,
             "id": 256510132,
             "language": null,
+            "license": null,
             "last_commit": "2020-04-17T15:19:19Z",
+            "open_issues": 0,
             "owner": "cyberonion256",
             "repo": "google-telegram_transferbot",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:33:22.239Z"
         },
@@ -1807,12 +2740,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Google Apps Script endpoint for Hangouts Chat bot using Sheets as a message queue",
+            "homepage": null,
             "id": 145336642,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2019-03-19T11:53:38Z",
+            "open_issues": 1,
             "owner": "scrthq",
             "repo": "GoogleAppsScriptSheetMQ",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:33:22.239Z"
         }
@@ -1829,12 +2767,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Google Apps Script TAP Testing-framework",
+            "homepage": null,
             "id": 47201589,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-04-11T17:29:17Z",
+            "open_issues": 8,
             "owner": "huan",
             "repo": "gast",
-            "stars": 113
+            "stars": 113,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:33:22.239Z"
         },
@@ -1845,12 +2788,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An easy-to-use JavaScript Unit Testing framework.",
+            "homepage": "http://qunitjs.com",
             "id": 5947531,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2015-10-21T09:56:44Z",
+            "open_issues": 4,
             "owner": "simula-innovation",
             "repo": "qunit",
-            "stars": 65
+            "stars": 65,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:33:22.239Z"
         },
@@ -1861,12 +2809,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of importable, modular libraries for any gas project.",
+            "homepage": null,
             "id": 127622594,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2020-02-06T09:14:58Z",
+            "open_issues": 1,
             "owner": "classroomtechtools",
             "repo": "modularLibraries.gs",
-            "stars": 49
+            "stars": 49,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:33:22.239Z"
         },
@@ -1877,12 +2830,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A unit testing app for Google Apps Script",
+            "homepage": null,
             "id": 353284320,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2021-10-31T00:52:31Z",
+            "open_issues": 1,
             "owner": "WildH0g",
             "repo": "UnitTestingApp",
-            "stars": 39
+            "stars": 39,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:33:22.239Z"
         },
@@ -1893,12 +2851,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Google Apps Script library that brings the power and simplicity of QUnit unit testing to your scripts and applications. In just 60 seconds you can add unit testing to any script.",
+            "homepage": null,
             "id": 278922046,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2020-08-01T14:31:05Z",
+            "open_issues": 9,
             "owner": "artofthesmart",
             "repo": "QUnitGS2",
-            "stars": 28
+            "stars": 28,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:33:22.239Z"
         },
@@ -1909,12 +2872,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Testing library for Google Apps Script ",
+            "homepage": null,
             "id": 145721482,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2022-02-11T12:12:28Z",
+            "open_issues": 16,
             "owner": "gasunit",
             "repo": "GASUnit",
-            "stars": 28
+            "stars": 28,
+            "topics": [
+              "gas",
+              "gasunit",
+              "google-apps-script",
+              "googleappsscript"
+            ]
           },
           "first_seen": "2026-08-28T13:33:22.239Z"
         }
@@ -1931,12 +2904,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "With one line of code, BetterLog extends the native apps script Logger and gives you automatic additional features like logging to a spreadsheet and more.",
+            "homepage": null,
             "id": 44034683,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2021-12-09T03:04:21Z",
+            "open_issues": 2,
             "owner": "peterherrmann",
             "repo": "BetterLog",
-            "stars": 239
+            "stars": 239,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:33:22.239Z"
         },
@@ -1947,12 +2925,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Google Apps Script logging library",
+            "homepage": null,
             "id": 101170374,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-12-20T19:54:44Z",
+            "open_issues": 3,
             "owner": "andrewroberts",
             "repo": "BBLog",
-            "stars": 36
+            "stars": 36,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:33:22.239Z"
         },
@@ -1963,12 +2946,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Google Apps Script Logging-framework",
+            "homepage": null,
             "id": 47741813,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2020-12-16T16:36:29Z",
+            "open_issues": 0,
             "owner": "huan",
             "repo": "gasl",
-            "stars": 22
+            "stars": 22,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:33:22.239Z"
         }
@@ -1989,12 +2977,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Collection of Apps Scripts for connecting to APIs",
+                    "homepage": null,
                     "id": 77863935,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2022-07-28T05:56:34Z",
+                    "open_issues": 2,
                     "owner": "benlcollins",
                     "repo": "apps_script_apis",
-                    "stars": 194
+                    "stars": 194,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:33:22.239Z"
                 }
@@ -2012,12 +3005,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Reshaping functions for Google Spreadsheets",
+                    "homepage": null,
                     "id": 56522278,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2019-05-31T19:36:44Z",
+                    "open_issues": 2,
                     "owner": "rgertenbach",
                     "repo": "Reshape",
-                    "stars": 25
+                    "stars": 25,
+                    "topics": [
+                      "cast",
+                      "dimensional-tables",
+                      "gather",
+                      "google-spreadsheet",
+                      "melting",
+                      "pivot-tables",
+                      "spread",
+                      "stack",
+                      "unpivot"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:33:22.239Z"
                 }
@@ -2035,12 +3043,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Gmail Processor is a Google Apps Script library that automates the processing of Gmail messages and attachments and execute actions (e.g. store attachments in a GDrive folder, log information in a spreadsheet) depending on matching criteria.",
+                    "homepage": "http://ahochsteger.github.io/gmail-processor/",
                     "id": 8128277,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-27T00:16:36Z",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-08-29T02:37:03Z",
+                    "open_issues": 10,
                     "owner": "ahochsteger",
                     "repo": "gmail-processor",
-                    "stars": 586
+                    "stars": 586,
+                    "topics": [
+                      "automation",
+                      "gmail",
+                      "script"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:33:22.239Z"
                 },
@@ -2051,12 +3068,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An updated version of  Gmail Push Notifications in Apps Script",
+                    "homepage": null,
                     "id": 63565979,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2022-05-01T00:05:50Z",
+                    "open_issues": 3,
                     "owner": "Spencer-Easton",
                     "repo": "Apps-Script-Gmail-Push-Notifications-v2",
-                    "stars": 67
+                    "stars": 67,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:33:22.239Z"
                 }
@@ -2074,12 +3096,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Import JSON into Google Sheets, this library adds various ImportJSON functions to your spreadsheet",
+                    "homepage": null,
                     "id": 6691289,
                     "language": "HTML",
+                    "license": "LGPL-3.0",
                     "last_commit": "2022-11-16T19:26:06Z",
+                    "open_issues": 175,
                     "owner": "bradjasper",
                     "repo": "ImportJSON",
-                    "stars": 2132
+                    "stars": 2132,
+                    "topics": [
+                      "cryptocurrencies",
+                      "google-sheets",
+                      "importjson",
+                      "parsing",
+                      "spreadsheet"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:33:22.239Z"
                 },
@@ -2090,12 +3123,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Query and manipulate JavaScript objects with JSONPath expressions.  Robust JSONPath engine for Node.js.",
+                    "homepage": null,
                     "id": 29769677,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2026-03-05T13:56:32Z",
+                    "open_issues": 106,
                     "owner": "dchester",
                     "repo": "jsonpath",
-                    "stars": 1430
+                    "stars": 1430,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:33:22.239Z"
                 }
@@ -2118,12 +3156,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Code samples for YouTube APIs, including the YouTube Data API, YouTube Analytics API, and YouTube Live Streaming API. The repo contains language-specific directories that contain the samples.",
+                "homepage": null,
                 "id": 15055717,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2024-06-09T20:38:03Z",
+                "open_issues": 409,
                 "owner": "youtube",
                 "repo": "api-samples",
-                "stars": 6019
+                "stars": 6019,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:33:22.239Z"
             },
@@ -2134,12 +3177,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Apps Script samples for Google Workspace products.",
+                "homepage": "https://developers.google.com/apps-script",
                 "id": 10655461,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-30T15:21:47Z",
+                "open_issues": 121,
                 "owner": "googleworkspace",
                 "repo": "apps-script-samples",
-                "stars": 5237
+                "stars": 5238,
+                "topics": [
+                  "adminsdk",
+                  "apps-script",
+                  "calendar",
+                  "classroom",
+                  "cloud",
+                  "drive",
+                  "google-apps-script",
+                  "google-workspace",
+                  "gsuite",
+                  "samples"
+                ]
               },
               "first_seen": "2026-08-28T13:33:22.239Z"
             },
@@ -2150,12 +3209,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":email: An Example of using an HTML form (e.g: \"Contact Us\" on a website) to send Email without a Backend Server (using a Google Script) perfect for static websites that need to collect data. ",
+                "homepage": null,
                 "id": 44434384,
                 "language": "HTML",
+                "license": "GPL-2.0",
                 "last_commit": "2024-08-04T15:19:00Z",
+                "open_issues": 26,
                 "owner": "dwyl",
                 "repo": "learn-to-send-email-via-google-script-html-no-server",
-                "stars": 3210
+                "stars": 3210,
+                "topics": [
+                  "ajax",
+                  "email",
+                  "example",
+                  "form",
+                  "google-spreadsheet",
+                  "howto",
+                  "html-form",
+                  "no-server",
+                  "static-site",
+                  "tutorial"
+                ]
               },
               "first_seen": "2026-08-28T13:33:22.239Z"
             },
@@ -2166,12 +3241,23 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Import JSON into Google Sheets, this library adds various ImportJSON functions to your spreadsheet",
+                "homepage": null,
                 "id": 6691289,
                 "language": "HTML",
+                "license": "LGPL-3.0",
                 "last_commit": "2022-11-16T19:26:06Z",
+                "open_issues": 175,
                 "owner": "bradjasper",
                 "repo": "ImportJSON",
-                "stars": 2132
+                "stars": 2132,
+                "topics": [
+                  "cryptocurrencies",
+                  "google-sheets",
+                  "importjson",
+                  "parsing",
+                  "spreadsheet"
+                ]
               },
               "first_seen": "2026-08-28T13:33:22.239Z"
             },
@@ -2182,12 +3268,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "best code I've tested in Google Sheets",
+                "homepage": null,
                 "id": 83449247,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-07-16T10:24:15Z",
+                "open_issues": 3,
                 "owner": "Max-Makhrov",
                 "repo": "GoogleSheets",
-                "stars": 246
+                "stars": 246,
+                "topics": [
+                  "google-apps-script",
+                  "google-sheets"
+                ]
               },
               "first_seen": "2026-08-28T13:33:22.239Z"
             },
@@ -2198,12 +3292,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A framework for creating Google Apps Scripts that provides centralised error handling and trace logging.",
+                "homepage": null,
                 "id": 43459320,
                 "language": "JavaScript",
+                "license": "GPL-3.0",
                 "last_commit": "2024-06-26T18:31:17Z",
+                "open_issues": 0,
                 "owner": "andrewroberts",
                 "repo": "GAS-Framework",
-                "stars": 67
+                "stars": 67,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:33:22.239Z"
             },
@@ -2214,12 +3313,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A variety of functions/programs written for Google Apps Script and Google services",
+                "homepage": null,
                 "id": 97746993,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2022-06-29T21:36:51Z",
+                "open_issues": 1,
                 "owner": "derekantrican",
                 "repo": "Google-Apps-Script-Library",
-                "stars": 39
+                "stars": 39,
+                "topics": [
+                  "google-apps-script",
+                  "google-appscripts"
+                ]
               },
               "first_seen": "2026-08-28T13:33:22.239Z"
             },
@@ -2230,12 +3337,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A single repository for open sharing of custom functions I have found to be useful generally.",
+                "homepage": null,
                 "id": 102765957,
                 "language": "JavaScript",
+                "license": "GPL-3.0",
                 "last_commit": "2023-12-15T02:40:02Z",
+                "open_issues": 0,
                 "owner": "jsdbroughton",
                 "repo": "google-sheet-functions",
-                "stars": 37
+                "stars": 37,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:33:22.239Z"
             },
@@ -2246,12 +3358,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Demonstrate various google apps script using a menu of functions inside a fresh google sheet and container bound editor.",
+                "homepage": null,
                 "id": 138937971,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2019-10-23T17:33:55Z",
+                "open_issues": 0,
                 "owner": "rudimusmaximus",
                 "repo": "BurningGAS",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:33:22.239Z"
             },
@@ -2262,12 +3379,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Google Apps Script library for the Bkper API",
+                "homepage": "https://bkper.com/docs/api/bkper-gs",
                 "id": 33946629,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-25T11:48:59Z",
+                "open_issues": 16,
                 "owner": "bkper",
                 "repo": "bkper-gs",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:33:22.239Z"
             },
@@ -2278,12 +3400,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A modified version based on Python script that run on Google App Script language  to automatically enter every giveaway on SteamGifts.com",
+                "homepage": null,
                 "id": 93047909,
                 "language": "JavaScript",
+                "license": "GPL-3.0",
                 "last_commit": "2018-03-16T01:42:55Z",
+                "open_issues": 0,
                 "owner": "sudtanj",
                 "repo": "AutoSteamGifts",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:33:22.239Z"
             }
@@ -2297,15 +3424,28 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T13:33:22.239Z",
+    "last_updated": "2026-08-29T04:26:21.758Z",
     "original_repository_info": {
       "archived": false,
+      "description": "The usual list of links to interesting resources for Google Apps Script",
+      "homepage": null,
       "id": 84677016,
       "language": null,
+      "license": null,
       "last_commit": "2026-04-26T06:58:02Z",
+      "open_issues": 8,
       "owner": "oshliaer",
       "repo": "google-apps-script-awesome-list",
-      "stars": 2066
+      "stars": 2066,
+      "topics": [
+        "awesome-list",
+        "awesome-lists",
+        "gas",
+        "google-apps-script",
+        "google-appsscript",
+        "lists",
+        "snippets"
+      ]
     },
     "original_repository_sha": "947e0d5e60d5c37eb56d05d723507724a5c85961",
     "enhanced_repository": "enhansome/google-apps-script-enhansome-list",
