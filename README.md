@@ -91,7 +91,7 @@ A curated list of Google Apps Script resources. Want to add or fix something? Re
 ## Development
 
 * [gdrive](https://github.com/prasmussen/gdrive) ⚠️ Archived Google Drive CLI Client
-* [google/clasp](https://github.com/google/clasp) ⭐ 5,808 | 🐛 47 | 🌐 TypeScript | 📅 2026-08-28 Develop Apps Script projects locally using clasp (Command Line Apps Script Projects) CLI
+* [google/clasp](https://github.com/google/clasp) ⭐ 5,811 | 🐛 47 | 🌐 TypeScript | 📅 2026-08-28 Develop Apps Script projects locally using clasp (Command Line Apps Script Projects) CLI
 * [gas-github](https://github.com/leonhartX/gas-github) ⭐ 4,473 | 🐛 51 | 🌐 JavaScript | 📅 2025-03-12 Chrome-extension to manage Google Apps Script(GAS) code with github/github enterprise
 * [fossamagna/gas-webpack-plugin](https://github.com/fossamagna/gas-webpack-plugin) ⭐ 180 | 🐛 22 | 🌐 JavaScript | 📅 2026-08-10 Webpack plugin for Google Apps Script
 * [ggsrun](https://github.com/tanaikech/ggsrun) ⭐ 171 | 🐛 0 | 🌐 Go | 📅 2026-08-26 This is a CLI tool to execute Google Apps Script (GAS) on a terminal
@@ -300,7 +300,7 @@ A curated list of Google Apps Script resources. Want to add or fix something? Re
 
 #### Gmail
 
-* [Gmail2GDrive](https://github.com/ahochsteger/gmail-processor/tree/1.x) ⭐ 586 | 🐛 10 | 🌐 TypeScript | 📅 2026-08-29  Automatically stores and sorts Gmail attachments into Google Drive folders - replaced by [Gmail Processor](https://ahochsteger.github.io/gmail-processor/)
+* [Gmail2GDrive](https://github.com/ahochsteger/gmail-processor/tree/1.x) ⭐ 586 | 🐛 9 | 🌐 TypeScript | 📅 2026-08-30  Automatically stores and sorts Gmail attachments into Google Drive folders - replaced by [Gmail Processor](https://ahochsteger.github.io/gmail-processor/)
 * [Apps-Script-Gmail-Push-Notifications-v2](https://github.com/Spencer-Easton/Apps-Script-Gmail-Push-Notifications-v2) ⭐ 67 | 🐛 3 | 🌐 JavaScript | 📅 2022-05-01 Register a Gmail account for push notifications and programmatically set up the the proper pubsub publishing channels and subscriptions
 * [Gmail Processor](https://ahochsteger.github.io/gmail-processor/)  Very powerful and flexible Google Apps Script library that automatically stores Gmail attachments into Google Drive folders and many more features
 
@@ -325,7 +325,7 @@ A curated list of Google Apps Script resources. Want to add or fix something? Re
 * [An Example of using an HTML form (e.g: "Contact Us" on a website) to send Email without a Backend Server (using a Google Script)](https://github.com/dwyl/html-form-send-email-via-google-script-without-server) ⭐ 3,210 | 🐛 26 | 🌐 HTML | 📅 2024-08-04
 * [google-docs](https://github.com/fastfedora/google-docs) ⚠️ Archived Libraries and functions used within Google Docs
 * [GoogleSheets](https://github.com/Max-Makhrov/GoogleSheets) ⭐ 246 | 🐛 3 | 🌐 JavaScript | 📅 2025-07-16 best code I've tested in Google Sheets
-* [GAS-Framework](https://github.com/andrewroberts/GAS-Framework) ⭐ 67 | 🐛 0 | 🌐 JavaScript | 📅 2024-06-26 - library boilerplate that provides logging ([BBLog](https://github.com/andrewroberts/BBLog) ⭐ 36 | 🐛 3 | 🌐 JavaScript | 📅 2023-12-20) and error handling ([Assert](https://github.com/andrewroberts/Assert) ⭐ 15 | 🐛 0 | 🌐 JavaScript | 📅 2023-12-20)
+* [GAS-Framework](https://github.com/andrewroberts/GAS-Framework) ⭐ 68 | 🐛 0 | 🌐 JavaScript | 📅 2024-06-26 - library boilerplate that provides logging ([BBLog](https://github.com/andrewroberts/BBLog) ⭐ 36 | 🐛 3 | 🌐 JavaScript | 📅 2023-12-20) and error handling ([Assert](https://github.com/andrewroberts/Assert) ⭐ 15 | 🐛 0 | 🌐 JavaScript | 📅 2023-12-20)
 * [derekantrican/Google-Apps-Script-Library](https://github.com/derekantrican/Google-Apps-Script-Library) ⭐ 39 | 🐛 1 | 🌐 JavaScript | 📅 2022-06-29 A variety of functions/programs written for Google Apps Script and Google services
 * [stardotbmp/google-sheet-functions](https://github.com/stardotbmp/google-sheet-functions) ⭐ 37 | 🐛 0 | 🌐 JavaScript | 📅 2023-12-15 A single repository for open sharing of custom functions I have found to be useful generally
 * [rudimusmaximus/BurningGAS](https://github.com/rudimusmaximus/BurningGAS) ⭐ 23 | 🐛 0 | 🌐 JavaScript | 📅 2019-10-23 Demonstrate various Google Apps Script using a menu of functions inside a fresh Google Sheet and container bound editor
@@ -336,4 +336,4 @@ A curated list of Google Apps Script resources. Want to add or fix something? Re
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._

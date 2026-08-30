@@ -186,7 +186,7 @@
             "open_issues": 47,
             "owner": "google",
             "repo": "clasp",
-            "stars": 5808,
+            "stars": 5811,
             "topics": [
               "apps-script",
               "cli",
@@ -3048,8 +3048,8 @@
                     "id": 8128277,
                     "language": "TypeScript",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-08-29T02:37:03Z",
-                    "open_issues": 10,
+                    "last_commit": "2026-08-30T06:47:32Z",
+                    "open_issues": 9,
                     "owner": "ahochsteger",
                     "repo": "gmail-processor",
                     "stars": 586,
@@ -3301,7 +3301,7 @@
                 "open_issues": 0,
                 "owner": "andrewroberts",
                 "repo": "GAS-Framework",
-                "stars": 67,
+                "stars": 68,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:33:22.239Z"
@@ -3424,7 +3424,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T08:26:06.098Z",
+    "last_updated": "2026-08-30T07:40:02.892Z",
     "original_repository_info": {
       "archived": false,
       "description": "The usual list of links to interesting resources for Google Apps Script",
