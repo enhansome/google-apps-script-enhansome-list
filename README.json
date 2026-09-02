@@ -21,7 +21,7 @@
                 "open_issues": 121,
                 "owner": "googleworkspace",
                 "repo": "apps-script-samples",
-                "stars": 5239,
+                "stars": 5237,
                 "topics": [
                   "adminsdk",
                   "apps-script",
@@ -165,7 +165,7 @@
             "open_issues": 432,
             "owner": "prasmussen",
             "repo": "gdrive",
-            "stars": 8952,
+            "stars": 8951,
             "topics": []
           },
           "first_seen": "2026-08-28T13:33:22.239Z"
@@ -186,7 +186,7 @@
             "open_issues": 47,
             "owner": "google",
             "repo": "clasp",
-            "stars": 5814,
+            "stars": 5815,
             "topics": [
               "apps-script",
               "cli",
@@ -212,7 +212,7 @@
             "open_issues": 51,
             "owner": "leonhartX",
             "repo": "gas-github",
-            "stars": 4478,
+            "stars": 4484,
             "topics": [
               "chrome-extension",
               "diff-dialog",
@@ -3186,7 +3186,7 @@
                 "open_issues": 121,
                 "owner": "googleworkspace",
                 "repo": "apps-script-samples",
-                "stars": 5239,
+                "stars": 5237,
                 "topics": [
                   "adminsdk",
                   "apps-script",
@@ -3424,7 +3424,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T06:59:07.468Z",
+    "last_updated": "2026-09-02T06:37:58.536Z",
     "original_repository_info": {
       "archived": false,
       "description": "The usual list of links to interesting resources for Google Apps Script",
