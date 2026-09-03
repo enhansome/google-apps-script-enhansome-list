@@ -21,7 +21,7 @@
                 "open_issues": 121,
                 "owner": "googleworkspace",
                 "repo": "apps-script-samples",
-                "stars": 5237,
+                "stars": 5235,
                 "topics": [
                   "adminsdk",
                   "apps-script",
@@ -186,7 +186,7 @@
             "open_issues": 47,
             "owner": "google",
             "repo": "clasp",
-            "stars": 5815,
+            "stars": 5817,
             "topics": [
               "apps-script",
               "cli",
@@ -212,7 +212,7 @@
             "open_issues": 51,
             "owner": "leonhartX",
             "repo": "gas-github",
-            "stars": 4484,
+            "stars": 4485,
             "topics": [
               "chrome-extension",
               "diff-dialog",
@@ -238,8 +238,8 @@
             "id": 74210633,
             "language": "JavaScript",
             "license": null,
-            "last_commit": "2026-08-10T23:15:05Z",
-            "open_issues": 22,
+            "last_commit": "2026-09-03T00:15:12Z",
+            "open_issues": 25,
             "owner": "fossamagna",
             "repo": "gas-webpack-plugin",
             "stars": 180,
@@ -1888,7 +1888,7 @@
                 "id": 865464401,
                 "language": "JavaScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-27T09:55:07Z",
+                "last_commit": "2026-09-02T14:01:58Z",
                 "open_issues": 0,
                 "owner": "scriptit-fr",
                 "repo": "GenAIApp",
@@ -2295,7 +2295,7 @@
             "id": 74598084,
             "language": "JavaScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-05T16:51:00Z",
+            "last_commit": "2026-09-02T22:32:07Z",
             "open_issues": 59,
             "owner": "Automattic",
             "repo": "google-docs-add-on",
@@ -2603,7 +2603,7 @@
             "open_issues": 14,
             "owner": "Viber",
             "repo": "build-a-bot-with-zero-coding",
-            "stars": 486,
+            "stars": 485,
             "topics": [
               "chatbot",
               "google-script",
@@ -3048,7 +3048,7 @@
                     "id": 8128277,
                     "language": "TypeScript",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-08-31T19:00:43Z",
+                    "last_commit": "2026-09-03T01:36:15Z",
                     "open_issues": 9,
                     "owner": "ahochsteger",
                     "repo": "gmail-processor",
@@ -3105,7 +3105,7 @@
                     "open_issues": 175,
                     "owner": "bradjasper",
                     "repo": "ImportJSON",
-                    "stars": 2132,
+                    "stars": 2131,
                     "topics": [
                       "cryptocurrencies",
                       "google-sheets",
@@ -3186,7 +3186,7 @@
                 "open_issues": 121,
                 "owner": "googleworkspace",
                 "repo": "apps-script-samples",
-                "stars": 5237,
+                "stars": 5235,
                 "topics": [
                   "adminsdk",
                   "apps-script",
@@ -3250,7 +3250,7 @@
                 "open_issues": 175,
                 "owner": "bradjasper",
                 "repo": "ImportJSON",
-                "stars": 2132,
+                "stars": 2131,
                 "topics": [
                   "cryptocurrencies",
                   "google-sheets",
@@ -3424,7 +3424,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T06:37:58.536Z",
+    "last_updated": "2026-09-03T06:40:13.962Z",
     "original_repository_info": {
       "archived": false,
       "description": "The usual list of links to interesting resources for Google Apps Script",
