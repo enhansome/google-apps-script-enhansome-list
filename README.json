@@ -186,7 +186,7 @@
             "open_issues": 47,
             "owner": "google",
             "repo": "clasp",
-            "stars": 5816,
+            "stars": 5817,
             "topics": [
               "apps-script",
               "cli",
@@ -605,7 +605,7 @@
                 "open_issues": 32,
                 "owner": "enuchi",
                 "repo": "React-Google-Apps-Script",
-                "stars": 1527,
+                "stars": 1528,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:33:22.239Z"
@@ -2227,7 +2227,7 @@
             "open_issues": 55,
             "owner": "ericyd",
             "repo": "gdrive-copy",
-            "stars": 1581,
+            "stars": 1580,
             "topics": []
           },
           "first_seen": "2026-08-28T13:33:22.239Z"
@@ -2248,7 +2248,7 @@
             "open_issues": 0,
             "owner": "labnol",
             "repo": "unsubscribe-gmail",
-            "stars": 1566,
+            "stars": 1567,
             "topics": [
               "gmail",
               "google-apps-script",
@@ -3048,7 +3048,7 @@
                     "id": 8128277,
                     "language": "TypeScript",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-05T04:55:16Z",
+                    "last_commit": "2026-09-05T14:07:02Z",
                     "open_issues": 9,
                     "owner": "ahochsteger",
                     "repo": "gmail-processor",
@@ -3424,7 +3424,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T06:30:45.669Z",
+    "last_updated": "2026-09-06T06:39:56.676Z",
     "original_repository_info": {
       "archived": false,
       "description": "The usual list of links to interesting resources for Google Apps Script",
