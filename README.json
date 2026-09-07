@@ -212,7 +212,7 @@
             "open_issues": 51,
             "owner": "leonhartX",
             "repo": "gas-github",
-            "stars": 4491,
+            "stars": 4493,
             "topics": [
               "chrome-extension",
               "diff-dialog",
@@ -1116,7 +1116,7 @@
             "open_issues": 0,
             "owner": "tanaikech",
             "repo": "Google-Apps-Script-Library-Database",
-            "stars": 142,
+            "stars": 143,
             "topics": [
               "gas-library",
               "google-apps-script",
@@ -3048,8 +3048,8 @@
                     "id": 8128277,
                     "language": "TypeScript",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-05T14:07:02Z",
-                    "open_issues": 9,
+                    "last_commit": "2026-09-07T06:02:06Z",
+                    "open_issues": 4,
                     "owner": "ahochsteger",
                     "repo": "gmail-processor",
                     "stars": 587,
@@ -3165,7 +3165,7 @@
                 "open_issues": 409,
                 "owner": "youtube",
                 "repo": "api-samples",
-                "stars": 6021,
+                "stars": 6022,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:33:22.239Z"
@@ -3424,7 +3424,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T06:39:56.676Z",
+    "last_updated": "2026-09-07T06:48:13.926Z",
     "original_repository_info": {
       "archived": false,
       "description": "The usual list of links to interesting resources for Google Apps Script",
@@ -3436,7 +3436,7 @@
       "open_issues": 8,
       "owner": "oshliaer",
       "repo": "google-apps-script-awesome-list",
-      "stars": 2067,
+      "stars": 2068,
       "topics": [
         "awesome-list",
         "awesome-lists",

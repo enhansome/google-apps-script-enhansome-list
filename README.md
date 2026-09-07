@@ -92,7 +92,7 @@ A curated list of Google Apps Script resources. Want to add or fix something? Re
 
 * [gdrive](https://github.com/prasmussen/gdrive) ⚠️ Archived Google Drive CLI Client
 * [google/clasp](https://github.com/google/clasp) ⭐ 5,817 | 🐛 47 | 🌐 TypeScript | 📅 2026-08-28 Develop Apps Script projects locally using clasp (Command Line Apps Script Projects) CLI
-* [gas-github](https://github.com/leonhartX/gas-github) ⭐ 4,491 | 🐛 51 | 🌐 JavaScript | 📅 2025-03-12 Chrome-extension to manage Google Apps Script(GAS) code with github/github enterprise
+* [gas-github](https://github.com/leonhartX/gas-github) ⭐ 4,493 | 🐛 51 | 🌐 JavaScript | 📅 2025-03-12 Chrome-extension to manage Google Apps Script(GAS) code with github/github enterprise
 * [fossamagna/gas-webpack-plugin](https://github.com/fossamagna/gas-webpack-plugin) ⭐ 180 | 🐛 25 | 🌐 JavaScript | 📅 2026-09-03 Webpack plugin for Google Apps Script
 * [ggsrun](https://github.com/tanaikech/ggsrun) ⭐ 171 | 🐛 0 | 🌐 Go | 📅 2026-08-26 This is a CLI tool to execute Google Apps Script (GAS) on a terminal
 * [MaartenDesnouck/google-apps-script](https://github.com/MaartenDesnouck/google-apps-script) ⭐ 126 | 🐛 44 | 🌐 JavaScript | 📅 2026-02-04 gas, for locally developing Google Apps Script projects
@@ -143,7 +143,7 @@ A curated list of Google Apps Script resources. Want to add or fix something? Re
 
 ## Libraries & Modules
 
-* [Google Apps Script Library Database](https://github.com/tanaikech/Google-Apps-Script-Library-Database) ⭐ 142 | 🐛 0 | 🌐 HTML | 📅 2026-05-18 Directory with more than 200 libraries
+* [Google Apps Script Library Database](https://github.com/tanaikech/Google-Apps-Script-Library-Database) ⭐ 143 | 🐛 0 | 🌐 HTML | 📅 2026-05-18 Directory with more than 200 libraries
 
 ### Using databases
 
@@ -300,7 +300,7 @@ A curated list of Google Apps Script resources. Want to add or fix something? Re
 
 #### Gmail
 
-* [Gmail2GDrive](https://github.com/ahochsteger/gmail-processor/tree/1.x) ⭐ 587 | 🐛 9 | 🌐 TypeScript | 📅 2026-09-05  Automatically stores and sorts Gmail attachments into Google Drive folders - replaced by [Gmail Processor](https://ahochsteger.github.io/gmail-processor/)
+* [Gmail2GDrive](https://github.com/ahochsteger/gmail-processor/tree/1.x) ⭐ 587 | 🐛 4 | 🌐 TypeScript | 📅 2026-09-07  Automatically stores and sorts Gmail attachments into Google Drive folders - replaced by [Gmail Processor](https://ahochsteger.github.io/gmail-processor/)
 * [Apps-Script-Gmail-Push-Notifications-v2](https://github.com/Spencer-Easton/Apps-Script-Gmail-Push-Notifications-v2) ⭐ 67 | 🐛 3 | 🌐 JavaScript | 📅 2022-05-01 Register a Gmail account for push notifications and programmatically set up the the proper pubsub publishing channels and subscriptions
 * [Gmail Processor](https://ahochsteger.github.io/gmail-processor/)  Very powerful and flexible Google Apps Script library that automatically stores Gmail attachments into Google Drive folders and many more features
 
@@ -336,4 +336,4 @@ A curated list of Google Apps Script resources. Want to add or fix something? Re
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
