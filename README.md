@@ -91,10 +91,10 @@ A curated list of Google Apps Script resources. Want to add or fix something? Re
 ## Development
 
 * [gdrive](https://github.com/prasmussen/gdrive) ⚠️ Archived Google Drive CLI Client
-* [google/clasp](https://github.com/google/clasp) ⭐ 5,817 | 🐛 47 | 🌐 TypeScript | 📅 2026-08-28 Develop Apps Script projects locally using clasp (Command Line Apps Script Projects) CLI
+* [google/clasp](https://github.com/google/clasp) ⭐ 5,818 | 🐛 49 | 🌐 TypeScript | 📅 2026-08-28 Develop Apps Script projects locally using clasp (Command Line Apps Script Projects) CLI
 * [gas-github](https://github.com/leonhartX/gas-github) ⭐ 4,495 | 🐛 51 | 🌐 JavaScript | 📅 2025-03-12 Chrome-extension to manage Google Apps Script(GAS) code with github/github enterprise
 * [fossamagna/gas-webpack-plugin](https://github.com/fossamagna/gas-webpack-plugin) ⭐ 180 | 🐛 25 | 🌐 JavaScript | 📅 2026-09-03 Webpack plugin for Google Apps Script
-* [ggsrun](https://github.com/tanaikech/ggsrun) ⭐ 171 | 🐛 0 | 🌐 Go | 📅 2026-08-26 This is a CLI tool to execute Google Apps Script (GAS) on a terminal
+* [ggsrun](https://github.com/tanaikech/ggsrun) ⭐ 172 | 🐛 0 | 🌐 Go | 📅 2026-08-26 This is a CLI tool to execute Google Apps Script (GAS) on a terminal
 * [MaartenDesnouck/google-apps-script](https://github.com/MaartenDesnouck/google-apps-script) ⭐ 126 | 🐛 44 | 🌐 JavaScript | 📅 2026-02-04 gas, for locally developing Google Apps Script projects
 * [gas-local](https://github.com/mzagorny/gas-local) ⭐ 93 | 🐛 11 | 🌐 JavaScript | 📅 2023-04-17 Execute and test your google app scripts locally in node.js
 * [brucemcpherson/gas-fakes](https://github.com/brucemcpherson/gas-fakes) ⭐ 79 | 🐛 57 | 🌐 JavaScript | 📅 2026-09-08 A proof of concept implementation of Apps Script environment on node.js
@@ -187,7 +187,7 @@ A curated list of Google Apps Script resources. Want to add or fix something? Re
 
 ### Artificial Intelligence
 
-* [scriptit-fr/GenAIApp](https://github.com/scriptit-fr/GenAIApp) ⭐ 28 | 🐛 1 | 🌐 JavaScript | 📅 2026-09-07 Google Apps Script binding for Gemini and OpenAI generative AI APIs
+* [scriptit-fr/GenAIApp](https://github.com/scriptit-fr/GenAIApp) ⭐ 28 | 🐛 1 | 🌐 JavaScript | 📅 2026-09-08 Google Apps Script binding for Gemini and OpenAI generative AI APIs
 
 ### Parsing
 
@@ -336,4 +336,4 @@ A curated list of Google Apps Script resources. Want to add or fix something? Re
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._

@@ -183,10 +183,10 @@
             "language": "TypeScript",
             "license": "Apache-2.0",
             "last_commit": "2026-08-28T22:59:47Z",
-            "open_issues": 47,
+            "open_issues": 49,
             "owner": "google",
             "repo": "clasp",
-            "stars": 5817,
+            "stars": 5818,
             "topics": [
               "apps-script",
               "cli",
@@ -268,7 +268,7 @@
             "open_issues": 0,
             "owner": "tanaikech",
             "repo": "ggsrun",
-            "stars": 171,
+            "stars": 172,
             "topics": [
               "ai-agents",
               "cli",
@@ -355,7 +355,7 @@
             "id": 931569465,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-08T06:42:03Z",
+            "last_commit": "2026-09-08T12:00:30Z",
             "open_issues": 57,
             "owner": "brucemcpherson",
             "repo": "gas-fakes",
@@ -1888,7 +1888,7 @@
                 "id": 865464401,
                 "language": "JavaScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-07T08:18:10Z",
+                "last_commit": "2026-09-08T13:34:05Z",
                 "open_issues": 1,
                 "owner": "scriptit-fr",
                 "repo": "GenAIApp",
@@ -3424,7 +3424,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T06:44:27.075Z",
+    "last_updated": "2026-09-09T06:53:33.359Z",
     "original_repository_info": {
       "archived": false,
       "description": "The usual list of links to interesting resources for Google Apps Script",
