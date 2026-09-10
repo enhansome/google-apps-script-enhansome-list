@@ -186,7 +186,7 @@
             "open_issues": 49,
             "owner": "google",
             "repo": "clasp",
-            "stars": 5818,
+            "stars": 5819,
             "topics": [
               "apps-script",
               "cli",
@@ -212,7 +212,7 @@
             "open_issues": 51,
             "owner": "leonhartX",
             "repo": "gas-github",
-            "stars": 4495,
+            "stars": 4497,
             "topics": [
               "chrome-extension",
               "diff-dialog",
@@ -238,8 +238,8 @@
             "id": 74210633,
             "language": "JavaScript",
             "license": null,
-            "last_commit": "2026-09-03T00:15:12Z",
-            "open_issues": 25,
+            "last_commit": "2026-09-10T02:54:05Z",
+            "open_issues": 27,
             "owner": "fossamagna",
             "repo": "gas-webpack-plugin",
             "stars": 180,
@@ -3048,7 +3048,7 @@
                     "id": 8128277,
                     "language": "TypeScript",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-07T18:32:49Z",
+                    "last_commit": "2026-09-09T18:44:42Z",
                     "open_issues": 4,
                     "owner": "ahochsteger",
                     "repo": "gmail-processor",
@@ -3424,7 +3424,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T06:53:33.359Z",
+    "last_updated": "2026-09-10T06:49:55.098Z",
     "original_repository_info": {
       "archived": false,
       "description": "The usual list of links to interesting resources for Google Apps Script",
