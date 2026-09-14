@@ -21,7 +21,7 @@
                 "open_issues": 121,
                 "owner": "googleworkspace",
                 "repo": "apps-script-samples",
-                "stars": 5236,
+                "stars": 5235,
                 "topics": [
                   "adminsdk",
                   "apps-script",
@@ -165,7 +165,7 @@
             "open_issues": 432,
             "owner": "prasmussen",
             "repo": "gdrive",
-            "stars": 8949,
+            "stars": 8948,
             "topics": []
           },
           "first_seen": "2026-08-28T13:33:22.239Z"
@@ -186,7 +186,7 @@
             "open_issues": 49,
             "owner": "google",
             "repo": "clasp",
-            "stars": 5825,
+            "stars": 5826,
             "topics": [
               "apps-script",
               "cli",
@@ -212,7 +212,7 @@
             "open_issues": 51,
             "owner": "leonhartX",
             "repo": "gas-github",
-            "stars": 4509,
+            "stars": 4511,
             "topics": [
               "chrome-extension",
               "diff-dialog",
@@ -850,8 +850,8 @@
                 "id": 991221449,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-19T20:22:11Z",
-                "open_issues": 1,
+                "last_commit": "2026-09-13T15:32:03Z",
+                "open_issues": 2,
                 "owner": "bootgs",
                 "repo": "boot",
                 "stars": 26,
@@ -1673,7 +1673,7 @@
                 "id": 1022965453,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-20T13:33:23Z",
+                "last_commit": "2026-09-13T14:06:05Z",
                 "open_issues": 1,
                 "owner": "MaksymStoianov",
                 "repo": "apps-script-utils",
@@ -2856,8 +2856,8 @@
             "id": 278922046,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2020-08-01T14:31:05Z",
-            "open_issues": 9,
+            "last_commit": "2026-09-14T06:23:42Z",
+            "open_issues": 8,
             "owner": "artofthesmart",
             "repo": "QUnitGS2",
             "stars": 28,
@@ -3186,7 +3186,7 @@
                 "open_issues": 121,
                 "owner": "googleworkspace",
                 "repo": "apps-script-samples",
-                "stars": 5236,
+                "stars": 5235,
                 "topics": [
                   "adminsdk",
                   "apps-script",
@@ -3424,7 +3424,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T06:58:58.682Z",
+    "last_updated": "2026-09-14T07:21:35.684Z",
     "original_repository_info": {
       "archived": false,
       "description": "The usual list of links to interesting resources for Google Apps Script",
@@ -3433,7 +3433,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-04-26T06:58:02Z",
-      "open_issues": 8,
+      "open_issues": 9,
       "owner": "oshliaer",
       "repo": "google-apps-script-awesome-list",
       "stars": 2068,
