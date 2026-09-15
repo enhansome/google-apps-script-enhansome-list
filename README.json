@@ -186,7 +186,7 @@
             "open_issues": 49,
             "owner": "google",
             "repo": "clasp",
-            "stars": 5826,
+            "stars": 5828,
             "topics": [
               "apps-script",
               "cli",
@@ -212,7 +212,7 @@
             "open_issues": 51,
             "owner": "leonhartX",
             "repo": "gas-github",
-            "stars": 4511,
+            "stars": 4514,
             "topics": [
               "chrome-extension",
               "diff-dialog",
@@ -355,7 +355,7 @@
             "id": 931569465,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-11T10:35:51Z",
+            "last_commit": "2026-09-14T10:05:24Z",
             "open_issues": 57,
             "owner": "brucemcpherson",
             "repo": "gas-fakes",
@@ -605,7 +605,7 @@
                 "open_issues": 33,
                 "owner": "enuchi",
                 "repo": "React-Google-Apps-Script",
-                "stars": 1527,
+                "stars": 1526,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:33:22.239Z"
@@ -1888,8 +1888,8 @@
                 "id": 865464401,
                 "language": "JavaScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-11T14:01:22Z",
-                "open_issues": 1,
+                "last_commit": "2026-09-15T06:18:20Z",
+                "open_issues": 2,
                 "owner": "scriptit-fr",
                 "repo": "GenAIApp",
                 "stars": 28,
@@ -2274,7 +2274,7 @@
             "open_issues": 96,
             "owner": "alexwforsythe",
             "repo": "code-blocks",
-            "stars": 788,
+            "stars": 787,
             "topics": [
               "google-apps-script",
               "google-docs-addon",
@@ -2856,7 +2856,7 @@
             "id": 278922046,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-14T06:23:42Z",
+            "last_commit": "2026-09-14T21:49:12Z",
             "open_issues": 8,
             "owner": "artofthesmart",
             "repo": "QUnitGS2",
@@ -3048,7 +3048,7 @@
                     "id": 8128277,
                     "language": "TypeScript",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-12T09:54:28Z",
+                    "last_commit": "2026-09-15T02:36:52Z",
                     "open_issues": 5,
                     "owner": "ahochsteger",
                     "repo": "gmail-processor",
@@ -3165,7 +3165,7 @@
                 "open_issues": 409,
                 "owner": "youtube",
                 "repo": "api-samples",
-                "stars": 6025,
+                "stars": 6026,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:33:22.239Z"
@@ -3424,7 +3424,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T07:21:35.684Z",
+    "last_updated": "2026-09-15T06:57:59.389Z",
     "original_repository_info": {
       "archived": false,
       "description": "The usual list of links to interesting resources for Google Apps Script",
