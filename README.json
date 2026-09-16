@@ -21,7 +21,7 @@
                 "open_issues": 121,
                 "owner": "googleworkspace",
                 "repo": "apps-script-samples",
-                "stars": 5235,
+                "stars": 5236,
                 "topics": [
                   "adminsdk",
                   "apps-script",
@@ -183,10 +183,10 @@
             "language": "TypeScript",
             "license": "Apache-2.0",
             "last_commit": "2026-08-28T22:59:47Z",
-            "open_issues": 49,
+            "open_issues": 50,
             "owner": "google",
             "repo": "clasp",
-            "stars": 5828,
+            "stars": 5831,
             "topics": [
               "apps-script",
               "cli",
@@ -355,7 +355,7 @@
             "id": 931569465,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-14T10:05:24Z",
+            "last_commit": "2026-09-16T06:59:29Z",
             "open_issues": 57,
             "owner": "brucemcpherson",
             "repo": "gas-fakes",
@@ -605,7 +605,7 @@
                 "open_issues": 33,
                 "owner": "enuchi",
                 "repo": "React-Google-Apps-Script",
-                "stars": 1526,
+                "stars": 1527,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:33:22.239Z"
@@ -1224,7 +1224,7 @@
                 "open_issues": 7,
                 "owner": "socialpoint-labs",
                 "repo": "sheetfu",
-                "stars": 848,
+                "stars": 847,
                 "topics": [
                   "google-sheets-api",
                   "google-sheets-api-v4",
@@ -1888,7 +1888,7 @@
                 "id": 865464401,
                 "language": "JavaScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-15T06:18:20Z",
+                "last_commit": "2026-09-15T07:48:26Z",
                 "open_issues": 2,
                 "owner": "scriptit-fr",
                 "repo": "GenAIApp",
@@ -2071,7 +2071,7 @@
                 "open_issues": 0,
                 "owner": "tanaikech",
                 "repo": "ImgApp",
-                "stars": 167,
+                "stars": 166,
                 "topics": [
                   "apps-script",
                   "dataview",
@@ -3048,7 +3048,7 @@
                     "id": 8128277,
                     "language": "TypeScript",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-15T02:36:52Z",
+                    "last_commit": "2026-09-15T18:48:31Z",
                     "open_issues": 5,
                     "owner": "ahochsteger",
                     "repo": "gmail-processor",
@@ -3186,7 +3186,7 @@
                 "open_issues": 121,
                 "owner": "googleworkspace",
                 "repo": "apps-script-samples",
-                "stars": 5235,
+                "stars": 5236,
                 "topics": [
                   "adminsdk",
                   "apps-script",
@@ -3218,7 +3218,7 @@
                 "open_issues": 26,
                 "owner": "dwyl",
                 "repo": "learn-to-send-email-via-google-script-html-no-server",
-                "stars": 3212,
+                "stars": 3211,
                 "topics": [
                   "ajax",
                   "email",
@@ -3424,7 +3424,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T06:57:59.389Z",
+    "last_updated": "2026-09-16T06:59:43.028Z",
     "original_repository_info": {
       "archived": false,
       "description": "The usual list of links to interesting resources for Google Apps Script",
@@ -3436,7 +3436,7 @@
       "open_issues": 9,
       "owner": "oshliaer",
       "repo": "google-apps-script-awesome-list",
-      "stars": 2068,
+      "stars": 2072,
       "topics": [
         "awesome-list",
         "awesome-lists",
