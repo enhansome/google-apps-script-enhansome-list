@@ -212,7 +212,7 @@
             "open_issues": 51,
             "owner": "leonhartX",
             "repo": "gas-github",
-            "stars": 4523,
+            "stars": 4525,
             "topics": [
               "chrome-extension",
               "diff-dialog",
@@ -605,7 +605,7 @@
                 "open_issues": 33,
                 "owner": "enuchi",
                 "repo": "React-Google-Apps-Script",
-                "stars": 1529,
+                "stars": 1530,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:33:22.239Z"
@@ -851,7 +851,7 @@
                 "language": "TypeScript",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-13T15:32:03Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "bootgs",
                 "repo": "boot",
                 "stars": 26,
@@ -1673,8 +1673,8 @@
                 "id": 1022965453,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-20T07:09:55Z",
-                "open_issues": 127,
+                "last_commit": "2026-09-20T20:10:17Z",
+                "open_issues": 338,
                 "owner": "MaksymStoianov",
                 "repo": "apps-script-utils",
                 "stars": 29,
@@ -1888,8 +1888,8 @@
                 "id": 865464401,
                 "language": "JavaScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-15T07:48:26Z",
-                "open_issues": 2,
+                "last_commit": "2026-09-21T06:42:03Z",
+                "open_issues": 3,
                 "owner": "scriptit-fr",
                 "repo": "GenAIApp",
                 "stars": 28,
@@ -2227,7 +2227,7 @@
             "open_issues": 55,
             "owner": "ericyd",
             "repo": "gdrive-copy",
-            "stars": 1579,
+            "stars": 1578,
             "topics": []
           },
           "first_seen": "2026-08-28T13:33:22.239Z"
@@ -3048,7 +3048,7 @@
                     "id": 8128277,
                     "language": "TypeScript",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-20T05:51:15Z",
+                    "last_commit": "2026-09-21T01:46:55Z",
                     "open_issues": 5,
                     "owner": "ahochsteger",
                     "repo": "gmail-processor",
@@ -3424,7 +3424,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T07:15:44.534Z",
+    "last_updated": "2026-09-21T07:25:20.353Z",
     "original_repository_info": {
       "archived": false,
       "description": "The usual list of links to interesting resources for Google Apps Script",
@@ -3436,7 +3436,7 @@
       "open_issues": 9,
       "owner": "oshliaer",
       "repo": "google-apps-script-awesome-list",
-      "stars": 2073,
+      "stars": 2074,
       "topics": [
         "awesome-list",
         "awesome-lists",
