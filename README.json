@@ -21,7 +21,7 @@
                 "open_issues": 121,
                 "owner": "googleworkspace",
                 "repo": "apps-script-samples",
-                "stars": 5239,
+                "stars": 5240,
                 "topics": [
                   "adminsdk",
                   "apps-script",
@@ -124,7 +124,7 @@
                 "open_issues": 1,
                 "owner": "ashtonfei",
                 "repo": "google-apps-script-projects",
-                "stars": 151,
+                "stars": 152,
                 "topics": [
                   "addon",
                   "automation",
@@ -165,7 +165,7 @@
             "open_issues": 432,
             "owner": "prasmussen",
             "repo": "gdrive",
-            "stars": 8948,
+            "stars": 8949,
             "topics": []
           },
           "first_seen": "2026-08-28T13:33:22.239Z"
@@ -186,7 +186,7 @@
             "open_issues": 53,
             "owner": "google",
             "repo": "clasp",
-            "stars": 5836,
+            "stars": 5837,
             "topics": [
               "apps-script",
               "cli",
@@ -212,7 +212,7 @@
             "open_issues": 51,
             "owner": "leonhartX",
             "repo": "gas-github",
-            "stars": 4528,
+            "stars": 4531,
             "topics": [
               "chrome-extension",
               "diff-dialog",
@@ -1669,12 +1669,12 @@
               "repo_info": {
                 "archived": false,
                 "description": "Utilities for Google Apps Script™ projects.",
-                "homepage": "https://maksymstoianov.com",
+                "homepage": "https://maksymstoianov.github.io/apps-script-utils/",
                 "id": 1022965453,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-21T20:37:58Z",
-                "open_issues": 232,
+                "last_commit": "2026-09-22T22:17:45Z",
+                "open_issues": 42,
                 "owner": "MaksymStoianov",
                 "repo": "apps-script-utils",
                 "stars": 29,
@@ -1888,8 +1888,8 @@
                 "id": 865464401,
                 "language": "JavaScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-22T07:00:13Z",
-                "open_issues": 2,
+                "last_commit": "2026-09-22T09:40:23Z",
+                "open_issues": 1,
                 "owner": "scriptit-fr",
                 "repo": "GenAIApp",
                 "stars": 28,
@@ -2248,7 +2248,7 @@
             "open_issues": 0,
             "owner": "labnol",
             "repo": "unsubscribe-gmail",
-            "stars": 1566,
+            "stars": 1567,
             "topics": [
               "gmail",
               "google-apps-script",
@@ -2321,8 +2321,8 @@
             "id": 49284951,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-07-20T21:09:04Z",
-            "open_issues": 60,
+            "last_commit": "2026-09-22T22:42:28Z",
+            "open_issues": 59,
             "owner": "davepar",
             "repo": "gcalendarsync",
             "stars": 166,
@@ -3048,7 +3048,7 @@
                     "id": 8128277,
                     "language": "TypeScript",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-22T03:45:17Z",
+                    "last_commit": "2026-09-23T01:14:49Z",
                     "open_issues": 5,
                     "owner": "ahochsteger",
                     "repo": "gmail-processor",
@@ -3186,7 +3186,7 @@
                 "open_issues": 121,
                 "owner": "googleworkspace",
                 "repo": "apps-script-samples",
-                "stars": 5239,
+                "stars": 5240,
                 "topics": [
                   "adminsdk",
                   "apps-script",
@@ -3424,7 +3424,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T07:02:57.846Z",
+    "last_updated": "2026-09-23T06:58:59.714Z",
     "original_repository_info": {
       "archived": false,
       "description": "The usual list of links to interesting resources for Google Apps Script",
