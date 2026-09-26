@@ -21,7 +21,7 @@
                 "open_issues": 121,
                 "owner": "googleworkspace",
                 "repo": "apps-script-samples",
-                "stars": 5242,
+                "stars": 5243,
                 "topics": [
                   "adminsdk",
                   "apps-script",
@@ -186,7 +186,7 @@
             "open_issues": 53,
             "owner": "google",
             "repo": "clasp",
-            "stars": 5840,
+            "stars": 5841,
             "topics": [
               "apps-script",
               "cli",
@@ -212,7 +212,7 @@
             "open_issues": 51,
             "owner": "leonhartX",
             "repo": "gas-github",
-            "stars": 4538,
+            "stars": 4545,
             "topics": [
               "chrome-extension",
               "diff-dialog",
@@ -242,7 +242,7 @@
             "open_issues": 27,
             "owner": "fossamagna",
             "repo": "gas-webpack-plugin",
-            "stars": 180,
+            "stars": 178,
             "topics": [
               "apps-script",
               "google-apps-script",
@@ -1888,7 +1888,7 @@
                 "id": 865464401,
                 "language": "JavaScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-23T12:46:29Z",
+                "last_commit": "2026-09-25T08:51:13Z",
                 "open_issues": 1,
                 "owner": "scriptit-fr",
                 "repo": "GenAIApp",
@@ -2248,7 +2248,7 @@
             "open_issues": 0,
             "owner": "labnol",
             "repo": "unsubscribe-gmail",
-            "stars": 1567,
+            "stars": 1568,
             "topics": [
               "gmail",
               "google-apps-script",
@@ -3048,7 +3048,7 @@
                     "id": 8128277,
                     "language": "TypeScript",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-24T22:49:44Z",
+                    "last_commit": "2026-09-26T02:46:40Z",
                     "open_issues": 5,
                     "owner": "ahochsteger",
                     "repo": "gmail-processor",
@@ -3186,7 +3186,7 @@
                 "open_issues": 121,
                 "owner": "googleworkspace",
                 "repo": "apps-script-samples",
-                "stars": 5242,
+                "stars": 5243,
                 "topics": [
                   "adminsdk",
                   "apps-script",
@@ -3424,7 +3424,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T06:50:58.785Z",
+    "last_updated": "2026-09-26T06:51:52.939Z",
     "original_repository_info": {
       "archived": false,
       "description": "The usual list of links to interesting resources for Google Apps Script",
@@ -3436,7 +3436,7 @@
       "open_issues": 9,
       "owner": "oshliaer",
       "repo": "google-apps-script-awesome-list",
-      "stars": 2074,
+      "stars": 2075,
       "topics": [
         "awesome-list",
         "awesome-lists",
