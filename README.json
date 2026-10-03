@@ -21,7 +21,7 @@
                 "open_issues": 121,
                 "owner": "googleworkspace",
                 "repo": "apps-script-samples",
-                "stars": 5241,
+                "stars": 5238,
                 "topics": [
                   "adminsdk",
                   "apps-script",
@@ -40,7 +40,7 @@
             {
               "node_type": "item",
               "title": "Google Apps Script Cheat Sheet",
-              "description": null,
+              "description": "jc324x/google-apps-script-cheat-sheet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -165,7 +165,7 @@
             "open_issues": 432,
             "owner": "prasmussen",
             "repo": "gdrive",
-            "stars": 8948,
+            "stars": 8947,
             "topics": []
           },
           "first_seen": "2026-08-28T13:33:22.239Z"
@@ -186,7 +186,7 @@
             "open_issues": 53,
             "owner": "google",
             "repo": "clasp",
-            "stars": 5849,
+            "stars": 5850,
             "topics": [
               "apps-script",
               "cli",
@@ -212,7 +212,7 @@
             "open_issues": 51,
             "owner": "leonhartX",
             "repo": "gas-github",
-            "stars": 4557,
+            "stars": 4559,
             "topics": [
               "chrome-extension",
               "diff-dialog",
@@ -2227,7 +2227,7 @@
             "open_issues": 55,
             "owner": "ericyd",
             "repo": "gdrive-copy",
-            "stars": 1578,
+            "stars": 1577,
             "topics": []
           },
           "first_seen": "2026-08-28T13:33:22.239Z"
@@ -2274,7 +2274,7 @@
             "open_issues": 96,
             "owner": "alexwforsythe",
             "repo": "code-blocks",
-            "stars": 786,
+            "stars": 785,
             "topics": [
               "google-apps-script",
               "google-docs-addon",
@@ -2973,7 +2973,7 @@
                 {
                   "node_type": "item",
                   "title": "Collection of Apps Scripts for connecting to APIs",
-                  "description": null,
+                  "description": "benlcollins/apps_script_apis",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3001,7 +3001,7 @@
                 {
                   "node_type": "item",
                   "title": "ReshapeReshaping functions for Google Spreadsheets",
-                  "description": null,
+                  "description": "rgertenbach/Reshape",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3048,7 +3048,7 @@
                     "id": 8128277,
                     "language": "TypeScript",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-01T17:18:50Z",
+                    "last_commit": "2026-10-03T02:13:04Z",
                     "open_issues": 5,
                     "owner": "ahochsteger",
                     "repo": "gmail-processor",
@@ -3105,7 +3105,7 @@
                     "open_issues": 175,
                     "owner": "bradjasper",
                     "repo": "ImportJSON",
-                    "stars": 2131,
+                    "stars": 2129,
                     "topics": [
                       "cryptocurrencies",
                       "google-sheets",
@@ -3132,7 +3132,7 @@
                     "open_issues": 106,
                     "owner": "dchester",
                     "repo": "jsonpath",
-                    "stars": 1429,
+                    "stars": 1428,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T13:33:22.239Z"
@@ -3186,7 +3186,7 @@
                 "open_issues": 121,
                 "owner": "googleworkspace",
                 "repo": "apps-script-samples",
-                "stars": 5241,
+                "stars": 5238,
                 "topics": [
                   "adminsdk",
                   "apps-script",
@@ -3205,7 +3205,7 @@
             {
               "node_type": "item",
               "title": "An Example of using an HTML form (e.g: \"Contact Us\" on a website) to send Email without a Backend Server (using a Google Script)",
-              "description": null,
+              "description": "dwyl/learn-to-send-email-via-google-script-html-no-server",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3250,7 +3250,7 @@
                 "open_issues": 175,
                 "owner": "bradjasper",
                 "repo": "ImportJSON",
-                "stars": 2131,
+                "stars": 2129,
                 "topics": [
                   "cryptocurrencies",
                   "google-sheets",
@@ -3424,7 +3424,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T07:44:20.733Z",
+    "last_updated": "2026-10-03T05:17:47.170Z",
     "original_repository_info": {
       "archived": false,
       "description": "The usual list of links to interesting resources for Google Apps Script",
@@ -3436,7 +3436,7 @@
       "open_issues": 9,
       "owner": "oshliaer",
       "repo": "google-apps-script-awesome-list",
-      "stars": 2080,
+      "stars": 2081,
       "topics": [
         "awesome-list",
         "awesome-lists",
