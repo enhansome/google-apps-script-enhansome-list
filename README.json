@@ -212,7 +212,7 @@
             "open_issues": 51,
             "owner": "leonhartX",
             "repo": "gas-github",
-            "stars": 4565,
+            "stars": 4568,
             "topics": [
               "chrome-extension",
               "diff-dialog",
@@ -626,7 +626,7 @@
                 "open_issues": 6,
                 "owner": "labnol",
                 "repo": "apps-script-starter",
-                "stars": 1252,
+                "stars": 1251,
                 "topics": [
                   "gmail",
                   "google-apps-script",
@@ -3048,11 +3048,11 @@
                     "id": 8128277,
                     "language": "TypeScript",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-06T06:17:16Z",
+                    "last_commit": "2026-10-07T01:10:47Z",
                     "open_issues": 5,
                     "owner": "ahochsteger",
                     "repo": "gmail-processor",
-                    "stars": 586,
+                    "stars": 587,
                     "topics": [
                       "automation",
                       "gmail",
@@ -3132,7 +3132,7 @@
                     "open_issues": 106,
                     "owner": "dchester",
                     "repo": "jsonpath",
-                    "stars": 1428,
+                    "stars": 1427,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T13:33:22.239Z"
@@ -3165,7 +3165,7 @@
                 "open_issues": 409,
                 "owner": "youtube",
                 "repo": "api-samples",
-                "stars": 6026,
+                "stars": 6027,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:33:22.239Z"
@@ -3424,7 +3424,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T11:08:40.059Z",
+    "last_updated": "2026-10-07T07:55:36.095Z",
     "original_repository_info": {
       "archived": false,
       "description": "The usual list of links to interesting resources for Google Apps Script",
@@ -3436,7 +3436,7 @@
       "open_issues": 10,
       "owner": "oshliaer",
       "repo": "google-apps-script-awesome-list",
-      "stars": 2082,
+      "stars": 2081,
       "topics": [
         "awesome-list",
         "awesome-lists",
