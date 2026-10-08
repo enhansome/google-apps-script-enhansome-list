@@ -212,7 +212,7 @@
             "open_issues": 51,
             "owner": "leonhartX",
             "repo": "gas-github",
-            "stars": 4568,
+            "stars": 4572,
             "topics": [
               "chrome-extension",
               "diff-dialog",
@@ -1990,7 +1990,7 @@
                 "open_issues": 47,
                 "owner": "googleworkspace",
                 "repo": "apps-script-oauth2",
-                "stars": 1753,
+                "stars": 1750,
                 "topics": [
                   "apps-script",
                   "google-apps-script",
@@ -2071,7 +2071,7 @@
                 "open_issues": 0,
                 "owner": "tanaikech",
                 "repo": "ImgApp",
-                "stars": 166,
+                "stars": 165,
                 "topics": [
                   "apps-script",
                   "dataview",
@@ -3048,7 +3048,7 @@
                     "id": 8128277,
                     "language": "TypeScript",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-07T01:10:47Z",
+                    "last_commit": "2026-10-08T05:05:44Z",
                     "open_issues": 5,
                     "owner": "ahochsteger",
                     "repo": "gmail-processor",
@@ -3165,7 +3165,7 @@
                 "open_issues": 409,
                 "owner": "youtube",
                 "repo": "api-samples",
-                "stars": 6027,
+                "stars": 6026,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:33:22.239Z"
@@ -3424,7 +3424,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T07:55:36.095Z",
+    "last_updated": "2026-10-08T08:10:34.308Z",
     "original_repository_info": {
       "archived": false,
       "description": "The usual list of links to interesting resources for Google Apps Script",
@@ -3436,7 +3436,7 @@
       "open_issues": 10,
       "owner": "oshliaer",
       "repo": "google-apps-script-awesome-list",
-      "stars": 2081,
+      "stars": 2082,
       "topics": [
         "awesome-list",
         "awesome-lists",
