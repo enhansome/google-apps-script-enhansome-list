@@ -91,7 +91,7 @@ A curated list of Google Apps Script resources. Want to add or fix something? Re
 ## Development
 
 * [gdrive](https://github.com/prasmussen/gdrive) ⚠️ Archived Google Drive CLI Client
-* [google/clasp](https://github.com/google/clasp) ⭐ 5,856 | 🐛 54 | 🌐 TypeScript | 📅 2026-08-28 Develop Apps Script projects locally using clasp (Command Line Apps Script Projects) CLI
+* [google/clasp](https://github.com/google/clasp) ⭐ 5,857 | 🐛 54 | 🌐 TypeScript | 📅 2026-08-28 Develop Apps Script projects locally using clasp (Command Line Apps Script Projects) CLI
 * [gas-github](https://github.com/leonhartX/gas-github) ⭐ 4,572 | 🐛 51 | 🌐 JavaScript | 📅 2025-03-12 Chrome-extension to manage Google Apps Script(GAS) code with github/github enterprise
 * [fossamagna/gas-webpack-plugin](https://github.com/fossamagna/gas-webpack-plugin) ⭐ 177 | 🐛 28 | 🌐 JavaScript | 📅 2026-10-01 Webpack plugin for Google Apps Script
 * [ggsrun](https://github.com/tanaikech/ggsrun) ⭐ 173 | 🐛 0 | 🌐 Go | 📅 2026-08-26 This is a CLI tool to execute Google Apps Script (GAS) on a terminal
@@ -245,7 +245,7 @@ A curated list of Google Apps Script resources. Want to add or fix something? Re
 
 ## Chatbots
 
-* [Viber/build-a-bot-with-zero-coding](https://github.com/Viber/build-a-bot-with-zero-coding) ⭐ 485 | 🐛 14 | 🌐 JavaScript | 📅 2022-03-21 An example of using Google Sheets to create a Viber survey chat bot without a backend server
+* [Viber/build-a-bot-with-zero-coding](https://github.com/Viber/build-a-bot-with-zero-coding) ⭐ 486 | 🐛 14 | 🌐 JavaScript | 📅 2022-03-21 An example of using Google Sheets to create a Viber survey chat bot without a backend server
 * [Guf-Hub/TGBot](https://github.com/Guf-Hub/TGBot) ⭐ 51 | 🐛 4 | 🌐 JavaScript | 📅 2025-03-27 Google Apps Script library for working with the Telegram API. Google Apps Script библиотека для работы с API Telegram
 * [Facebook-bot-Google-Apps-Script](https://github.com/JZL/Facebook-bot-Google-Apps-Script) ⭐ 46 | 🐛 0 | 🌐 JavaScript | 📅 2016-07-02 A Facebook messenger bot implemented in Google Apps Script
 * [GroupMe Bots with Google Apps Script](https://github.com/william-reed/GroupMe-Bots-With-Google-Apps-Script) ⭐ 41 | 🐛 1 | 🌐 JavaScript | 📅 2020-03-22 Examples and resources for using the GroupMe Bot API with Google Apps Script
@@ -261,7 +261,7 @@ A curated list of Google Apps Script resources. Want to add or fix something? Re
 * [simula-innovation/qunit](https://github.com/simula-innovation/qunit) ⭐ 65 | 🐛 4 | 🌐 JavaScript | 📅 2015-10-21 An easy-to-use JavaScript Unit Testing framework
 * [classroomtechtools/modularLibraries.gs/UnitTesting](https://github.com/classroomtechtools/modularLibraries.gs/tree/master/UnitTesting) ⭐ 49 | 🐛 1 | 🌐 JavaScript | 📅 2020-02-06 Assertion and unit testing of modular libraries
 * [WildH0g/UnitTestingApp](https://github.com/WildH0g/UnitTestingApp) ⭐ 39 | 🐛 1 | 🌐 JavaScript | 📅 2021-10-31 Unit Testing App for Google Apps Script that works online (in GAS environment) and offline (in your IDE).
-* [artofthesmart/QUnitGS2](https://github.com/artofthesmart/QUnitGS2) ⭐ 28 | 🐛 8 | 🌐 JavaScript | 📅 2026-09-14 A Google Apps Script library that brings the power and simplicity of QUnit unit testing to your scripts and applications. In just 60 seconds you can add unit testing to any script.
+* [artofthesmart/QUnitGS2](https://github.com/artofthesmart/QUnitGS2) ⭐ 28 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-10 A Google Apps Script library that brings the power and simplicity of QUnit unit testing to your scripts and applications. In just 60 seconds you can add unit testing to any script.
 * [gasunit/GASUnit](https://github.com/gasunit/GASUnit) ⚠️ Archived Testing library for Google Apps Script
 * [GSUnit](https://sites.google.com/site/scriptsexamples/custom-methods/gsunit) is a Google Apps Script based testing framework based on JUnit by Kent Beck and JSUnit by Edward Hieatt. It will allow one to run tests while developing
 
@@ -336,4 +336,4 @@ A curated list of Google Apps Script resources. Want to add or fix something? Re
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._

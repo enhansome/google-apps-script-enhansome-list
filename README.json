@@ -186,7 +186,7 @@
             "open_issues": 54,
             "owner": "google",
             "repo": "clasp",
-            "stars": 5856,
+            "stars": 5857,
             "topics": [
               "apps-script",
               "cli",
@@ -2603,7 +2603,7 @@
             "open_issues": 14,
             "owner": "Viber",
             "repo": "build-a-bot-with-zero-coding",
-            "stars": 485,
+            "stars": 486,
             "topics": [
               "chatbot",
               "google-script",
@@ -2856,8 +2856,8 @@
             "id": 278922046,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-14T21:49:12Z",
-            "open_issues": 8,
+            "last_commit": "2026-10-10T22:19:07Z",
+            "open_issues": 0,
             "owner": "artofthesmart",
             "repo": "QUnitGS2",
             "stars": 28,
@@ -3165,7 +3165,7 @@
                 "open_issues": 409,
                 "owner": "youtube",
                 "repo": "api-samples",
-                "stars": 6028,
+                "stars": 6027,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:33:22.239Z"
@@ -3424,7 +3424,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T07:54:23.268Z",
+    "last_updated": "2026-10-11T08:01:18.005Z",
     "original_repository_info": {
       "archived": false,
       "description": "The usual list of links to interesting resources for Google Apps Script",
@@ -3436,7 +3436,7 @@
       "open_issues": 10,
       "owner": "oshliaer",
       "repo": "google-apps-script-awesome-list",
-      "stars": 2082,
+      "stars": 2083,
       "topics": [
         "awesome-list",
         "awesome-lists",
