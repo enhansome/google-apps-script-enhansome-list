@@ -21,7 +21,7 @@
                 "open_issues": 121,
                 "owner": "googleworkspace",
                 "repo": "apps-script-samples",
-                "stars": 5245,
+                "stars": 5249,
                 "topics": [
                   "adminsdk",
                   "apps-script",
@@ -165,7 +165,7 @@
             "open_issues": 432,
             "owner": "prasmussen",
             "repo": "gdrive",
-            "stars": 8947,
+            "stars": 8946,
             "topics": []
           },
           "first_seen": "2026-08-28T13:33:22.239Z"
@@ -186,7 +186,7 @@
             "open_issues": 55,
             "owner": "google",
             "repo": "clasp",
-            "stars": 5859,
+            "stars": 5864,
             "topics": [
               "apps-script",
               "cli",
@@ -212,7 +212,7 @@
             "open_issues": 51,
             "owner": "leonhartX",
             "repo": "gas-github",
-            "stars": 4575,
+            "stars": 4576,
             "topics": [
               "chrome-extension",
               "diff-dialog",
@@ -2248,7 +2248,7 @@
             "open_issues": 0,
             "owner": "labnol",
             "repo": "unsubscribe-gmail",
-            "stars": 1567,
+            "stars": 1568,
             "topics": [
               "gmail",
               "google-apps-script",
@@ -2274,7 +2274,7 @@
             "open_issues": 97,
             "owner": "alexwforsythe",
             "repo": "code-blocks",
-            "stars": 785,
+            "stars": 786,
             "topics": [
               "google-apps-script",
               "google-docs-addon",
@@ -2603,7 +2603,7 @@
             "open_issues": 14,
             "owner": "Viber",
             "repo": "build-a-bot-with-zero-coding",
-            "stars": 486,
+            "stars": 487,
             "topics": [
               "chatbot",
               "google-script",
@@ -3048,7 +3048,7 @@
                     "id": 8128277,
                     "language": "TypeScript",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-13T01:04:41Z",
+                    "last_commit": "2026-10-13T23:47:29Z",
                     "open_issues": 5,
                     "owner": "ahochsteger",
                     "repo": "gmail-processor",
@@ -3186,7 +3186,7 @@
                 "open_issues": 121,
                 "owner": "googleworkspace",
                 "repo": "apps-script-samples",
-                "stars": 5245,
+                "stars": 5249,
                 "topics": [
                   "adminsdk",
                   "apps-script",
@@ -3424,7 +3424,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T08:42:54.684Z",
+    "last_updated": "2026-10-14T06:53:51.757Z",
     "original_repository_info": {
       "archived": false,
       "description": "The usual list of links to interesting resources for Google Apps Script",
