@@ -21,7 +21,7 @@
                 "open_issues": 121,
                 "owner": "googleworkspace",
                 "repo": "apps-script-samples",
-                "stars": 5250,
+                "stars": 5249,
                 "topics": [
                   "adminsdk",
                   "apps-script",
@@ -53,7 +53,7 @@
                 "open_issues": 1,
                 "owner": "jc324x",
                 "repo": "google-apps-script-cheat-sheet",
-                "stars": 402,
+                "stars": 401,
                 "topics": [
                   "google-apps-script",
                   "javascript"
@@ -77,7 +77,7 @@
                 "open_issues": 43,
                 "owner": "oshliaer",
                 "repo": "google-apps-script-snippets",
-                "stars": 273,
+                "stars": 272,
                 "topics": [
                   "google-apps-script",
                   "googleappsscript",
@@ -103,7 +103,7 @@
                 "open_issues": 1,
                 "owner": "googlearchive",
                 "repo": "apps-script-templates",
-                "stars": 155,
+                "stars": 154,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:33:22.239Z"
@@ -124,7 +124,7 @@
                 "open_issues": 1,
                 "owner": "ashtonfei",
                 "repo": "google-apps-script-projects",
-                "stars": 152,
+                "stars": 151,
                 "topics": [
                   "addon",
                   "automation",
@@ -212,7 +212,7 @@
             "open_issues": 51,
             "owner": "leonhartX",
             "repo": "gas-github",
-            "stars": 4579,
+            "stars": 4581,
             "topics": [
               "chrome-extension",
               "diff-dialog",
@@ -242,7 +242,7 @@
             "open_issues": 29,
             "owner": "fossamagna",
             "repo": "gas-webpack-plugin",
-            "stars": 177,
+            "stars": 176,
             "topics": [
               "apps-script",
               "google-apps-script",
@@ -359,7 +359,7 @@
             "open_issues": 57,
             "owner": "brucemcpherson",
             "repo": "gas-fakes",
-            "stars": 79,
+            "stars": 80,
             "topics": [
               "appsscript",
               "containers",
@@ -605,7 +605,7 @@
                 "open_issues": 33,
                 "owner": "enuchi",
                 "repo": "React-Google-Apps-Script",
-                "stars": 1531,
+                "stars": 1530,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:33:22.239Z"
@@ -626,7 +626,7 @@
                 "open_issues": 6,
                 "owner": "labnol",
                 "repo": "apps-script-starter",
-                "stars": 1251,
+                "stars": 1250,
                 "topics": [
                   "gmail",
                   "google-apps-script",
@@ -652,7 +652,7 @@
                 "open_issues": 0,
                 "owner": "howdy39",
                 "repo": "gas-clasp-starter",
-                "stars": 259,
+                "stars": 258,
                 "topics": [
                   "apps-script",
                   "boilerplate",
@@ -1116,7 +1116,7 @@
             "open_issues": 0,
             "owner": "tanaikech",
             "repo": "Google-Apps-Script-Library-Database",
-            "stars": 143,
+            "stars": 142,
             "topics": [
               "gas-library",
               "google-apps-script",
@@ -1520,7 +1520,7 @@
                 "open_issues": 0,
                 "owner": "yinonavraham",
                 "repo": "GoogleAppsScripts",
-                "stars": 55,
+                "stars": 54,
                 "topics": [
                   "cache-service",
                   "gmail-search",
@@ -1546,7 +1546,7 @@
                 "open_issues": 0,
                 "owner": "yinonavraham",
                 "repo": "GoogleAppsScripts",
-                "stars": 55,
+                "stars": 54,
                 "topics": [
                   "cache-service",
                   "gmail-search",
@@ -1572,7 +1572,7 @@
                 "open_issues": 0,
                 "owner": "yinonavraham",
                 "repo": "GoogleAppsScripts",
-                "stars": 55,
+                "stars": 54,
                 "topics": [
                   "cache-service",
                   "gmail-search",
@@ -1990,7 +1990,7 @@
                 "open_issues": 47,
                 "owner": "googleworkspace",
                 "repo": "apps-script-oauth2",
-                "stars": 1750,
+                "stars": 1749,
                 "topics": [
                   "apps-script",
                   "google-apps-script",
@@ -2325,7 +2325,7 @@
             "open_issues": 59,
             "owner": "davepar",
             "repo": "gcalendarsync",
-            "stars": 166,
+            "stars": 165,
             "topics": []
           },
           "first_seen": "2026-08-28T13:33:22.239Z"
@@ -3048,11 +3048,11 @@
                     "id": 8128277,
                     "language": "TypeScript",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-14T21:41:40Z",
+                    "last_commit": "2026-10-15T19:04:16Z",
                     "open_issues": 5,
                     "owner": "ahochsteger",
                     "repo": "gmail-processor",
-                    "stars": 586,
+                    "stars": 585,
                     "topics": [
                       "automation",
                       "gmail",
@@ -3105,7 +3105,7 @@
                     "open_issues": 175,
                     "owner": "bradjasper",
                     "repo": "ImportJSON",
-                    "stars": 2129,
+                    "stars": 2128,
                     "topics": [
                       "cryptocurrencies",
                       "google-sheets",
@@ -3186,7 +3186,7 @@
                 "open_issues": 121,
                 "owner": "googleworkspace",
                 "repo": "apps-script-samples",
-                "stars": 5250,
+                "stars": 5249,
                 "topics": [
                   "adminsdk",
                   "apps-script",
@@ -3218,7 +3218,7 @@
                 "open_issues": 26,
                 "owner": "dwyl",
                 "repo": "learn-to-send-email-via-google-script-html-no-server",
-                "stars": 3210,
+                "stars": 3209,
                 "topics": [
                   "ajax",
                   "email",
@@ -3250,7 +3250,7 @@
                 "open_issues": 175,
                 "owner": "bradjasper",
                 "repo": "ImportJSON",
-                "stars": 2129,
+                "stars": 2128,
                 "topics": [
                   "cryptocurrencies",
                   "google-sheets",
@@ -3301,7 +3301,7 @@
                 "open_issues": 0,
                 "owner": "andrewroberts",
                 "repo": "GAS-Framework",
-                "stars": 68,
+                "stars": 67,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:33:22.239Z"
@@ -3424,7 +3424,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T06:43:09.459Z",
+    "last_updated": "2026-10-16T06:34:09.340Z",
     "original_repository_info": {
       "archived": false,
       "description": "The usual list of links to interesting resources for Google Apps Script",
@@ -3436,7 +3436,7 @@
       "open_issues": 10,
       "owner": "oshliaer",
       "repo": "google-apps-script-awesome-list",
-      "stars": 2084,
+      "stars": 2083,
       "topics": [
         "awesome-list",
         "awesome-lists",
