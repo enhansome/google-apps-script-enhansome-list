@@ -21,7 +21,7 @@
                 "open_issues": 124,
                 "owner": "googleworkspace",
                 "repo": "apps-script-samples",
-                "stars": 5251,
+                "stars": 5252,
                 "topics": [
                   "adminsdk",
                   "apps-script",
@@ -183,10 +183,10 @@
             "language": "TypeScript",
             "license": "Apache-2.0",
             "last_commit": "2026-08-28T22:59:47Z",
-            "open_issues": 56,
+            "open_issues": 57,
             "owner": "google",
             "repo": "clasp",
-            "stars": 5873,
+            "stars": 5874,
             "topics": [
               "apps-script",
               "cli",
@@ -212,7 +212,7 @@
             "open_issues": 51,
             "owner": "leonhartX",
             "repo": "gas-github",
-            "stars": 4596,
+            "stars": 4598,
             "topics": [
               "chrome-extension",
               "diff-dialog",
@@ -3048,7 +3048,7 @@
                     "id": 8128277,
                     "language": "TypeScript",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-18T20:48:43Z",
+                    "last_commit": "2026-10-20T14:14:01Z",
                     "open_issues": 5,
                     "owner": "ahochsteger",
                     "repo": "gmail-processor",
@@ -3132,7 +3132,7 @@
                     "open_issues": 107,
                     "owner": "dchester",
                     "repo": "jsonpath",
-                    "stars": 1427,
+                    "stars": 1428,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T13:33:22.239Z"
@@ -3186,7 +3186,7 @@
                 "open_issues": 124,
                 "owner": "googleworkspace",
                 "repo": "apps-script-samples",
-                "stars": 5251,
+                "stars": 5252,
                 "topics": [
                   "adminsdk",
                   "apps-script",
@@ -3218,7 +3218,7 @@
                 "open_issues": 26,
                 "owner": "dwyl",
                 "repo": "learn-to-send-email-via-google-script-html-no-server",
-                "stars": 3209,
+                "stars": 3208,
                 "topics": [
                   "ajax",
                   "email",
@@ -3424,7 +3424,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T06:51:23.008Z",
+    "last_updated": "2026-10-21T06:47:40.730Z",
     "original_repository_info": {
       "archived": false,
       "description": "The usual list of links to interesting resources for Google Apps Script",
@@ -3433,7 +3433,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-04-26T06:58:02Z",
-      "open_issues": 11,
+      "open_issues": 12,
       "owner": "oshliaer",
       "repo": "google-apps-script-awesome-list",
       "stars": 2084,
