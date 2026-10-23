@@ -21,7 +21,7 @@
                 "open_issues": 124,
                 "owner": "googleworkspace",
                 "repo": "apps-script-samples",
-                "stars": 5253,
+                "stars": 5254,
                 "topics": [
                   "adminsdk",
                   "apps-script",
@@ -165,7 +165,7 @@
             "open_issues": 432,
             "owner": "prasmussen",
             "repo": "gdrive",
-            "stars": 8944,
+            "stars": 8943,
             "topics": []
           },
           "first_seen": "2026-08-28T13:33:22.239Z"
@@ -186,7 +186,7 @@
             "open_issues": 57,
             "owner": "google",
             "repo": "clasp",
-            "stars": 5877,
+            "stars": 5880,
             "topics": [
               "apps-script",
               "cli",
@@ -212,7 +212,7 @@
             "open_issues": 51,
             "owner": "leonhartX",
             "repo": "gas-github",
-            "stars": 4599,
+            "stars": 4603,
             "topics": [
               "chrome-extension",
               "diff-dialog",
@@ -605,7 +605,7 @@
                 "open_issues": 33,
                 "owner": "enuchi",
                 "repo": "React-Google-Apps-Script",
-                "stars": 1529,
+                "stars": 1530,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:33:22.239Z"
@@ -626,7 +626,7 @@
                 "open_issues": 6,
                 "owner": "labnol",
                 "repo": "apps-script-starter",
-                "stars": 1250,
+                "stars": 1251,
                 "topics": [
                   "gmail",
                   "google-apps-script",
@@ -3105,7 +3105,7 @@
                     "open_issues": 175,
                     "owner": "bradjasper",
                     "repo": "ImportJSON",
-                    "stars": 2128,
+                    "stars": 2127,
                     "topics": [
                       "cryptocurrencies",
                       "google-sheets",
@@ -3186,7 +3186,7 @@
                 "open_issues": 124,
                 "owner": "googleworkspace",
                 "repo": "apps-script-samples",
-                "stars": 5253,
+                "stars": 5254,
                 "topics": [
                   "adminsdk",
                   "apps-script",
@@ -3250,7 +3250,7 @@
                 "open_issues": 175,
                 "owner": "bradjasper",
                 "repo": "ImportJSON",
-                "stars": 2128,
+                "stars": 2127,
                 "topics": [
                   "cryptocurrencies",
                   "google-sheets",
@@ -3424,7 +3424,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T06:49:33.035Z",
+    "last_updated": "2026-10-23T06:44:36.868Z",
     "original_repository_info": {
       "archived": false,
       "description": "The usual list of links to interesting resources for Google Apps Script",
