@@ -91,10 +91,10 @@ A curated list of Google Apps Script resources. Want to add or fix something? Re
 ## Development
 
 * [gdrive](https://github.com/prasmussen/gdrive) ⚠️ Archived Google Drive CLI Client
-* [google/clasp](https://github.com/google/clasp) ⭐ 5,880 | 🐛 57 | 🌐 TypeScript | 📅 2026-08-28 Develop Apps Script projects locally using clasp (Command Line Apps Script Projects) CLI
-* [gas-github](https://github.com/leonhartX/gas-github) ⭐ 4,603 | 🐛 51 | 🌐 JavaScript | 📅 2025-03-12 Chrome-extension to manage Google Apps Script(GAS) code with github/github enterprise
+* [google/clasp](https://github.com/google/clasp) ⭐ 5,882 | 🐛 58 | 🌐 TypeScript | 📅 2026-08-28 Develop Apps Script projects locally using clasp (Command Line Apps Script Projects) CLI
+* [gas-github](https://github.com/leonhartX/gas-github) ⭐ 4,606 | 🐛 51 | 🌐 JavaScript | 📅 2025-03-12 Chrome-extension to manage Google Apps Script(GAS) code with github/github enterprise
 * [fossamagna/gas-webpack-plugin](https://github.com/fossamagna/gas-webpack-plugin) ⭐ 176 | 🐛 29 | 🌐 JavaScript | 📅 2026-10-12 Webpack plugin for Google Apps Script
-* [ggsrun](https://github.com/tanaikech/ggsrun) ⭐ 173 | 🐛 0 | 🌐 Go | 📅 2026-08-26 This is a CLI tool to execute Google Apps Script (GAS) on a terminal
+* [ggsrun](https://github.com/tanaikech/ggsrun) ⭐ 172 | 🐛 0 | 🌐 Go | 📅 2026-08-26 This is a CLI tool to execute Google Apps Script (GAS) on a terminal
 * [MaartenDesnouck/google-apps-script](https://github.com/MaartenDesnouck/google-apps-script) ⭐ 126 | 🐛 44 | 🌐 JavaScript | 📅 2026-02-04 gas, for locally developing Google Apps Script projects
 * [gas-local](https://github.com/mzagorny/gas-local) ⭐ 93 | 🐛 11 | 🌐 JavaScript | 📅 2023-04-17 Execute and test your google app scripts locally in node.js
 * [brucemcpherson/gas-fakes](https://github.com/brucemcpherson/gas-fakes) ⭐ 80 | 🐛 57 | 🌐 JavaScript | 📅 2026-09-16 A proof of concept implementation of Apps Script environment on node.js
@@ -197,7 +197,7 @@ A curated list of Google Apps Script resources. Want to add or fix something? Re
 
 ### oAuth
 
-* [apps-script-oauth2](https://github.com/gsuitedevs/apps-script-oauth2) ⭐ 1,751 | 🐛 47 | 🌐 JavaScript | 📅 2026-06-16 An OAuth2 library for Google Apps Script
+* [apps-script-oauth2](https://github.com/gsuitedevs/apps-script-oauth2) ⭐ 1,752 | 🐛 47 | 🌐 JavaScript | 📅 2026-06-16 An OAuth2 library for Google Apps Script
 * [apps-script-oauth1](https://github.com/gsuitedevs/apps-script-oauth1) ⚠️ Archived An OAuth1 library for Google Apps Script
 * [brucemcpherson/cGoa](https://github.com/brucemcpherson/cGoa) ⭐ 41 | 🐛 3 | 🌐 JavaScript | 📅 2024-06-19 OAuth2 for Apps Script in a few lines of code
 
@@ -233,7 +233,7 @@ A curated list of Google Apps Script resources. Want to add or fix something? Re
 * [Google Forms](https://github.com/labnol/google-forms) ⭐ 91 | 🐛 0 | 🌐 JavaScript | 📅 2018-12-25 Google Scripts for sending emails, generating PDFs and setting response limits inside Google Forms.
 * [email-studio-gmail-addon](https://github.com/labnol/email-studio-gmail-addon) ⭐ 85 | 🐛 0 | 🌐 JavaScript | 📅 2020-04-23 Gmail add-on for Mail Merge and Email Scheduler
 * [sajacy/google-sheets-what-if-analysis](https://github.com/sajacy/google-sheets-what-if-analysis) ⭐ 53 | 🐛 27 | 🌐 JavaScript | 📅 2020-05-17 Replicates the Excel "What-If Analysis" feature, Data Tables
-* [erickoledadevrel/crop-sheet](https://github.com/erickoledadevrel/crop-sheet) ⭐ 47 | 🐛 0 | 🌐 JavaScript | 📅 2022-06-30 An add-on for Google Sheets that allows you to easily remove extra rows and columns
+* [erickoledadevrel/crop-sheet](https://github.com/erickoledadevrel/crop-sheet) ⭐ 48 | 🐛 0 | 🌐 JavaScript | 📅 2022-06-30 An add-on for Google Sheets that allows you to easily remove extra rows and columns
 * [ericyd/gdrive-transfer](https://github.com/ericyd/gdrive-transfer) ⚠️ Archived Web app to transfer ownership of a Google Drive folder, including all sub-folders and documents
 * [Flubaroo](https://github.com/edcodeorg/flubaroo) ⭐ 27 | 🐛 1 | 🌐 JavaScript | 📅 2025-12-18 Add-on for Google Spreadsheets that allows teachers to quickly grade assignments, get insights into student performance, and share grades with their students electronically
 * [gauravgrover95/woocommerce-smartsheets](https://github.com/gauravgrover95/woocommerce-smartsheets) ⭐ 19 | 🐛 4 | 🌐 JavaScript | 📅 2016-06-18 Google Spreadsheets add on to import your WooCommerce supported E-Commerce website data to Google Sheets
@@ -336,4 +336,4 @@ A curated list of Google Apps Script resources. Want to add or fix something? Re
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._

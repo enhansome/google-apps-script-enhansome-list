@@ -183,10 +183,10 @@
             "language": "TypeScript",
             "license": "Apache-2.0",
             "last_commit": "2026-08-28T22:59:47Z",
-            "open_issues": 57,
+            "open_issues": 58,
             "owner": "google",
             "repo": "clasp",
-            "stars": 5880,
+            "stars": 5882,
             "topics": [
               "apps-script",
               "cli",
@@ -212,7 +212,7 @@
             "open_issues": 51,
             "owner": "leonhartX",
             "repo": "gas-github",
-            "stars": 4603,
+            "stars": 4606,
             "topics": [
               "chrome-extension",
               "diff-dialog",
@@ -268,7 +268,7 @@
             "open_issues": 0,
             "owner": "tanaikech",
             "repo": "ggsrun",
-            "stars": 173,
+            "stars": 172,
             "topics": [
               "ai-agents",
               "cli",
@@ -1990,7 +1990,7 @@
                 "open_issues": 47,
                 "owner": "googleworkspace",
                 "repo": "apps-script-oauth2",
-                "stars": 1751,
+                "stars": 1752,
                 "topics": [
                   "apps-script",
                   "google-apps-script",
@@ -2471,7 +2471,7 @@
             "open_issues": 0,
             "owner": "erickoledadevrel",
             "repo": "crop-sheet",
-            "stars": 47,
+            "stars": 48,
             "topics": []
           },
           "first_seen": "2026-08-28T13:33:22.239Z"
@@ -3165,7 +3165,7 @@
                 "open_issues": 409,
                 "owner": "youtube",
                 "repo": "api-samples",
-                "stars": 6030,
+                "stars": 6031,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:33:22.239Z"
@@ -3424,7 +3424,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T06:44:36.868Z",
+    "last_updated": "2026-10-24T06:40:40.213Z",
     "original_repository_info": {
       "archived": false,
       "description": "The usual list of links to interesting resources for Google Apps Script",
@@ -3436,7 +3436,7 @@
       "open_issues": 12,
       "owner": "oshliaer",
       "repo": "google-apps-script-awesome-list",
-      "stars": 2085,
+      "stars": 2086,
       "topics": [
         "awesome-list",
         "awesome-lists",
