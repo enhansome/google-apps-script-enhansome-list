@@ -165,7 +165,7 @@
             "open_issues": 432,
             "owner": "prasmussen",
             "repo": "gdrive",
-            "stars": 8944,
+            "stars": 8943,
             "topics": []
           },
           "first_seen": "2026-08-28T13:33:22.239Z"
@@ -186,7 +186,7 @@
             "open_issues": 58,
             "owner": "google",
             "repo": "clasp",
-            "stars": 5886,
+            "stars": 5889,
             "topics": [
               "apps-script",
               "cli",
@@ -626,7 +626,7 @@
                 "open_issues": 6,
                 "owner": "labnol",
                 "repo": "apps-script-starter",
-                "stars": 1251,
+                "stars": 1252,
                 "topics": [
                   "gmail",
                   "google-apps-script",
@@ -3105,7 +3105,7 @@
                     "open_issues": 175,
                     "owner": "bradjasper",
                     "repo": "ImportJSON",
-                    "stars": 2126,
+                    "stars": 2125,
                     "topics": [
                       "cryptocurrencies",
                       "google-sheets",
@@ -3129,7 +3129,7 @@
                     "language": "JavaScript",
                     "license": "MIT",
                     "last_commit": "2026-03-05T13:56:32Z",
-                    "open_issues": 107,
+                    "open_issues": 108,
                     "owner": "dchester",
                     "repo": "jsonpath",
                     "stars": 1428,
@@ -3250,7 +3250,7 @@
                 "open_issues": 175,
                 "owner": "bradjasper",
                 "repo": "ImportJSON",
-                "stars": 2126,
+                "stars": 2125,
                 "topics": [
                   "cryptocurrencies",
                   "google-sheets",
@@ -3424,7 +3424,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T07:43:56.402Z",
+    "last_updated": "2026-10-29T07:48:52.967Z",
     "original_repository_info": {
       "archived": false,
       "description": "The usual list of links to interesting resources for Google Apps Script",
@@ -3436,7 +3436,7 @@
       "open_issues": 11,
       "owner": "oshliaer",
       "repo": "google-apps-script-awesome-list",
-      "stars": 2086,
+      "stars": 2087,
       "topics": [
         "awesome-list",
         "awesome-lists",
