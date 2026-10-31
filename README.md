@@ -77,7 +77,7 @@ A curated list of Google Apps Script resources. Want to add or fix something? Re
 
 ### Lists & collections
 
-* [googleworkspace/apps-script-samples](https://github.com/googleworkspace/apps-script-samples) ⭐ 5,259 | 🐛 124 | 🌐 JavaScript | 📅 2026-07-30 Various sample code and projects for the Google Apps Script platform
+* [googleworkspace/apps-script-samples](https://github.com/googleworkspace/apps-script-samples) ⭐ 5,260 | 🐛 124 | 🌐 JavaScript | 📅 2026-07-30 Various sample code and projects for the Google Apps Script platform
 * [Google Apps Script Cheat Sheet](https://github.com/jychri/google-apps-script-cheat-sheet) ⭐ 402 | 🐛 1 | 🌐 JavaScript | 📅 2018-12-27
 * [google-apps-script-snippets](https://github.com/oshliaer/google-apps-script-snippets) ⭐ 272 | 🐛 43 | 🌐 JavaScript | 📅 2023-06-08 Google Apps Script Snippets
 * [googlesamples/apps-script-templates](https://github.com/googlesamples/apps-script-templates) ⚠️ Archived This repository contains a number of code templates for Google Apps Script that provide example frameworks for Apps Script projects
@@ -91,8 +91,8 @@ A curated list of Google Apps Script resources. Want to add or fix something? Re
 ## Development
 
 * [gdrive](https://github.com/prasmussen/gdrive) ⚠️ Archived Google Drive CLI Client
-* [google/clasp](https://github.com/google/clasp) ⭐ 5,891 | 🐛 58 | 🌐 TypeScript | 📅 2026-08-28 Develop Apps Script projects locally using clasp (Command Line Apps Script Projects) CLI
-* [gas-github](https://github.com/leonhartX/gas-github) ⭐ 4,614 | 🐛 51 | 🌐 JavaScript | 📅 2025-03-12 Chrome-extension to manage Google Apps Script(GAS) code with github/github enterprise
+* [google/clasp](https://github.com/google/clasp) ⭐ 5,893 | 🐛 58 | 🌐 TypeScript | 📅 2026-08-28 Develop Apps Script projects locally using clasp (Command Line Apps Script Projects) CLI
+* [gas-github](https://github.com/leonhartX/gas-github) ⭐ 4,617 | 🐛 51 | 🌐 JavaScript | 📅 2025-03-12 Chrome-extension to manage Google Apps Script(GAS) code with github/github enterprise
 * [fossamagna/gas-webpack-plugin](https://github.com/fossamagna/gas-webpack-plugin) ⭐ 176 | 🐛 29 | 🌐 JavaScript | 📅 2026-10-12 Webpack plugin for Google Apps Script
 * [ggsrun](https://github.com/tanaikech/ggsrun) ⭐ 172 | 🐛 0 | 🌐 Go | 📅 2026-08-26 This is a CLI tool to execute Google Apps Script (GAS) on a terminal
 * [MaartenDesnouck/google-apps-script](https://github.com/MaartenDesnouck/google-apps-script) ⭐ 126 | 🐛 44 | 🌐 JavaScript | 📅 2026-02-04 gas, for locally developing Google Apps Script projects
@@ -114,8 +114,8 @@ A curated list of Google Apps Script resources. Want to add or fix something? Re
 
 ### Starter Kits
 
-* [enuchi/React-Google-Apps-Script](https://github.com/enuchi/React-Google-Apps-Script) ⭐ 1,530 | 🐛 33 | 🌐 JavaScript | 📅 2026-02-14 This is your boilerplate project for developing React apps inside Google Sheets, Docs, Forms and Slides projects. It's perfect for personal projects and for publishing complex add-ons in the G Suite Marketplace.
-* [apps-script-starter](https://github.com/labnol/apps-script-starter) ⭐ 1,253 | 🐛 6 | 🌐 JavaScript | 📅 2026-04-14 A starter kit for building Google Apps Script projects with modern JavaScript ES6, Webpack, Babel and ESLint inside Visual Studio Code
+* [enuchi/React-Google-Apps-Script](https://github.com/enuchi/React-Google-Apps-Script) ⭐ 1,529 | 🐛 33 | 🌐 JavaScript | 📅 2026-02-14 This is your boilerplate project for developing React apps inside Google Sheets, Docs, Forms and Slides projects. It's perfect for personal projects and for publishing complex add-ons in the G Suite Marketplace.
+* [apps-script-starter](https://github.com/labnol/apps-script-starter) ⭐ 1,254 | 🐛 6 | 🌐 JavaScript | 📅 2026-04-14 A starter kit for building Google Apps Script projects with modern JavaScript ES6, Webpack, Babel and ESLint inside Visual Studio Code
 * [howdy39/gas-clasp-starter](https://github.com/howdy39/gas-clasp-starter) ⭐ 258 | 🐛 0 | 🌐 TypeScript | 📅 2026-04-29 A starter template for Google Apps Script by clasp
 * [WildH0g/apps-script-engine-template](https://github.com/WildH0g/apps-script-engine-template) ⭐ 76 | 🐛 3 | 🌐 JavaScript | 📅 2025-11-04 A robust, highly configurable template for Google Apps Script projects with essential development tools out of the box
 * [PopGoesTheWza/ts-gas-project-starter](https://github.com/PopGoesTheWza/ts-gas-project-starter) ⭐ 67 | 🐛 6 | 🌐 JavaScript | 📅 2023-01-06 Sample repository for Typescript based Google Apps Script projects
@@ -187,7 +187,7 @@ A curated list of Google Apps Script resources. Want to add or fix something? Re
 
 ### Artificial Intelligence
 
-* [scriptit-fr/GenAIApp](https://github.com/scriptit-fr/GenAIApp) ⭐ 28 | 🐛 1 | 🌐 JavaScript | 📅 2026-09-30 Google Apps Script binding for Gemini and OpenAI generative AI APIs
+* [scriptit-fr/GenAIApp](https://github.com/scriptit-fr/GenAIApp) ⭐ 29 | 🐛 1 | 🌐 JavaScript | 📅 2026-09-30 Google Apps Script binding for Gemini and OpenAI generative AI APIs
 
 ### Parsing
 
@@ -197,7 +197,7 @@ A curated list of Google Apps Script resources. Want to add or fix something? Re
 
 ### oAuth
 
-* [apps-script-oauth2](https://github.com/gsuitedevs/apps-script-oauth2) ⭐ 1,752 | 🐛 47 | 🌐 JavaScript | 📅 2026-06-16 An OAuth2 library for Google Apps Script
+* [apps-script-oauth2](https://github.com/gsuitedevs/apps-script-oauth2) ⭐ 1,753 | 🐛 47 | 🌐 JavaScript | 📅 2026-06-16 An OAuth2 library for Google Apps Script
 * [apps-script-oauth1](https://github.com/gsuitedevs/apps-script-oauth1) ⚠️ Archived An OAuth1 library for Google Apps Script
 * [brucemcpherson/cGoa](https://github.com/brucemcpherson/cGoa) ⭐ 41 | 🐛 3 | 🌐 JavaScript | 📅 2024-06-19 OAuth2 for Apps Script in a few lines of code
 
@@ -230,7 +230,7 @@ A curated list of Google Apps Script resources. Want to add or fix something? Re
 * [Davepar/gcalendarsync](https://github.com/Davepar/gcalendarsync) ⭐ 165 | 🐛 60 | 🌐 TypeScript | 📅 2026-10-18 Apps Script for syncing a Google Spreadsheet with Google Calendar
 * [mithunmanohar/woocommerce-orders-google-sheets-integration](https://github.com/mithunmanohar/woocommerce-orders-google-sheets-integration) ⭐ 118 | 🐛 30 | 🌐 JavaScript | 📅 2021-06-07 Connect and sync order data from your WooCommerce store to Google sheets automatically. A free alternative to Zapier-WooCommerce integration that saves new WooCommerce order details to google sheets. Version V2 with improved features is now available
 * [Website Monitor](https://github.com/labnol/website-monitor) ⭐ 115 | 🐛 1 | 🌐 HTML | 📅 2020-10-01 Apps Script for monitoring the uptime of websites inside Google Sheets.
-* [Google Forms](https://github.com/labnol/google-forms) ⭐ 91 | 🐛 0 | 🌐 JavaScript | 📅 2018-12-25 Google Scripts for sending emails, generating PDFs and setting response limits inside Google Forms.
+* [Google Forms](https://github.com/labnol/google-forms) ⭐ 92 | 🐛 0 | 🌐 JavaScript | 📅 2018-12-25 Google Scripts for sending emails, generating PDFs and setting response limits inside Google Forms.
 * [email-studio-gmail-addon](https://github.com/labnol/email-studio-gmail-addon) ⭐ 85 | 🐛 0 | 🌐 JavaScript | 📅 2020-04-23 Gmail add-on for Mail Merge and Email Scheduler
 * [sajacy/google-sheets-what-if-analysis](https://github.com/sajacy/google-sheets-what-if-analysis) ⭐ 53 | 🐛 27 | 🌐 JavaScript | 📅 2020-05-17 Replicates the Excel "What-If Analysis" feature, Data Tables
 * [erickoledadevrel/crop-sheet](https://github.com/erickoledadevrel/crop-sheet) ⭐ 48 | 🐛 0 | 🌐 JavaScript | 📅 2022-06-30 An add-on for Google Sheets that allows you to easily remove extra rows and columns
@@ -246,11 +246,11 @@ A curated list of Google Apps Script resources. Want to add or fix something? Re
 ## Chatbots
 
 * [Viber/build-a-bot-with-zero-coding](https://github.com/Viber/build-a-bot-with-zero-coding) ⭐ 487 | 🐛 14 | 🌐 JavaScript | 📅 2022-03-21 An example of using Google Sheets to create a Viber survey chat bot without a backend server
-* [Guf-Hub/TGBot](https://github.com/Guf-Hub/TGBot) ⭐ 51 | 🐛 4 | 🌐 JavaScript | 📅 2025-03-27 Google Apps Script library for working with the Telegram API. Google Apps Script библиотека для работы с API Telegram
+* [Guf-Hub/TGBot](https://github.com/Guf-Hub/TGBot) ⭐ 52 | 🐛 4 | 🌐 JavaScript | 📅 2025-03-27 Google Apps Script library for working with the Telegram API. Google Apps Script библиотека для работы с API Telegram
 * [Facebook-bot-Google-Apps-Script](https://github.com/JZL/Facebook-bot-Google-Apps-Script) ⭐ 46 | 🐛 0 | 🌐 JavaScript | 📅 2016-07-02 A Facebook messenger bot implemented in Google Apps Script
 * [GroupMe Bots with Google Apps Script](https://github.com/william-reed/GroupMe-Bots-With-Google-Apps-Script) ⭐ 41 | 🐛 1 | 🌐 JavaScript | 📅 2020-03-22 Examples and resources for using the GroupMe Bot API with Google Apps Script
 * [banghasan/Telegram-Lib-GAS-V2](https://github.com/banghasan/Telegram-Lib-GAS-V2) ⭐ 24 | 🐛 0 | 🌐 JavaScript | 📅 2021-06-19 Library Telegram untuk Google Apps Script Versi 2
-* [Google-Telegram transfer bot](https://github.com/cyberonion256/google-telegram_transferbot) ⭐ 15 | 🐛 0 | 📅 2020-04-17 This Google Apps Script links a Telegram bot to a google spreadsheet and allows command-based information storaging
+* [Google-Telegram transfer bot](https://github.com/cyberonion256/google-telegram_transferbot) ⭐ 16 | 🐛 0 | 📅 2020-04-17 This Google Apps Script links a Telegram bot to a google spreadsheet and allows command-based information storaging
 * [Google Apps Script Sheet MQ](https://github.com/scrthq/GoogleAppsScriptSheetMQ) ⭐ 14 | 🐛 1 | 🌐 JavaScript | 📅 2019-03-19 Google Apps Script endpoint for Hangouts Chat bot using Sheets as a message queue
 
 [goto top ⇑](#google-apps-script-list)
@@ -269,7 +269,7 @@ A curated list of Google Apps Script resources. Want to add or fix something? Re
 
 ## Logging
 
-* [BetterLog](https://github.com/peterherrmann/BetterLog) ⭐ 239 | 🐛 2 | 🌐 JavaScript | 📅 2021-12-09 Logging library that extends the native apps script Logger, mainly to allow logging to a GSheet
+* [BetterLog](https://github.com/peterherrmann/BetterLog) ⭐ 240 | 🐛 2 | 🌐 JavaScript | 📅 2021-12-09 Logging library that extends the native apps script Logger, mainly to allow logging to a GSheet
 * [BBLog](https://github.com/andrewroberts/BBLog) ⭐ 36 | 🐛 3 | 🌐 JavaScript | 📅 2023-12-20 Logging library that further extends BLog to give logging to a Firebase DB multiple logging instances logging of function names and line numbers log the user's email address or ID, in a full or disguised format automatically format log GSheet
 * [huan/gasl](https://github.com/huan/gasl) ⭐ 22 | 🐛 0 | 🌐 JavaScript | 📅 2020-12-16 Google Apps Script Logging-framework
 
@@ -287,7 +287,7 @@ A curated list of Google Apps Script resources. Want to add or fix something? Re
 
 #### Collections
 
-* [Collection of Apps Scripts for connecting to APIs](https://github.com/benlcollins/apps_script_apis) ⭐ 195 | 🐛 2 | 🌐 JavaScript | 📅 2022-07-28
+* [Collection of Apps Scripts for connecting to APIs](https://github.com/benlcollins/apps_script_apis) ⭐ 196 | 🐛 2 | 🌐 JavaScript | 📅 2022-07-28
 * [Google Apps Script snippets ᕦʕ •ᴥ•ʔᕤ](https://apps-script-snippets.contributor.pw/)
 
 #### Spreadsheets
@@ -300,7 +300,7 @@ A curated list of Google Apps Script resources. Want to add or fix something? Re
 
 #### Gmail
 
-* [Gmail2GDrive](https://github.com/ahochsteger/gmail-processor/tree/1.x) ⭐ 585 | 🐛 6 | 🌐 TypeScript | 📅 2026-10-20  Automatically stores and sorts Gmail attachments into Google Drive folders - replaced by [Gmail Processor](https://ahochsteger.github.io/gmail-processor/)
+* [Gmail2GDrive](https://github.com/ahochsteger/gmail-processor/tree/1.x) ⭐ 586 | 🐛 6 | 🌐 TypeScript | 📅 2026-10-20  Automatically stores and sorts Gmail attachments into Google Drive folders - replaced by [Gmail Processor](https://ahochsteger.github.io/gmail-processor/)
 * [Apps-Script-Gmail-Push-Notifications-v2](https://github.com/Spencer-Easton/Apps-Script-Gmail-Push-Notifications-v2) ⭐ 67 | 🐛 3 | 🌐 JavaScript | 📅 2022-05-01 Register a Gmail account for push notifications and programmatically set up the the proper pubsub publishing channels and subscriptions
 * [Gmail Processor](https://ahochsteger.github.io/gmail-processor/)  Very powerful and flexible Google Apps Script library that automatically stores Gmail attachments into Google Drive folders and many more features
 
@@ -321,7 +321,7 @@ A curated list of Google Apps Script resources. Want to add or fix something? Re
 ### Assorted
 
 * [youtube/api-samples/apps-script](https://github.com/youtube/api-samples/tree/master/apps-script/snippets) ⚠️ Archived The youtube-data-api.gs file in this directory contains code snippets that are generated by the Data API code snippet tool at: <https://developers.google.com/youtube/v3/code_samples/code_snippets>
-* [googlesamples/apps-script](https://github.com/googlesamples/apps-script) ⭐ 5,259 | 🐛 124 | 🌐 JavaScript | 📅 2026-07-30 Sample code for Google Apps Script, a cloud-based scripting service for Google Apps
+* [googlesamples/apps-script](https://github.com/googlesamples/apps-script) ⭐ 5,260 | 🐛 124 | 🌐 JavaScript | 📅 2026-07-30 Sample code for Google Apps Script, a cloud-based scripting service for Google Apps
 * [An Example of using an HTML form (e.g: "Contact Us" on a website) to send Email without a Backend Server (using a Google Script)](https://github.com/dwyl/html-form-send-email-via-google-script-without-server) ⭐ 3,207 | 🐛 26 | 🌐 HTML | 📅 2024-08-04
 * [google-docs](https://github.com/fastfedora/google-docs) ⚠️ Archived Libraries and functions used within Google Docs
 * [GoogleSheets](https://github.com/Max-Makhrov/GoogleSheets) ⭐ 248 | 🐛 3 | 🌐 JavaScript | 📅 2025-07-16 best code I've tested in Google Sheets
@@ -336,4 +336,4 @@ A curated list of Google Apps Script resources. Want to add or fix something? Re
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
