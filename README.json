@@ -21,7 +21,7 @@
                 "open_issues": 124,
                 "owner": "googleworkspace",
                 "repo": "apps-script-samples",
-                "stars": 5260,
+                "stars": 5261,
                 "topics": [
                   "adminsdk",
                   "apps-script",
@@ -212,7 +212,7 @@
             "open_issues": 51,
             "owner": "leonhartX",
             "repo": "gas-github",
-            "stars": 4617,
+            "stars": 4623,
             "topics": [
               "chrome-extension",
               "diff-dialog",
@@ -3132,7 +3132,7 @@
                     "open_issues": 108,
                     "owner": "dchester",
                     "repo": "jsonpath",
-                    "stars": 1428,
+                    "stars": 1427,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T13:33:22.239Z"
@@ -3165,7 +3165,7 @@
                 "open_issues": 409,
                 "owner": "youtube",
                 "repo": "api-samples",
-                "stars": 6029,
+                "stars": 6030,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:33:22.239Z"
@@ -3186,7 +3186,7 @@
                 "open_issues": 124,
                 "owner": "googleworkspace",
                 "repo": "apps-script-samples",
-                "stars": 5260,
+                "stars": 5261,
                 "topics": [
                   "adminsdk",
                   "apps-script",
@@ -3424,7 +3424,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T07:44:27.611Z",
+    "last_updated": "2026-11-01T08:25:12.577Z",
     "original_repository_info": {
       "archived": false,
       "description": "The usual list of links to interesting resources for Google Apps Script",
@@ -3436,7 +3436,7 @@
       "open_issues": 12,
       "owner": "oshliaer",
       "repo": "google-apps-script-awesome-list",
-      "stars": 2088,
+      "stars": 2089,
       "topics": [
         "awesome-list",
         "awesome-lists",
