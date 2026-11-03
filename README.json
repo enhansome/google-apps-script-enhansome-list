@@ -165,7 +165,7 @@
             "open_issues": 432,
             "owner": "prasmussen",
             "repo": "gdrive",
-            "stars": 8942,
+            "stars": 8940,
             "topics": []
           },
           "first_seen": "2026-08-28T13:33:22.239Z"
@@ -182,11 +182,11 @@
             "id": 113111403,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-28T22:59:47Z",
-            "open_issues": 58,
+            "last_commit": "2026-11-02T23:58:30Z",
+            "open_issues": 59,
             "owner": "google",
             "repo": "clasp",
-            "stars": 5893,
+            "stars": 5896,
             "topics": [
               "apps-script",
               "cli",
@@ -212,7 +212,7 @@
             "open_issues": 51,
             "owner": "leonhartX",
             "repo": "gas-github",
-            "stars": 4624,
+            "stars": 4633,
             "topics": [
               "chrome-extension",
               "diff-dialog",
@@ -2248,7 +2248,7 @@
             "open_issues": 0,
             "owner": "labnol",
             "repo": "unsubscribe-gmail",
-            "stars": 1570,
+            "stars": 1569,
             "topics": [
               "gmail",
               "google-apps-script",
@@ -2346,7 +2346,7 @@
             "open_issues": 30,
             "owner": "mithunmanohar",
             "repo": "woocommerce-orders-google-sheets-integration",
-            "stars": 118,
+            "stars": 119,
             "topics": [
               "googlesheets",
               "woocommerce-api",
@@ -3424,7 +3424,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T08:37:56.068Z",
+    "last_updated": "2026-11-03T08:50:13.196Z",
     "original_repository_info": {
       "archived": false,
       "description": "The usual list of links to interesting resources for Google Apps Script",

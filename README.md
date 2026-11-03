@@ -91,8 +91,8 @@ A curated list of Google Apps Script resources. Want to add or fix something? Re
 ## Development
 
 * [gdrive](https://github.com/prasmussen/gdrive) ⚠️ Archived Google Drive CLI Client
-* [google/clasp](https://github.com/google/clasp) ⭐ 5,893 | 🐛 58 | 🌐 TypeScript | 📅 2026-08-28 Develop Apps Script projects locally using clasp (Command Line Apps Script Projects) CLI
-* [gas-github](https://github.com/leonhartX/gas-github) ⭐ 4,624 | 🐛 51 | 🌐 JavaScript | 📅 2025-03-12 Chrome-extension to manage Google Apps Script(GAS) code with github/github enterprise
+* [google/clasp](https://github.com/google/clasp) ⭐ 5,896 | 🐛 59 | 🌐 TypeScript | 📅 2026-11-02 Develop Apps Script projects locally using clasp (Command Line Apps Script Projects) CLI
+* [gas-github](https://github.com/leonhartX/gas-github) ⭐ 4,633 | 🐛 51 | 🌐 JavaScript | 📅 2025-03-12 Chrome-extension to manage Google Apps Script(GAS) code with github/github enterprise
 * [fossamagna/gas-webpack-plugin](https://github.com/fossamagna/gas-webpack-plugin) ⭐ 176 | 🐛 29 | 🌐 JavaScript | 📅 2026-10-12 Webpack plugin for Google Apps Script
 * [ggsrun](https://github.com/tanaikech/ggsrun) ⭐ 172 | 🐛 0 | 🌐 Go | 📅 2026-08-26 This is a CLI tool to execute Google Apps Script (GAS) on a terminal
 * [MaartenDesnouck/google-apps-script](https://github.com/MaartenDesnouck/google-apps-script) ⭐ 126 | 🐛 44 | 🌐 JavaScript | 📅 2026-02-04 gas, for locally developing Google Apps Script projects
@@ -224,11 +224,11 @@ A curated list of Google Apps Script resources. Want to add or fix something? Re
 ## Open Source Apps & Add-ons
 
 * [ericyd/gdrive-copy](https://github.com/ericyd/gdrive-copy) ⚠️ Archived Google Drive Copy Folder
-* [Gmail Unsubscriber](https://github.com/labnol/unsubscribe-gmail) ⭐ 1,570 | 🐛 0 | 🌐 JavaScript | 📅 2025-04-04 Google Script for unsubscribing from emails newsletters and other bulk email in Gmail with one click.
+* [Gmail Unsubscriber](https://github.com/labnol/unsubscribe-gmail) ⭐ 1,569 | 🐛 0 | 🌐 JavaScript | 📅 2025-04-04 Google Script for unsubscribing from emails newsletters and other bulk email in Gmail with one click.
 * [Code Blocks](https://github.com/alexwforsythe/code-blocks) ⭐ 787 | 🐛 98 | 🌐 JavaScript | 📅 2026-07-25 Syntax highlighting for Google Docs
 * [google-docs-add-on](https://github.com/Automattic/google-docs-add-on) ⭐ 169 | 🐛 61 | 🌐 JavaScript | 📅 2026-09-11 Publish to WordPress from Google Docs
 * [Davepar/gcalendarsync](https://github.com/Davepar/gcalendarsync) ⭐ 165 | 🐛 60 | 🌐 TypeScript | 📅 2026-10-18 Apps Script for syncing a Google Spreadsheet with Google Calendar
-* [mithunmanohar/woocommerce-orders-google-sheets-integration](https://github.com/mithunmanohar/woocommerce-orders-google-sheets-integration) ⭐ 118 | 🐛 30 | 🌐 JavaScript | 📅 2021-06-07 Connect and sync order data from your WooCommerce store to Google sheets automatically. A free alternative to Zapier-WooCommerce integration that saves new WooCommerce order details to google sheets. Version V2 with improved features is now available
+* [mithunmanohar/woocommerce-orders-google-sheets-integration](https://github.com/mithunmanohar/woocommerce-orders-google-sheets-integration) ⭐ 119 | 🐛 30 | 🌐 JavaScript | 📅 2021-06-07 Connect and sync order data from your WooCommerce store to Google sheets automatically. A free alternative to Zapier-WooCommerce integration that saves new WooCommerce order details to google sheets. Version V2 with improved features is now available
 * [Website Monitor](https://github.com/labnol/website-monitor) ⭐ 115 | 🐛 1 | 🌐 HTML | 📅 2020-10-01 Apps Script for monitoring the uptime of websites inside Google Sheets.
 * [Google Forms](https://github.com/labnol/google-forms) ⭐ 92 | 🐛 0 | 🌐 JavaScript | 📅 2018-12-25 Google Scripts for sending emails, generating PDFs and setting response limits inside Google Forms.
 * [email-studio-gmail-addon](https://github.com/labnol/email-studio-gmail-addon) ⭐ 85 | 🐛 0 | 🌐 JavaScript | 📅 2020-04-23 Gmail add-on for Mail Merge and Email Scheduler
@@ -336,4 +336,4 @@ A curated list of Google Apps Script resources. Want to add or fix something? Re
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._
