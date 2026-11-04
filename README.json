@@ -183,10 +183,10 @@
             "language": "TypeScript",
             "license": "Apache-2.0",
             "last_commit": "2026-11-02T23:58:30Z",
-            "open_issues": 59,
+            "open_issues": 60,
             "owner": "google",
             "repo": "clasp",
-            "stars": 5896,
+            "stars": 5898,
             "topics": [
               "apps-script",
               "cli",
@@ -212,7 +212,7 @@
             "open_issues": 51,
             "owner": "leonhartX",
             "repo": "gas-github",
-            "stars": 4633,
+            "stars": 4635,
             "topics": [
               "chrome-extension",
               "diff-dialog",
@@ -242,7 +242,7 @@
             "open_issues": 29,
             "owner": "fossamagna",
             "repo": "gas-webpack-plugin",
-            "stars": 176,
+            "stars": 177,
             "topics": [
               "apps-script",
               "google-apps-script",
@@ -845,30 +845,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "Boot Framework for Google Apps Script™ projects.",
+                "description": "Spring-style framework for Google Apps Script™ in TypeScript: decorators, dependency injection and routing for web apps (doGet/doPost), sidebars and Workspace events.",
                 "homepage": "https://maksymstoianov.com",
                 "id": 991221449,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-13T15:32:03Z",
-                "open_issues": 3,
+                "last_commit": "2026-11-03T17:52:37Z",
+                "open_issues": 2,
                 "owner": "bootgs",
                 "repo": "boot",
-                "stars": 26,
+                "stars": 27,
                 "topics": [
                   "apps-script",
                   "appsscript",
                   "appsscript-library",
                   "bootgs",
+                  "clasp",
+                  "decorators",
+                  "dependency-injection",
                   "framework",
                   "google-apps-script",
                   "google-apps-script-library",
-                  "google-apps-scripts",
+                  "google-sheets",
+                  "google-workspace",
                   "javascript",
-                  "javascript-library",
-                  "maksymstoianov",
+                  "nestjs",
+                  "rest-api",
+                  "routing",
+                  "spring-boot",
                   "typescript",
-                  "typescript-library"
+                  "typescript-library",
+                  "web-app"
                 ]
               },
               "first_seen": "2026-08-28T13:33:22.239Z"
@@ -1668,19 +1675,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "Utilities for Google Apps Script™ projects.",
-                "homepage": "https://maksymstoianov.github.io/apps-script-utils/",
+                "description": "@bootgs/utils: 300+ typed, tested utilities for Google Apps Script™ — Sheets, Slides, Drive, A1 notation, guards and exceptions. Docs in 5 languages.",
+                "homepage": "https://bootgs.github.io/utils/",
                 "id": 1022965453,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-24T00:37:48Z",
-                "open_issues": 46,
-                "owner": "MaksymStoianov",
-                "repo": "apps-script-utils",
-                "stars": 29,
+                "last_commit": "2026-11-03T17:46:15Z",
+                "open_issues": 47,
+                "owner": "bootgs",
+                "repo": "utils",
+                "stars": 30,
                 "topics": [
+                  "a1-notation",
                   "apps-script",
                   "appsscript",
+                  "bootgs",
+                  "clasp",
                   "developer-tools",
                   "google-apps-script",
                   "google-apps-script-library",
@@ -1691,11 +1701,11 @@
                   "google-slides",
                   "google-workspace",
                   "googleappsscript",
-                  "gsuite",
                   "javascript",
                   "library",
-                  "maksymstoianov",
-                  "typescript"
+                  "spreadsheet",
+                  "typescript",
+                  "utilities"
                 ]
               },
               "first_seen": "2026-08-28T13:33:22.239Z"
@@ -1990,7 +2000,7 @@
                 "open_issues": 47,
                 "owner": "googleworkspace",
                 "repo": "apps-script-oauth2",
-                "stars": 1755,
+                "stars": 1756,
                 "topics": [
                   "apps-script",
                   "google-apps-script",
@@ -3105,7 +3115,7 @@
                     "open_issues": 175,
                     "owner": "bradjasper",
                     "repo": "ImportJSON",
-                    "stars": 2125,
+                    "stars": 2126,
                     "topics": [
                       "cryptocurrencies",
                       "google-sheets",
@@ -3250,7 +3260,7 @@
                 "open_issues": 175,
                 "owner": "bradjasper",
                 "repo": "ImportJSON",
-                "stars": 2125,
+                "stars": 2126,
                 "topics": [
                   "cryptocurrencies",
                   "google-sheets",
@@ -3424,7 +3434,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T08:50:13.196Z",
+    "last_updated": "2026-11-04T08:18:28.647Z",
     "original_repository_info": {
       "archived": false,
       "description": "The usual list of links to interesting resources for Google Apps Script",
