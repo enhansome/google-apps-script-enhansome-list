@@ -183,10 +183,10 @@
             "language": "TypeScript",
             "license": "Apache-2.0",
             "last_commit": "2026-11-02T23:58:30Z",
-            "open_issues": 60,
+            "open_issues": 61,
             "owner": "google",
             "repo": "clasp",
-            "stars": 5898,
+            "stars": 5900,
             "topics": [
               "apps-script",
               "cli",
@@ -212,7 +212,7 @@
             "open_issues": 51,
             "owner": "leonhartX",
             "repo": "gas-github",
-            "stars": 4635,
+            "stars": 4639,
             "topics": [
               "chrome-extension",
               "diff-dialog",
@@ -359,7 +359,7 @@
             "open_issues": 57,
             "owner": "brucemcpherson",
             "repo": "gas-fakes",
-            "stars": 80,
+            "stars": 81,
             "topics": [
               "appsscript",
               "containers",
@@ -626,7 +626,7 @@
                 "open_issues": 6,
                 "owner": "labnol",
                 "repo": "apps-script-starter",
-                "stars": 1254,
+                "stars": 1255,
                 "topics": [
                   "gmail",
                   "google-apps-script",
@@ -2000,7 +2000,7 @@
                 "open_issues": 47,
                 "owner": "googleworkspace",
                 "repo": "apps-script-oauth2",
-                "stars": 1756,
+                "stars": 1755,
                 "topics": [
                   "apps-script",
                   "google-apps-script",
@@ -2356,7 +2356,7 @@
             "open_issues": 30,
             "owner": "mithunmanohar",
             "repo": "woocommerce-orders-google-sheets-integration",
-            "stars": 119,
+            "stars": 118,
             "topics": [
               "googlesheets",
               "woocommerce-api",
@@ -3139,7 +3139,7 @@
                     "language": "JavaScript",
                     "license": "MIT",
                     "last_commit": "2026-03-05T13:56:32Z",
-                    "open_issues": 108,
+                    "open_issues": 109,
                     "owner": "dchester",
                     "repo": "jsonpath",
                     "stars": 1427,
@@ -3175,7 +3175,7 @@
                 "open_issues": 409,
                 "owner": "youtube",
                 "repo": "api-samples",
-                "stars": 6030,
+                "stars": 6029,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:33:22.239Z"
@@ -3434,7 +3434,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T08:18:28.647Z",
+    "last_updated": "2026-11-05T08:43:59.805Z",
     "original_repository_info": {
       "archived": false,
       "description": "The usual list of links to interesting resources for Google Apps Script",
@@ -3443,7 +3443,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-04-26T06:58:02Z",
-      "open_issues": 13,
+      "open_issues": 14,
       "owner": "oshliaer",
       "repo": "google-apps-script-awesome-list",
       "stars": 2091,
