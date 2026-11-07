@@ -21,7 +21,7 @@
                 "open_issues": 124,
                 "owner": "googleworkspace",
                 "repo": "apps-script-samples",
-                "stars": 5265,
+                "stars": 5266,
                 "topics": [
                   "adminsdk",
                   "apps-script",
@@ -186,7 +186,7 @@
             "open_issues": 61,
             "owner": "google",
             "repo": "clasp",
-            "stars": 5900,
+            "stars": 5903,
             "topics": [
               "apps-script",
               "cli",
@@ -605,7 +605,7 @@
                 "open_issues": 33,
                 "owner": "enuchi",
                 "repo": "React-Google-Apps-Script",
-                "stars": 1529,
+                "stars": 1530,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:33:22.239Z"
@@ -2000,7 +2000,7 @@
                 "open_issues": 47,
                 "owner": "googleworkspace",
                 "repo": "apps-script-oauth2",
-                "stars": 1754,
+                "stars": 1755,
                 "topics": [
                   "apps-script",
                   "google-apps-script",
@@ -3087,7 +3087,7 @@
                     "open_issues": 3,
                     "owner": "Spencer-Easton",
                     "repo": "Apps-Script-Gmail-Push-Notifications-v2",
-                    "stars": 67,
+                    "stars": 68,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T13:33:22.239Z"
@@ -3175,7 +3175,7 @@
                 "open_issues": 409,
                 "owner": "youtube",
                 "repo": "api-samples",
-                "stars": 6028,
+                "stars": 6026,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:33:22.239Z"
@@ -3196,7 +3196,7 @@
                 "open_issues": 124,
                 "owner": "googleworkspace",
                 "repo": "apps-script-samples",
-                "stars": 5265,
+                "stars": 5266,
                 "topics": [
                   "adminsdk",
                   "apps-script",
@@ -3434,7 +3434,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T08:45:43.205Z",
+    "last_updated": "2026-11-07T08:00:11.933Z",
     "original_repository_info": {
       "archived": false,
       "description": "The usual list of links to interesting resources for Google Apps Script",
@@ -3446,7 +3446,7 @@
       "open_issues": 14,
       "owner": "oshliaer",
       "repo": "google-apps-script-awesome-list",
-      "stars": 2092,
+      "stars": 2093,
       "topics": [
         "awesome-list",
         "awesome-lists",
