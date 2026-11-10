@@ -78,7 +78,7 @@ A curated list of Google Apps Script resources. Want to add or fix something? Re
 ### Lists & collections
 
 * [googleworkspace/apps-script-samples](https://github.com/googleworkspace/apps-script-samples) ⭐ 5,268 | 🐛 124 | 🌐 JavaScript | 📅 2026-07-30 Various sample code and projects for the Google Apps Script platform
-* [Google Apps Script Cheat Sheet](https://github.com/jychri/google-apps-script-cheat-sheet) ⭐ 401 | 🐛 1 | 🌐 JavaScript | 📅 2018-12-27
+* [Google Apps Script Cheat Sheet](https://github.com/jychri/google-apps-script-cheat-sheet) ⭐ 402 | 🐛 1 | 🌐 JavaScript | 📅 2018-12-27
 * [google-apps-script-snippets](https://github.com/oshliaer/google-apps-script-snippets) ⭐ 272 | 🐛 43 | 🌐 JavaScript | 📅 2023-06-08 Google Apps Script Snippets
 * [googlesamples/apps-script-templates](https://github.com/googlesamples/apps-script-templates) ⚠️ Archived This repository contains a number of code templates for Google Apps Script that provide example frameworks for Apps Script projects
 * [ashtonfei/google-apps-script-projects](https://github.com/ashtonfei/google-apps-script-projects) ⭐ 151 | 🐛 1 | 🌐 HTML | 📅 2025-01-18 A collection of Google Apps Script projects shared on YouTube
@@ -92,7 +92,7 @@ A curated list of Google Apps Script resources. Want to add or fix something? Re
 
 * [gdrive](https://github.com/prasmussen/gdrive) ⚠️ Archived Google Drive CLI Client
 * [google/clasp](https://github.com/google/clasp) ⭐ 5,906 | 🐛 61 | 🌐 TypeScript | 📅 2026-11-02 Develop Apps Script projects locally using clasp (Command Line Apps Script Projects) CLI
-* [gas-github](https://github.com/leonhartX/gas-github) ⭐ 4,647 | 🐛 51 | 🌐 JavaScript | 📅 2025-03-12 Chrome-extension to manage Google Apps Script(GAS) code with github/github enterprise
+* [gas-github](https://github.com/leonhartX/gas-github) ⭐ 4,649 | 🐛 51 | 🌐 JavaScript | 📅 2025-03-12 Chrome-extension to manage Google Apps Script(GAS) code with github/github enterprise
 * [fossamagna/gas-webpack-plugin](https://github.com/fossamagna/gas-webpack-plugin) ⭐ 177 | 🐛 29 | 🌐 JavaScript | 📅 2026-10-12 Webpack plugin for Google Apps Script
 * [ggsrun](https://github.com/tanaikech/ggsrun) ⭐ 172 | 🐛 0 | 🌐 Go | 📅 2026-08-26 This is a CLI tool to execute Google Apps Script (GAS) on a terminal
 * [MaartenDesnouck/google-apps-script](https://github.com/MaartenDesnouck/google-apps-script) ⭐ 126 | 🐛 44 | 🌐 JavaScript | 📅 2026-02-04 gas, for locally developing Google Apps Script projects
@@ -153,7 +153,7 @@ A curated list of Google Apps Script resources. Want to add or fix something? Re
 
 ### ORM (O/RM and O/R mapping tool)
 
-* [Sheetfu](https://github.com/socialpoint-labs/sheetfu) ⭐ 846 | 🐛 7 | 🌐 Python | 📅 2022-03-16 An ORM to treat spreadsheet as database tables using Google Apps Scripts. [Sheetfu's Python version](https://github.com/socialpoint-labs/sheetfu) ⭐ 846 | 🐛 7 | 🌐 Python | 📅 2022-03-16
+* [Sheetfu](https://github.com/socialpoint-labs/sheetfu) ⭐ 847 | 🐛 7 | 🌐 Python | 📅 2022-03-16 An ORM to treat spreadsheet as database tables using Google Apps Scripts. [Sheetfu's Python version](https://github.com/socialpoint-labs/sheetfu) ⭐ 847 | 🐛 7 | 🌐 Python | 📅 2022-03-16
 * [itmammoth/Tamotsu](https://github.com/itmammoth/Tamotsu) ⭐ 135 | 🐛 7 | 🌐 JavaScript | 📅 2022-06-17 Object-Spreadsheet Mapping for Google Apps Script
 * [Goodel](https://github.com/7imon7ays/Goodel) ⭐ 55 | 🐛 12 | 🌐 JavaScript | 📅 2020-01-14 An ORM for Google Apps scripts
 * [Gexpress-middleware-RESTsheet](https://github.com/coderofsalvation/Gexpress-middleware-RESTsheet) ⭐ 55 | 🐛 2 | 🌐 JavaScript | 📅 2020-05-28 Spreadsheet exposed as http REST endpoints (based on tamotsu)
@@ -174,7 +174,7 @@ A curated list of Google Apps Script resources. Want to add or fix something? Re
 * [tanaikech/FetchApp](https://github.com/tanaikech/FetchApp) ⭐ 53 | 🐛 3 | 🌐 JavaScript | 📅 2021-03-21 This is a GAS library for creating and requesting the type of multipart/form-data using Google Apps Script. This library enhances Class UelFetchApp of Google Apps Script.
 * [SpeedStore](https://github.com/joshsny/SpeedStore) ⭐ 42 | 🐛 1 | 🌐 TypeScript | 📅 2023-05-10 Blazingly fast Properties storage for Google Apps Script ⚡
 * [tanaikech/RangeListApp](https://github.com/tanaikech/RangeListApp) ⭐ 31 | 🐛 2 | 🌐 JavaScript | 📅 2021-03-21 RangeListApp is a GAS library for retrieving, putting and replacing values for Spreadsheet by a range list with a1Notation using Google Apps Script (GAS)
-* [appsscript-utils](https://github.com/MaksymStoianov/appsscript-utils) ⭐ 30 | 🐛 47 | 🌐 TypeScript | 📅 2026-11-03 A collection of reusable utilities and helpers for Google Apps Script development, written in TypeScript
+* [appsscript-utils](https://github.com/MaksymStoianov/appsscript-utils) ⭐ 31 | 🐛 47 | 🌐 TypeScript | 📅 2026-11-03 A collection of reusable utilities and helpers for Google Apps Script development, written in TypeScript
 * [johndturn/google-apps-script-storageservice](https://github.com/johndturn/google-apps-script-storageservice) ⭐ 25 | 🐛 10 | 🌐 TypeScript | 📅 2022-12-06 Utility class (built in TypeScript) for storing small or large values in Google Apps Script properties
 * [GetEditType](https://github.com/tanaikech/GetEditType) ⭐ 16 | 🐛 0 | 🌐 JavaScript | 📅 2021-03-22 Library for retrieving the edit types of the OnEdit event trigger of Spreadsheet using Google Apps Script
 * [tanaikech/ProcessApp](https://github.com/tanaikech/ProcessApp) ⭐ 16 | 🐛 1 | 🌐 JavaScript | 📅 2019-02-10 This is a library for retrieving the process and information of Google Apps Script. For example, one of methods retrieves the total execution time of all functions executed by the time-driven trigger at owner's account
@@ -187,7 +187,7 @@ A curated list of Google Apps Script resources. Want to add or fix something? Re
 
 ### Artificial Intelligence
 
-* [scriptit-fr/GenAIApp](https://github.com/scriptit-fr/GenAIApp) ⭐ 29 | 🐛 1 | 🌐 JavaScript | 📅 2026-09-30 Google Apps Script binding for Gemini and OpenAI generative AI APIs
+* [scriptit-fr/GenAIApp](https://github.com/scriptit-fr/GenAIApp) ⭐ 29 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-30 Google Apps Script binding for Gemini and OpenAI generative AI APIs
 
 ### Parsing
 
@@ -311,7 +311,7 @@ A curated list of Google Apps Script resources. Want to add or fix something? Re
 #### JSON
 
 * [ImportJSON](https://github.com/bradjasper/ImportJSON) ⚠️ Archived Import JSON into Google Sheets, this library adds various ImportJSON functions to your spreadsheet
-* [JSONPath](https://script.google.com/a/google.com/d/1BtmcVnmTKAxqdiHN9Q5cM6M6E5MUMzVtQjSfav-OIQxNIoACkDdlst53/edit) Extract data from complex data structures with simple expressions. Google Apps Script version of [this](https://github.com/dchester/jsonpath) ⭐ 1,426 | 🐛 109 | 🌐 JavaScript | 📅 2026-03-05 library.
+* [JSONPath](https://script.google.com/a/google.com/d/1BtmcVnmTKAxqdiHN9Q5cM6M6E5MUMzVtQjSfav-OIQxNIoACkDdlst53/edit) Extract data from complex data structures with simple expressions. Google Apps Script version of [this](https://github.com/dchester/jsonpath) ⭐ 1,427 | 🐛 109 | 🌐 JavaScript | 📅 2026-03-05 library.
 * [JSON Puller](https://gist.github.com/jalcantarab/0eb43b13c97e4f784bd0be327f6ced52) Transforms the data of a given Spreadsheet Sheet to JSON.
 
 #### Fetch
@@ -336,4 +336,4 @@ A curated list of Google Apps Script resources. Want to add or fix something? Re
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._

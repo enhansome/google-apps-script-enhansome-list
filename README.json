@@ -53,7 +53,7 @@
                 "open_issues": 1,
                 "owner": "jc324x",
                 "repo": "google-apps-script-cheat-sheet",
-                "stars": 401,
+                "stars": 402,
                 "topics": [
                   "google-apps-script",
                   "javascript"
@@ -165,7 +165,7 @@
             "open_issues": 432,
             "owner": "prasmussen",
             "repo": "gdrive",
-            "stars": 8940,
+            "stars": 8937,
             "topics": []
           },
           "first_seen": "2026-08-28T13:33:22.239Z"
@@ -212,7 +212,7 @@
             "open_issues": 51,
             "owner": "leonhartX",
             "repo": "gas-github",
-            "stars": 4647,
+            "stars": 4649,
             "topics": [
               "chrome-extension",
               "diff-dialog",
@@ -1231,7 +1231,7 @@
                 "open_issues": 7,
                 "owner": "socialpoint-labs",
                 "repo": "sheetfu",
-                "stars": 846,
+                "stars": 847,
                 "topics": [
                   "google-sheets-api",
                   "google-sheets-api-v4",
@@ -1684,7 +1684,7 @@
                 "open_issues": 47,
                 "owner": "bootgs",
                 "repo": "utils",
-                "stars": 30,
+                "stars": 31,
                 "topics": [
                   "a1-notation",
                   "apps-script",
@@ -1899,7 +1899,7 @@
                 "language": "JavaScript",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-30T08:30:34Z",
-                "open_issues": 1,
+                "open_issues": 0,
                 "owner": "scriptit-fr",
                 "repo": "GenAIApp",
                 "stars": 29,
@@ -2177,7 +2177,7 @@
                 "open_issues": 98,
                 "owner": "googledatastudio",
                 "repo": "community-connectors",
-                "stars": 562,
+                "stars": 563,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:33:22.239Z"
@@ -3142,7 +3142,7 @@
                     "open_issues": 109,
                     "owner": "dchester",
                     "repo": "jsonpath",
-                    "stars": 1426,
+                    "stars": 1427,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T13:33:22.239Z"
@@ -3175,7 +3175,7 @@
                 "open_issues": 409,
                 "owner": "youtube",
                 "repo": "api-samples",
-                "stars": 6027,
+                "stars": 6025,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:33:22.239Z"
@@ -3434,7 +3434,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T08:52:26.863Z",
+    "last_updated": "2026-11-10T08:57:51.241Z",
     "original_repository_info": {
       "archived": false,
       "description": "The usual list of links to interesting resources for Google Apps Script",
