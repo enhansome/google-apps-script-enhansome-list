@@ -21,7 +21,7 @@
                 "open_issues": 124,
                 "owner": "googleworkspace",
                 "repo": "apps-script-samples",
-                "stars": 5268,
+                "stars": 5269,
                 "topics": [
                   "adminsdk",
                   "apps-script",
@@ -165,7 +165,7 @@
             "open_issues": 432,
             "owner": "prasmussen",
             "repo": "gdrive",
-            "stars": 8937,
+            "stars": 8938,
             "topics": []
           },
           "first_seen": "2026-08-28T13:33:22.239Z"
@@ -186,7 +186,7 @@
             "open_issues": 61,
             "owner": "google",
             "repo": "clasp",
-            "stars": 5906,
+            "stars": 5907,
             "topics": [
               "apps-script",
               "cli",
@@ -212,7 +212,7 @@
             "open_issues": 51,
             "owner": "leonhartX",
             "repo": "gas-github",
-            "stars": 4649,
+            "stars": 4650,
             "topics": [
               "chrome-extension",
               "diff-dialog",
@@ -1898,7 +1898,7 @@
                 "id": 865464401,
                 "language": "JavaScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-30T08:30:34Z",
+                "last_commit": "2026-11-10T16:08:50Z",
                 "open_issues": 0,
                 "owner": "scriptit-fr",
                 "repo": "GenAIApp",
@@ -2000,7 +2000,7 @@
                 "open_issues": 47,
                 "owner": "googleworkspace",
                 "repo": "apps-script-oauth2",
-                "stars": 1755,
+                "stars": 1756,
                 "topics": [
                   "apps-script",
                   "google-apps-script",
@@ -2237,7 +2237,7 @@
             "open_issues": 55,
             "owner": "ericyd",
             "repo": "gdrive-copy",
-            "stars": 1579,
+            "stars": 1578,
             "topics": []
           },
           "first_seen": "2026-08-28T13:33:22.239Z"
@@ -2258,7 +2258,7 @@
             "open_issues": 0,
             "owner": "labnol",
             "repo": "unsubscribe-gmail",
-            "stars": 1569,
+            "stars": 1570,
             "topics": [
               "gmail",
               "google-apps-script",
@@ -3062,7 +3062,7 @@
                     "open_issues": 7,
                     "owner": "ahochsteger",
                     "repo": "gmail-processor",
-                    "stars": 586,
+                    "stars": 587,
                     "topics": [
                       "automation",
                       "gmail",
@@ -3115,7 +3115,7 @@
                     "open_issues": 175,
                     "owner": "bradjasper",
                     "repo": "ImportJSON",
-                    "stars": 2126,
+                    "stars": 2125,
                     "topics": [
                       "cryptocurrencies",
                       "google-sheets",
@@ -3196,7 +3196,7 @@
                 "open_issues": 124,
                 "owner": "googleworkspace",
                 "repo": "apps-script-samples",
-                "stars": 5268,
+                "stars": 5269,
                 "topics": [
                   "adminsdk",
                   "apps-script",
@@ -3260,7 +3260,7 @@
                 "open_issues": 175,
                 "owner": "bradjasper",
                 "repo": "ImportJSON",
-                "stars": 2126,
+                "stars": 2125,
                 "topics": [
                   "cryptocurrencies",
                   "google-sheets",
@@ -3434,7 +3434,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T08:57:51.241Z",
+    "last_updated": "2026-11-11T08:38:23.213Z",
     "original_repository_info": {
       "archived": false,
       "description": "The usual list of links to interesting resources for Google Apps Script",
@@ -3446,7 +3446,7 @@
       "open_issues": 14,
       "owner": "oshliaer",
       "repo": "google-apps-script-awesome-list",
-      "stars": 2093,
+      "stars": 2094,
       "topics": [
         "awesome-list",
         "awesome-lists",
