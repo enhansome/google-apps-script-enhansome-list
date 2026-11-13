@@ -186,7 +186,7 @@
             "open_issues": 61,
             "owner": "google",
             "repo": "clasp",
-            "stars": 5907,
+            "stars": 5908,
             "topics": [
               "apps-script",
               "cli",
@@ -212,7 +212,7 @@
             "open_issues": 51,
             "owner": "leonhartX",
             "repo": "gas-github",
-            "stars": 4654,
+            "stars": 4656,
             "topics": [
               "chrome-extension",
               "diff-dialog",
@@ -3434,7 +3434,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T08:57:51.515Z",
+    "last_updated": "2026-11-13T08:54:30.812Z",
     "original_repository_info": {
       "archived": false,
       "description": "The usual list of links to interesting resources for Google Apps Script",
