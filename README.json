@@ -21,7 +21,7 @@
                 "open_issues": 124,
                 "owner": "googleworkspace",
                 "repo": "apps-script-samples",
-                "stars": 5269,
+                "stars": 5270,
                 "topics": [
                   "adminsdk",
                   "apps-script",
@@ -186,7 +186,7 @@
             "open_issues": 61,
             "owner": "google",
             "repo": "clasp",
-            "stars": 5908,
+            "stars": 5909,
             "topics": [
               "apps-script",
               "cli",
@@ -3175,7 +3175,7 @@
                 "open_issues": 409,
                 "owner": "youtube",
                 "repo": "api-samples",
-                "stars": 6025,
+                "stars": 6029,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:33:22.239Z"
@@ -3196,7 +3196,7 @@
                 "open_issues": 124,
                 "owner": "googleworkspace",
                 "repo": "apps-script-samples",
-                "stars": 5269,
+                "stars": 5270,
                 "topics": [
                   "adminsdk",
                   "apps-script",
@@ -3434,7 +3434,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T08:54:30.812Z",
+    "last_updated": "2026-11-14T08:18:54.921Z",
     "original_repository_info": {
       "archived": false,
       "description": "The usual list of links to interesting resources for Google Apps Script",
