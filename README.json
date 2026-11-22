@@ -212,7 +212,7 @@
             "open_issues": 51,
             "owner": "leonhartX",
             "repo": "gas-github",
-            "stars": 4671,
+            "stars": 4674,
             "topics": [
               "chrome-extension",
               "diff-dialog",
@@ -626,7 +626,7 @@
                 "open_issues": 6,
                 "owner": "labnol",
                 "repo": "apps-script-starter",
-                "stars": 1254,
+                "stars": 1253,
                 "topics": [
                   "gmail",
                   "google-apps-script",
@@ -850,8 +850,8 @@
                 "id": 991221449,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-18T12:19:09Z",
-                "open_issues": 2,
+                "last_commit": "2026-11-21T18:53:24Z",
+                "open_issues": 3,
                 "owner": "bootgs",
                 "repo": "boot",
                 "stars": 28,
@@ -1680,8 +1680,8 @@
                 "id": 1022965453,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-18T12:24:01Z",
-                "open_issues": 44,
+                "last_commit": "2026-11-21T18:14:01Z",
+                "open_issues": 53,
                 "owner": "bootgs",
                 "repo": "utils",
                 "stars": 31,
@@ -1898,7 +1898,7 @@
                 "id": 865464401,
                 "language": "JavaScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-19T16:01:01Z",
+                "last_commit": "2026-11-22T07:04:17Z",
                 "open_issues": 0,
                 "owner": "scriptit-fr",
                 "repo": "GenAIApp",
@@ -2000,7 +2000,7 @@
                 "open_issues": 47,
                 "owner": "googleworkspace",
                 "repo": "apps-script-oauth2",
-                "stars": 1758,
+                "stars": 1759,
                 "topics": [
                   "apps-script",
                   "google-apps-script",
@@ -3139,7 +3139,7 @@
                     "language": "JavaScript",
                     "license": "MIT",
                     "last_commit": "2026-03-05T13:56:32Z",
-                    "open_issues": 109,
+                    "open_issues": 111,
                     "owner": "dchester",
                     "repo": "jsonpath",
                     "stars": 1426,
@@ -3175,7 +3175,7 @@
                 "open_issues": 406,
                 "owner": "youtube",
                 "repo": "api-samples",
-                "stars": 6025,
+                "stars": 6026,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:33:22.239Z"
@@ -3434,7 +3434,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T08:58:18.345Z",
+    "last_updated": "2026-11-22T09:03:32.102Z",
     "original_repository_info": {
       "archived": false,
       "description": "The usual list of links to interesting resources for Google Apps Script",
