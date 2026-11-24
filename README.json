@@ -183,7 +183,7 @@
             "language": "TypeScript",
             "license": "Apache-2.0",
             "last_commit": "2026-11-18T19:07:39Z",
-            "open_issues": 62,
+            "open_issues": 61,
             "owner": "google",
             "repo": "clasp",
             "stars": 5917,
@@ -212,7 +212,7 @@
             "open_issues": 51,
             "owner": "leonhartX",
             "repo": "gas-github",
-            "stars": 4674,
+            "stars": 4676,
             "topics": [
               "chrome-extension",
               "diff-dialog",
@@ -2309,7 +2309,7 @@
             "open_issues": 61,
             "owner": "Automattic",
             "repo": "google-docs-add-on",
-            "stars": 169,
+            "stars": 168,
             "topics": [
               "google-apps-script",
               "google-docs",
@@ -2613,7 +2613,7 @@
             "open_issues": 14,
             "owner": "Viber",
             "repo": "build-a-bot-with-zero-coding",
-            "stars": 487,
+            "stars": 486,
             "topics": [
               "chatbot",
               "google-script",
@@ -3175,7 +3175,7 @@
                 "open_issues": 406,
                 "owner": "youtube",
                 "repo": "api-samples",
-                "stars": 6027,
+                "stars": 6028,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:33:22.239Z"
@@ -3434,7 +3434,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T09:59:12.750Z",
+    "last_updated": "2026-11-24T11:48:47.236Z",
     "original_repository_info": {
       "archived": false,
       "description": "The usual list of links to interesting resources for Google Apps Script",
