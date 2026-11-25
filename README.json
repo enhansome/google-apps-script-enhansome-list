@@ -21,7 +21,7 @@
                 "open_issues": 124,
                 "owner": "googleworkspace",
                 "repo": "apps-script-samples",
-                "stars": 5272,
+                "stars": 5273,
                 "topics": [
                   "adminsdk",
                   "apps-script",
@@ -212,7 +212,7 @@
             "open_issues": 51,
             "owner": "leonhartX",
             "repo": "gas-github",
-            "stars": 4676,
+            "stars": 4680,
             "topics": [
               "chrome-extension",
               "diff-dialog",
@@ -2237,7 +2237,7 @@
             "open_issues": 55,
             "owner": "ericyd",
             "repo": "gdrive-copy",
-            "stars": 1576,
+            "stars": 1575,
             "topics": []
           },
           "first_seen": "2026-08-28T13:33:22.239Z"
@@ -2456,8 +2456,8 @@
             "id": 115992957,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2020-05-17T11:28:26Z",
-            "open_issues": 27,
+            "last_commit": "2026-11-25T10:11:41Z",
+            "open_issues": 6,
             "owner": "sajacy",
             "repo": "google-sheets-what-if-analysis",
             "stars": 53,
@@ -3115,7 +3115,7 @@
                     "open_issues": 175,
                     "owner": "bradjasper",
                     "repo": "ImportJSON",
-                    "stars": 2126,
+                    "stars": 2125,
                     "topics": [
                       "cryptocurrencies",
                       "google-sheets",
@@ -3175,7 +3175,7 @@
                 "open_issues": 406,
                 "owner": "youtube",
                 "repo": "api-samples",
-                "stars": 6028,
+                "stars": 6027,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:33:22.239Z"
@@ -3196,7 +3196,7 @@
                 "open_issues": 124,
                 "owner": "googleworkspace",
                 "repo": "apps-script-samples",
-                "stars": 5272,
+                "stars": 5273,
                 "topics": [
                   "adminsdk",
                   "apps-script",
@@ -3228,7 +3228,7 @@
                 "open_issues": 26,
                 "owner": "dwyl",
                 "repo": "learn-to-send-email-via-google-script-html-no-server",
-                "stars": 3206,
+                "stars": 3205,
                 "topics": [
                   "ajax",
                   "email",
@@ -3260,7 +3260,7 @@
                 "open_issues": 175,
                 "owner": "bradjasper",
                 "repo": "ImportJSON",
-                "stars": 2126,
+                "stars": 2125,
                 "topics": [
                   "cryptocurrencies",
                   "google-sheets",
@@ -3434,7 +3434,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T11:48:47.236Z",
+    "last_updated": "2026-11-25T10:41:39.914Z",
     "original_repository_info": {
       "archived": false,
       "description": "The usual list of links to interesting resources for Google Apps Script",
