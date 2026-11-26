@@ -53,7 +53,7 @@
                 "open_issues": 1,
                 "owner": "jc324x",
                 "repo": "google-apps-script-cheat-sheet",
-                "stars": 401,
+                "stars": 402,
                 "topics": [
                   "google-apps-script",
                   "javascript"
@@ -77,7 +77,7 @@
                 "open_issues": 43,
                 "owner": "oshliaer",
                 "repo": "google-apps-script-snippets",
-                "stars": 272,
+                "stars": 273,
                 "topics": [
                   "google-apps-script",
                   "googleappsscript",
@@ -103,7 +103,7 @@
                 "open_issues": 1,
                 "owner": "googlearchive",
                 "repo": "apps-script-templates",
-                "stars": 154,
+                "stars": 155,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:33:22.239Z"
@@ -124,7 +124,7 @@
                 "open_issues": 1,
                 "owner": "ashtonfei",
                 "repo": "google-apps-script-projects",
-                "stars": 152,
+                "stars": 153,
                 "topics": [
                   "addon",
                   "automation",
@@ -165,7 +165,7 @@
             "open_issues": 432,
             "owner": "prasmussen",
             "repo": "gdrive",
-            "stars": 8937,
+            "stars": 8938,
             "topics": []
           },
           "first_seen": "2026-08-28T13:33:22.239Z"
@@ -186,7 +186,7 @@
             "open_issues": 61,
             "owner": "google",
             "repo": "clasp",
-            "stars": 5917,
+            "stars": 5919,
             "topics": [
               "apps-script",
               "cli",
@@ -338,7 +338,7 @@
             "open_issues": 11,
             "owner": "mzagorny",
             "repo": "gas-local",
-            "stars": 94,
+            "stars": 95,
             "topics": []
           },
           "first_seen": "2026-08-28T13:33:22.239Z"
@@ -605,7 +605,7 @@
                 "open_issues": 33,
                 "owner": "enuchi",
                 "repo": "React-Google-Apps-Script",
-                "stars": 1531,
+                "stars": 1532,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:33:22.239Z"
@@ -626,7 +626,7 @@
                 "open_issues": 6,
                 "owner": "labnol",
                 "repo": "apps-script-starter",
-                "stars": 1253,
+                "stars": 1254,
                 "topics": [
                   "gmail",
                   "google-apps-script",
@@ -1680,8 +1680,8 @@
                 "id": 1022965453,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-21T18:14:01Z",
-                "open_issues": 53,
+                "last_commit": "2026-11-25T15:20:26Z",
+                "open_issues": 54,
                 "owner": "bootgs",
                 "repo": "utils",
                 "stars": 31,
@@ -1930,7 +1930,7 @@
                 "open_issues": 6,
                 "owner": "tani",
                 "repo": "cheeriogs",
-                "stars": 491,
+                "stars": 492,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:33:22.239Z"
@@ -2258,7 +2258,7 @@
             "open_issues": 0,
             "owner": "labnol",
             "repo": "unsubscribe-gmail",
-            "stars": 1570,
+            "stars": 1571,
             "topics": [
               "gmail",
               "google-apps-script",
@@ -2410,7 +2410,7 @@
             "open_issues": 0,
             "owner": "labnol",
             "repo": "google-forms",
-            "stars": 92,
+            "stars": 93,
             "topics": [
               "google-apps-script",
               "google-forms",
@@ -3228,7 +3228,7 @@
                 "open_issues": 26,
                 "owner": "dwyl",
                 "repo": "learn-to-send-email-via-google-script-html-no-server",
-                "stars": 3205,
+                "stars": 3206,
                 "topics": [
                   "ajax",
                   "email",
@@ -3377,7 +3377,7 @@
                 "open_issues": 0,
                 "owner": "rudimusmaximus",
                 "repo": "BurningGAS",
-                "stars": 24,
+                "stars": 25,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:33:22.239Z"
@@ -3434,7 +3434,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T10:41:39.914Z",
+    "last_updated": "2026-11-26T10:12:16.064Z",
     "original_repository_info": {
       "archived": false,
       "description": "The usual list of links to interesting resources for Google Apps Script",
