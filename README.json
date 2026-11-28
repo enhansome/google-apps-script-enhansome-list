@@ -53,7 +53,7 @@
                 "open_issues": 1,
                 "owner": "jc324x",
                 "repo": "google-apps-script-cheat-sheet",
-                "stars": 402,
+                "stars": 403,
                 "topics": [
                   "google-apps-script",
                   "javascript"
@@ -186,7 +186,7 @@
             "open_issues": 61,
             "owner": "google",
             "repo": "clasp",
-            "stars": 5919,
+            "stars": 5923,
             "topics": [
               "apps-script",
               "cli",
@@ -622,8 +622,8 @@
                 "id": 137205930,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-11-22T16:27:14Z",
-                "open_issues": 6,
+                "last_commit": "2026-11-28T08:03:16Z",
+                "open_issues": 0,
                 "owner": "labnol",
                 "repo": "apps-script-starter",
                 "stars": 1254,
@@ -2000,7 +2000,7 @@
                 "open_issues": 47,
                 "owner": "googleworkspace",
                 "repo": "apps-script-oauth2",
-                "stars": 1759,
+                "stars": 1760,
                 "topics": [
                   "apps-script",
                   "google-apps-script",
@@ -2254,7 +2254,7 @@
             "id": 6231099,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2025-04-04T06:31:25Z",
+            "last_commit": "2026-11-28T07:49:01Z",
             "open_issues": 0,
             "owner": "labnol",
             "repo": "unsubscribe-gmail",
@@ -2996,7 +2996,7 @@
                     "open_issues": 2,
                     "owner": "benlcollins",
                     "repo": "apps_script_apis",
-                    "stars": 197,
+                    "stars": 198,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T13:33:22.239Z"
@@ -3175,7 +3175,7 @@
                 "open_issues": 406,
                 "owner": "youtube",
                 "repo": "api-samples",
-                "stars": 6026,
+                "stars": 6027,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:33:22.239Z"
@@ -3434,7 +3434,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T10:17:53.251Z",
+    "last_updated": "2026-11-28T09:37:00.410Z",
     "original_repository_info": {
       "archived": false,
       "description": "The usual list of links to interesting resources for Google Apps Script",
